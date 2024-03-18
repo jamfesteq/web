@@ -1,6 +1,6 @@
-# jamfest.web.app
+# jamfesteq.web.app
 
-Source code to jamfest.web.app
+Source code to jamfesteq.web.app
 
 Theme is from https://github.com/64bitpandas/amethyst
 

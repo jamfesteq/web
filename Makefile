@@ -1,5 +1,5 @@
 VERSION ?= 1.0.0
-NAME := jamfest.web.app
+NAME := jamfesteq.web.app
 
 .PHONY: server
 server:
@@ -7,7 +7,7 @@ server:
 .PHONY: build
 build:
 	@#rm -rf public/*
-	@hugo -b https://jamfest.web.app/
+	@hugo -b https://jamfesteq.web.app/
 relogin:
 	firebase logout
 	firebase login
