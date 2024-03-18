@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quests on </title>
+    <link>//localhost:1313/categories/quests/</link>
+    <description>Recent content in Quests on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Feb 2024 01:56:38 -0800</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/quests/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quest # 1</title>
+      <link>//localhost:1313/quests/quest1/</link>
+      <pubDate>Sat, 23 Apr 2016 01:19:18 -0700</pubDate>
+      <guid>//localhost:1313/quests/quest1/</guid>
+      <description>&lt;p&gt;This is just a test page showing a quest&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quest # 2</title>
+      <link>//localhost:1313/quests/quest2/</link>
+      <pubDate>Sat, 23 Apr 2016 01:19:18 -0700</pubDate>
+      <guid>//localhost:1313/quests/quest2/</guid>
+      <description>&lt;p&gt;This is just a test page showing a quest # 2&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

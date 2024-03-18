@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup on </title>
+    <link>http://localhost:1313/tags/setup/</link>
+    <description>Recent content in Setup on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Editing Content</title>
+      <link>http://localhost:1313/examples/setup/editing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/examples/setup/editing/</guid>
+      <description>Editing # Amethyst runs on top of Hugo so all notes are written in Markdown.&#xA;Folder Structure # Here&amp;rsquo;s a rough overview of what&amp;rsquo;s what.&#xA;All notes you want to publish should go in the /content folder. To make edits, you can open any of the files and make changes directly and save it. You can organize content into any subfolder you&amp;rsquo;d like.&#xA;To edit the main home page, open /content/_index.</description>
+    </item>
+    <item>
+      <title>Customization</title>
+      <link>http://localhost:1313/examples/setup/config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/examples/setup/config/</guid>
+      <description>Configuration # Amethyst is designed to be extremely configurable. You can find the bulk of the configuration scattered throughout the repository depending on how in-depth you&amp;rsquo;d like to get.&#xA;The majority of configuration can be found under config.yaml. An example, with descriptions for each setting, can be found here.&#xA;Code Block Titles # To add code block titles with Amethyst:&#xA;Ensure that code block titles are enabled in the configuration:</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zems on </title>
+    <link>http://localhost:1313/zem/</link>
+    <description>Recent content in Zems on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/zem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zone Experience Modifier</title>
+      <link>http://localhost:1313/zem/zem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zem/zem/</guid>
+      <description>Note this is only for the alpha and will change when the DB inject occurs.&#xA;Classic # short long modifier befallen Befallen 2.13 crushbone Crushbone 2.13 guktop The City of Guk 2.00 highkeep High Keep 2.00 soldunga Solusek&amp;rsquo;s Eye 1.73 unrest The Estate of Unrest 1.73 najena Najena 1.73 paw The Lair of the Splitpaw 1.70 akanon Ak&amp;rsquo;Anon 1.33 oggok Oggok 1.33 blackburrow Blackburrow 1.33 qrg The Surefall Glade 1.33 rivervale Rivervale 1.</description>
+    </item>
+  </channel>
+</rss>
