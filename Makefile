@@ -25,3 +25,7 @@ scss:
 .PHONY: spells
 spells:
 	go run scripts/spells/main.go
+
+.PHONY: rule
+rule:
+	go run scripts/rule/main.go

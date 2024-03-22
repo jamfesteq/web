@@ -1,0 +1,5 @@
+rules:
+  - name: Expansion:CurrentExpansion
+    value: "0"
+    ruleset_id: 1
+    notes: The current expansion enabled for the server [-1 = ALL, 0 = Classic, 1 = Kunark etc.]
