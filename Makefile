@@ -29,3 +29,7 @@ spells:
 .PHONY: rule
 rule:
 	go run scripts/rule/main.go
+
+.PHONY: rule-inject
+rule-inject:
+	echo "injecting rules!"
