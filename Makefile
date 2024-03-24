@@ -32,4 +32,5 @@ rule:
 
 .PHONY: rule-inject
 rule-inject:
-	echo "injecting rules!"
+	@git pull
+	@echo "injecting rules!"
