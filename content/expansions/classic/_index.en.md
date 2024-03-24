@@ -1,5 +1,5 @@
 ---
-title: Classic Guide
+title: Classic
 weight: 0
 bookCollapseSection: true
 ---

@@ -1,5 +1,5 @@
 ---
-title: Luclin Guide
+title: Luclin
 weight: 0
 bookCollapseSection: true
 ---
