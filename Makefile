@@ -32,4 +32,4 @@ rule:
 
 .PHONY: rule-inject
 rule-inject:
-	cd .. && ./yakuku inject web/db/rules.sql	
+	cd db && sudo mariadb --database peq -e "source rules.sql"
