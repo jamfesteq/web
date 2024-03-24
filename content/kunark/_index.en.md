@@ -1,8 +1,8 @@
 ---
-title: Luclin Guide
+title: Kunark
 weight: 0
 bookCollapseSection: true
 ---
 
 - Max Level: 60
-- [Vex Thal Key](vt-key.md)
+- [Epics](epics)
