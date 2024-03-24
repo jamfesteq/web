@@ -32,7 +32,6 @@ rule:
 
 .PHONY: rule-inject
 rule-inject:
-	git pull
 	cd .. && ./yakuku sql rule web/data/rule.yaml web/data/rule.sql
-	cd .. && ./yakuku inject data/rule.yaml
+	cd .. && ./yakuku inject web/data/rule.yaml
 	git rm rule.sql
