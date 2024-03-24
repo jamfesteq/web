@@ -32,5 +32,4 @@ rule:
 
 .PHONY: rule-inject
 rule-inject:
-	cd .. && ./yakuku sql rule web/data/rule.yaml web/data/rule.sql
 	cd .. && ./yakuku inject web/data/rule.sql	
