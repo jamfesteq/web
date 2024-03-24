@@ -6,17 +6,17 @@ weight: 1
 
 ### Goals
 
-Jamfest EQ goal is to collect feedback for projects like ProjectEQ and EQEmu. This is done with the `#issue <msg>` command, which you are encouraged to use at every opportunity you find something you believe is odd. Try to avoid duplicate issues, but don't worry about coordinating with others. Volunteers are assisting behind the scenes with triaging issues. Don't expect any of them to immediately be repaired, and if you do find something that is game breaking, please report it to a GM in game.
+Jamfest EQ goal is to collect feedback for projects like ProjectEQ and EQEmu. This is done with the `#issue <msg>` command, which you are encouraged to use in game. Try to avoid duplicating your own issues, but don't worry about coordinating with others. Volunteers are assisting behind the scenes with triaging issues as they come in. Don't expect any of them to immediately be repaired, but if you do find something that is game breaking, please report it to a GM in game.
 
-Jamfest is currently in alpha, and our goal is, instead of changing Jamfest's content db, we change PEQ's db, and trickle it back to jamfest, this means changes we do affect all future servers who base on PEQ.
+Jamfest is currently in alpha, and our goal is instead of changing Jamfest's content db, we change PEQ's db, and trickle it back to jamfest. This means changes we do affect all future servers who base on PEQ.
 
-We also want to discover and attempt to capture expansions not currently handled by the PEQ team, which currently only goes to Dragons of Norrath.
+We also want to discover and capture expansions not currently handled by the PEQ team (who is at DoN). This means aiming up to Rain of Fear.
 
-Due to the sheer volume of content missing in future expansions, we are going to looking at ways on how we can capture the "essence" of future expansions, putting together a "lite edition", that gives players goals and achievements, and adjusting content that is too trivial or too difficult for the expansion's entry.
+Due to the sheer volume of content missing in future expansions, we will be looking at ways to create "lite editions", that gives players goals and achievements in a condensed manner.
 
 ### Features
 
-Many features are intentionally opt in. This is so players can jam in Jamfest EQ the way they want to. The following are some of the features you can opt in to:
+All custom features in jamfest are opt in. This is so players can jam in Jamfest EQ the way they want to. The following are some of the features you can opt in to:
 
 - Opt in to an experience boost of 4x at creation
 - Opt in to different "play modes", such as solo, group, or vanilla. Based on your mode, which is per character, scripts will affect damage incoming and outgoing, as well as healing, to help trivialize up to raid content
