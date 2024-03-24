@@ -25,11 +25,3 @@ scss:
 .PHONY: spells
 spells:
 	go run scripts/spells/main.go
-
-.PHONY: rule
-rule:
-	go run scripts/rule/main.go
-
-.PHONY: rule-inject
-rule-inject:
-	cd db && sudo mariadb --database peq -e "source rules.sql"
