@@ -2,9 +2,16 @@
 title: Luclin
 weight: 3
 bookCollapseSection: false
+description: "Launched in 2001, Luclin is the third EverQuest expansion."
 ---
 
+Launched in 2001, Luclin is the third EverQuest expansion.
+
+## Highlights
+
 - (Since Kunark) Max Level: 60
+- Vah Shir is now a playable race
+- Beastlord is now a playable class
 - [Vex Thal Key](vt-key.md)
 
 

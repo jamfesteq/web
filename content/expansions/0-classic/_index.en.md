@@ -1,7 +1,10 @@
 ---
 title: Classic
 weight: 1
+description: "Launched in 1999, this is the original EverQuest as it was at launch."
 ---
+
+Launched in 1999, this is the original EverQuest as it was at launch.
 
 ## Highlights
 

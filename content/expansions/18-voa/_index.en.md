@@ -2,7 +2,12 @@
 title: Veil of Alaris
 weight: 18
 bookCollapseSection: false
+description: "Launched in 2011, Veil of Alaris is the eighteenth EverQuest expansion."
 ---
+
+Launched in 2011, Veil of Alaris is the eighteenth EverQuest expansion.
+
+## Highlights
 
 - Max Level: 95
 

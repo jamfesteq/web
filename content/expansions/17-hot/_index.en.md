@@ -2,8 +2,12 @@
 title: Houes of Thule
 weight: 17
 bookCollapseSection: false
+description: "Launched in 2010, House of Thule is the seventeenth EverQuest expansion."
 ---
 
+Launched in 2010, House of Thule is the seventeenth EverQuest expansion.
+
+## Highlights
 - Max Level: 90
 
 ## Jamfest Overrides

@@ -2,8 +2,12 @@
 title: Lost Dungeons of Norrath
 weight: 6
 bookCollapseSection: false
+description: "Launched in 2003, Lost Dungeons of Norrath is the sixth EverQuest expansion."
 ---
 
+Launched in 2003, Lost Dungeons of Norrath is the sixth EverQuest expansion.
+
+## Highlights
 - (Since PoP) Max Level: 65
 
 ## Jamfest Overrides

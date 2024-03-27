@@ -2,7 +2,12 @@
 title: Planes of Power
 weight: 4
 bookCollapseSection: false
+description: "Launched in 2002, Planes of Power is the fourth EverQuest expansion."
 ---
+
+Launched in 2002, Planes of Power is the fourth EverQuest expansion.
+
+## Highlights
 
 - Max Level: 65
 

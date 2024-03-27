@@ -2,9 +2,15 @@
 title: The Serpent's Spine
 weight: 12
 bookCollapseSection: false
+description: "Launched in 2006, The Serpent's Spine is the twelfth EverQuest expansion."
 ---
 
+Launched in 2006, The Serpent's Spine is the twelfth EverQuest expansion.
+
+## Highlights
+
 - Max Level: 75
+- Drakkin is now a playable race
 
 ## Jamfest Overrides
 

@@ -2,7 +2,12 @@
 title: Secrets of Feydwer
 weight: 14
 bookCollapseSection: false
+description: "Launched in 2007, Secrets of Faydwer is the fourteenth EverQuest expansion."
 ---
+
+Launched in 2007, Secrets of Faydwer is the fourteenth EverQuest expansion.
+
+## Highlights
 
 - Max Level: 80
 

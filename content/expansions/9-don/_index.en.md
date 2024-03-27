@@ -2,7 +2,12 @@
 title: Dragons of Norrath
 weight: 9
 bookCollapseSection: false
+description: "Launched in 2005, Dragons of Norrath is the ninth EverQuest expansion."
 ---
+
+Launched in 2005, Dragons of Norrath is the ninth EverQuest expansion.
+
+## Highlights
 
 - (Since Omens) Max Level: 70
 

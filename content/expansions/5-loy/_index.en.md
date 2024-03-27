@@ -2,7 +2,12 @@
 title: Legacy of Ykesha
 weight: 5
 bookCollapseSection: false
+description: "Launched in 2003, Legacy of Ykesha is the fifth EverQuest expansion."
 ---
+
+Launched in 2003, Legacy of Ykesha is the fifth EverQuest expansion.
+
+## Highlights
 
 - (Since PoP) Max Level: 65
 

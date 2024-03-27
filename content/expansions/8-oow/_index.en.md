@@ -2,7 +2,12 @@
 title: Omens of War
 weight: 8
 bookCollapseSection: false
+description: "Launched in 2004, Omens of War is the eighth EverQuest expansion."
 ---
+
+Launched in 2004, Omens of War is the eighth EverQuest expansion.
+
+## Highlights
 
 - Max Level: 70
 

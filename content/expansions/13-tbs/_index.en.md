@@ -2,7 +2,12 @@
 title: The Buried Sea
 weight: 13
 bookCollapseSection: false
+description: "Launched in 2007, The Buried Sea is the thirteenth EverQuest expansion."
 ---
+
+Launched in 2007, The Buried Sea is the thirteenth EverQuest expansion.
+
+## Highlights
 
 - (Since Serpent's) Max Level: 75
 

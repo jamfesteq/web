@@ -2,7 +2,12 @@
 title: Underfoot
 weight: 16
 bookCollapseSection: false
+description: "Launched in 2009, Underfoot is the sixteenth EverQuest expansion."
 ---
+
+Launched in 2009, Underfoot is the sixteenth EverQuest expansion.
+
+## Highlights
 
 - (Since Seeds) Max Level: 85
 

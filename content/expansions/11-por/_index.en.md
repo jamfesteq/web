@@ -2,7 +2,12 @@
 title: Prophecy of Ro
 weight: 11
 bookCollapseSection: false
+description: "Launched in 2006, Prophecy of Ro is the eleventh EverQuest expansion."
 ---
+
+Launched in 2006, Prophecy of Ro is the eleventh EverQuest expansion.
+
+## Highlights
 
 - (Since Omens) Max Level: 70
 

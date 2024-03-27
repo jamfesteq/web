@@ -2,7 +2,12 @@
 title: Seeds of Destruction
 weight: 15
 bookCollapseSection: false
+description: "Launched in 2008, Seeds of Destruction is the fifteenth EverQuest expansion."
 ---
+
+Launched in 2008, Seeds of Destruction is the fifteenth EverQuest expansion.
+
+## Highlights
 
 - Max Level: 85
 

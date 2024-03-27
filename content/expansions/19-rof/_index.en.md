@@ -2,7 +2,12 @@
 title: Rain of Fear
 weight: 19
 bookCollapseSection: false
+description: "Launched in 2012, Rain of Fear is the nineteenth EverQuest expansion."
 ---
+
+Launched in 2012, Rain of Fear is the nineteenth EverQuest expansion.
+
+## Highlights
 
 - Max Level: 100
 

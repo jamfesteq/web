@@ -2,8 +2,14 @@
 title: Gates of Discord
 weight: 7
 bookCollapseSection: false
+description: "Launched in 2004, Gates of Discord is the seventh EverQuest expansion."
 ---
+
+Launched in 2004, Gates of Discord is the seventh EverQuest expansion.
+## Highlights
+
 - (Since PoP) Max Level: 65
+- Berserker is now a playable class
 
 ## Jamfest Overrides
 

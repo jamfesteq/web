@@ -2,7 +2,12 @@
 title: Depths of Darkhollow
 weight: 10
 bookCollapseSection: false
+description: "Launched in 2005, Depths of Darkhollow is the tenth EverQuest expansion."
 ---
+
+Launched in 2005, Depths of Darkhollow is the tenth EverQuest expansion.
+
+## Highlights
 
 - (Since Omens) Max Level: 70
 

@@ -2,7 +2,12 @@
 title: Velious
 weight: 2
 bookCollapseSection: false
+description: "Launched in 2000, Velious is the second EverQuest expansion."
 ---
+
+Launched in 2000, Velious is the second EverQuest expansion.
+
+## Highlights
 
 - (Since Kunark) Max Level: 60
 

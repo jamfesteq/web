@@ -2,12 +2,16 @@
 title: Kunark
 weight: 1
 bookCollapseSection: false
+description: "Launched in 2000, Kunark is the first EverQuest expansion."
 ---
+
+Launched in 2000, Kunark is the first EverQuest expansion.
 
 ## Highlights
 
 - Max Level: 60
 - [Epics](epics)
+- Iksar is now a playable race
 
 ## Jamfest Overrides
 
