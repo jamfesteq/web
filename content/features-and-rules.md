@@ -6,9 +6,9 @@ weight: 1
 
 ### Goals
 
-Jamfest EQ goal is to collect feedback for projects like ProjectEQ and EQEmu. This is done with the `#issue <msg>` command, which you are encouraged to use in game. Try to avoid duplicating your own issues, but don't worry about coordinating with others. Volunteers are assisting behind the scenes with triaging issues as they come in. Don't expect any of them to immediately be repaired, but if you do find something that is game breaking, please report it to a GM in game.
+Jamfest EQ goal is to collect feedback for projects like ProjectEQ and EQEmu. This is done with the `/bug` command, which you are encouraged to use in game. Try to avoid duplicating your own issues, and don't worry about coordinating with others. Volunteers are assisting behind the scenes with triaging issues as they come in. Don't expect any of them to immediately be repaired, but if you do find something that is game breaking, please report it to a GM in game. We are going to take all these issues and create a list of things to fix for each external project.
 
-Jamfest is currently in alpha, and our goal is instead of changing Jamfest's content db, we change PEQ's db, and trickle it back to jamfest. This means changes we do affect all future servers who base on PEQ.
+Jamfest is currently in alpha, and our goal is instead of changing Jamfest's content db, we change PEQ's db, and trickle it back to jamfest after PEQ updates. This means changes we do affect all future servers who base on PEQ.
 
 We also want to discover and capture expansions not currently handled by the PEQ team (who is at DoN). This means aiming up to Rain of Fear.
 
