@@ -9,8 +9,10 @@ images: [images/exp.png]
 Experience is complicated. Here's a breakdown of how experience works in Jamfest EQ.
 
 - Experience is based on vanilla PEQ as a base line, I call this 1x
-- ZEM is disabled, HotZoneBonus is 0 (peq default is 0.75)
-- Everyone can #opt in to a 4x exp boost
+- ZEM is disabled (was enabled), HotZoneBonus is 0 (was 0.75), LevelBasedEXPMods is disabled (was enabled)
+- XP con scaling is enabled (default enabled), race/class exp penalties are disabled (default disabled)
+- exp from dmg shield is enabled (default disabled)
+- Everyone can `#opt` in to a 4x exp boost
 
 ### Experience Grouping Level
 
