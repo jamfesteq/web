@@ -1,5 +1,5 @@
 ---
-title: Experience in JamfestEQ
+title: Experience
 description: Experience  in JamfestEQ
 images: [images/exp.png]
 ---
