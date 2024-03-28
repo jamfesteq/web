@@ -20,7 +20,7 @@ Launched in 2006, Prophecy of Ro is the eleventh EverQuest expansion.
 - (Since Classic) Class Penalties are disabled
 - (Since Classic) Race Penalties are disabled
 - (Since Classic) Since Jamfest is not using classic spells, the rez effects use modern one
-- (Since Classic) No classes get EXP bonuses
+- (Since Classic) no classes get EXP bonuses ([learn more about exp values](/exp) )
 - (Since Classic) Return home button is enabled
 
 ## Classic Default

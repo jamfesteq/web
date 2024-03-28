@@ -19,7 +19,7 @@ Launched in 1999, this is the original EverQuest as it was at launch.
 - Class Penalties are disabled
 - Race Penalties are disabled
 - Since Jamfest is not using classic spells, the rez effects use modern one
-- No classes get EXP bonuses
+- no classes get EXP bonuses ([learn more about exp values](/exp) )
 - Return home button is enabled
 
 ## Classic Default
