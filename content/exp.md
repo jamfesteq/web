@@ -13,7 +13,7 @@ Experience is complicated. Here's a breakdown of how experience works in Jamfest
 
 - ZEM is all 1.00 (peq varies this), HotZoneBonus is 0 (was 0.75), LevelBasedEXPMods is disabled (was enabled)
 - XP con scaling is enabled (default enabled), race/class exp penalties are disabled (default disabled)
-- exp from dmg shield is enabled (default disabled)
+- Exp from damage shield kills is enabled (default disabled)
 - Everyone can `#opt 4x` to gain a 4x exp boost
 - If you opt in to `#opt debug_exp`, you can see a breakdown of how much exp you are getting from each source and how the multipliers opted in are affecting it
 
