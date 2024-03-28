@@ -13,6 +13,8 @@ To get started with Jamfest EQ
 - {{<button href="https://github.com/jamfesteq/eqemupatcher/releases/latest/download/jamfesteq.exe">}}Download the Patcher{{</button>}}
 - Place the patcher in your RoF2 directory
 - Run jamfesteq.exe
+- Log in with your EQ Emulator account
+- Select the `Jamfest EQ` server option on server select 
 - Run the patcher each time in the future
 
 ## First Steps
