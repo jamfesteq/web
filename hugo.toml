@@ -7,7 +7,7 @@ theme = "amethyst"
 
 [params]
 title = "jamfest"
-description = "jamfesteq.web.app"
+description = "jamfesteq.com"
 enableFooter = false
 enableGitHubEdit = true
 gitHubLink = "https://github.com/xackery/jamfest"

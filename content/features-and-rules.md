@@ -19,10 +19,6 @@ Due to the sheer volume of content missing in future expansions, we will be look
 Many custom features in jamfest are opt in. This is so players can jam in Jamfest EQ the way they want to. The following are some of the features you can opt in to:
 
 - Opt in to an experience boost of 4x at creation
-- Opt in to different "play modes", such as solo, group, or vanilla. Based on your mode, which is per character, scripts will affect damage incoming and outgoing, as well as healing, to help trivialize up to raid content
-- Opt in to 4x loot drop rate
-- Opt in to autogrant AAs for past expansions
-- Opt in to a "catch up" exp boost, as further expansions release, that increases AA and exp even faster, allowing your friends and alts to catch up to the latest content
 
 Many more features will be added as we go, and we are always open to suggestions via #issue
 
