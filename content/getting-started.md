@@ -7,12 +7,12 @@ weight: 1
 ## Initial Setup
 
 To get started with Jamfest EQ
-- First, {{<button href="#">}}Download the Patcher{{</button>}}
-- You can either:
-  - Create a clean copy of Rof@ EQ and run the patcher inside it
-  - Create an empty folder, and run the patcher to download RoF2 entirely
 - Get an [EQ Emulator account](http://www.eqemulator.org/)
 - [create a login server account](http://www.eqemulator.org/account/?CreateLS)
+- Get a clean copy of EQ RoF2
+- {{<button href="https://github.com/jamfesteq/eqemupatcher/releases/latest/download/jamfesteq.exe">}}Download the Patcher{{</button>}}
+- Place the patcher in your RoF2 directory
+- Run jamfesteq.exe
 - Run the patcher each time in the future
 
 ## First Steps
