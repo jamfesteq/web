@@ -6,6 +6,14 @@ images: [images/exp.png]
 
 ![Experience](images/exp.png)
 
+Experience is complicated. Here's a breakdown of how experience works in Jamfest EQ.
+
+- Experience is based on vanilla PEQ as a base line, I call this 1x
+- ZEM is disabled, HotZoneBonus is 0 (peq default is 0.75)
+- Everyone can #opt in to a 4x exp boost
+
+### Experience Grouping Level
+
 Low|High|Low|High|Low|High|Low|High|Low|High
 ---|---|---|---|---|---|---|---|---|---
 1|6|17|26|33|49|49|75|65|95
