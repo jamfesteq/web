@@ -16,7 +16,7 @@ Due to the sheer volume of content missing in future expansions, we will be look
 
 ### Features
 
-All custom features in jamfest are opt in. This is so players can jam in Jamfest EQ the way they want to. The following are some of the features you can opt in to:
+Many custom features in jamfest are opt in. This is so players can jam in Jamfest EQ the way they want to. The following are some of the features you can opt in to:
 
 - Opt in to an experience boost of 4x at creation
 - Opt in to different "play modes", such as solo, group, or vanilla. Based on your mode, which is per character, scripts will affect damage incoming and outgoing, as well as healing, to help trivialize up to raid content

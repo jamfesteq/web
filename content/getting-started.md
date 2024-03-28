@@ -19,9 +19,7 @@ To get started with Jamfest EQ
 
 Once you create your character, here's a list of commands worth noting:
 
-- `#optin` Typing this command with no arguments will list all possible features you can opt in. Check out [Features and Rules](/features-and-rules) for a more detailed breakdown of each one.
-- `#teleport` If you opt in to "boost mode", this command becomes available and allows you to teleport when out of combat
-- `#rez` Allows you to ressurect yourself if you are in a safe spot
+- `#opt` Typing this command with no arguments will list all possible features you can opt in. Check out [Features and Rules](/features-and-rules) for a more detailed breakdown of each one.
 
 
 ## FAQ
