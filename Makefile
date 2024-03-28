@@ -4,16 +4,20 @@ NAME := jamfesteq.web.app
 .PHONY: server
 server:
 	@hugo server -b http://localhost:1313/
+
 .PHONY: build
 build:
 	@#rm -rf public/*
 	@hugo -b https://jamfesteq.web.app/
+
 relogin:
 	firebase logout
 	firebase login
 	firebase use xackery
+
 deploy: build
 	@firebase deploy
+
 set-version:
 	@echo "VERSION=${VERSION}" >> $$GITHUB_ENV
 
