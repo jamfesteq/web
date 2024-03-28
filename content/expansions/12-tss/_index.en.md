@@ -18,6 +18,7 @@ Launched in 2006, The Serpent's Spine is the twelfth EverQuest expansion.
 - (Since Classic) Server wide OOC is enabled
 - (Since Classic) Server wide Auction is enabled
 - (Since Classic) OOC Regen is enabled
+- (Since Classic) Heal on level up is enabled
 - (Since Classic) Class Penalties are disabled
 - (Since Classic) Race Penalties are disabled
 - (Since Classic) Since Jamfest is not using classic spells, the rez effects use modern one

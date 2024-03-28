@@ -16,6 +16,7 @@ Launched in 1999, this is the original EverQuest as it was at launch.
 - Server wide OOC is enabled
 - Server wide Auction is enabled
 - OOC Regen is enabled
+- Heal on level up is enabled
 - Class Penalties are disabled
 - Race Penalties are disabled
 - Since Jamfest is not using classic spells, the rez effects use modern one
