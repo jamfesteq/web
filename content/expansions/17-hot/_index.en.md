@@ -11,6 +11,7 @@ Launched in 2010, House of Thule is the seventeenth EverQuest expansion.
 - Max Level: 90
 
 {{<details title="Jamfest Rule Overrides">}}
+- Enchanter, Cleric, Shaman, Druids and Wizard guildmasters now do services you would expect for a fee of `(level-10) platinum` (10 and below is free)
 
 - Gear is not left on corpses
 - Server wide OOC is enabled

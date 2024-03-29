@@ -14,6 +14,7 @@ Launched in 2000, Kunark is the first EverQuest expansion.
 - Iksar is now a playable race
 
 {{<details title="Jamfest Rule Overrides">}}
+- Enchanter, Cleric, Shaman, Druids and Wizard guildmasters now do services you would expect for a fee of `(level-10) platinum` (10 and below is free)
 
 - Gear is not left on corpses
 - Server wide OOC is enabled

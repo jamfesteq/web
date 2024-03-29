@@ -12,6 +12,7 @@ Launched in 2007, The Buried Sea is the thirteenth EverQuest expansion.
 - (Since Serpent's) Max Level: 75
 
 {{<details title="Jamfest Rule Overrides">}}
+- Enchanter, Cleric, Shaman, Druids and Wizard guildmasters now do services you would expect for a fee of `(level-10) platinum` (10 and below is free)
 
 - Gear is not left on corpses
 - Server wide OOC is enabled

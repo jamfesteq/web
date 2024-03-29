@@ -12,6 +12,7 @@ Launched in 2012, Rain of Fear is the nineteenth EverQuest expansion.
 - Max Level: 100
 
 {{<details title="Jamfest Rule Overrides">}}
+- Enchanter, Cleric, Shaman, Druids and Wizard guildmasters now do services you would expect for a fee of `(level-10) platinum` (10 and below is free)
 
 - Gear is not left on corpses
 - Server wide OOC is enabled

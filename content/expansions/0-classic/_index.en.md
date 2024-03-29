@@ -11,6 +11,7 @@ Launched in 1999, this is the original EverQuest as it was at launch.
 - Max Level: 50
 
 {{<details title="Jamfest Rule Overrides">}}
+- Enchanter, Cleric, Shaman, Druids and Wizard guildmasters now do services you would expect for a fee of `(level-10) platinum` (10 and below is free)
 - Gear is not left on corpses
 - Server wide OOC is enabled
 - Server wide Auction is enabled
