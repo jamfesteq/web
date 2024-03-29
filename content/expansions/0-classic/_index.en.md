@@ -10,9 +10,8 @@ Launched in 1999, this is the original EverQuest as it was at launch.
 
 - Max Level: 50
 
-## Jamfest Overrides
-
-- Gear is left on corpses
+{{<details title="Jamfest Rule Overrides">}}
+- Gear is not left on corpses
 - Server wide OOC is enabled
 - Server wide Auction is enabled
 - OOC Regen is enabled
@@ -24,8 +23,10 @@ Launched in 1999, this is the original EverQuest as it was at launch.
 - Return home button is enabled
 - Mobs don't flee
 - Spells don't unmem on death
+- Target buffs are sent
+{{</details>}}
 
-## Classic Default
+## Default Rules
 
 - Bards don't have their AE songs nerfed
 - Wizards cannot crit on their nukes

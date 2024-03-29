@@ -11,22 +11,24 @@ Launched in 2009, Underfoot is the sixteenth EverQuest expansion.
 
 - (Since Seeds) Max Level: 85
 
-## Jamfest Overrides
+{{<details title="Jamfest Rule Overrides">}}
 
-- (Since Classic) Gear is left on corpses
-- (Since Classic) Server wide OOC is enabled
-- (Since Classic) Server wide Auction is enabled
-- (Since Classic) OOC Regen is enabled
-- (Since Classic) Heal on level up is enabled
-- (Since Classic) Class Penalties are disabled
-- (Since Classic) Race Penalties are disabled
-- (Since Classic) Since Jamfest is not using classic spells, the rez effects use modern one
-- (Since Classic) no classes get EXP bonuses ([learn more about exp values](/exp) )
-- (Since Classic) Return home button is enabled
-- (Since Classic) Mobs don't flee
-- (Since Classic) Spells don't unmem on death 
+- Gear is not left on corpses
+- Server wide OOC is enabled
+- Server wide Auction is enabled
+- OOC Regen is enabled
+- Heal on level up is enabled
+- Class Penalties are disabled
+- Race Penalties are disabled
+- Since Jamfest is not using classic spells, the rez effects use modern one
+- No classes get EXP bonuses ([learn more about exp values](/exp) )
+- Return home button is enabled
+- Mobs don't flee
+- Spells don't unmem on death
+- Target buffs are sent
+{{</details>}}
 
-## Classic Default
+## Default Rules
 
 - (Since Omens) Bards have their AE songs nerfed
 - (Since Omens) Task system is enabled
