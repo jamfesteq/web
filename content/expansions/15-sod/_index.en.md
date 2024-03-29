@@ -23,6 +23,8 @@ Launched in 2008, Seeds of Destruction is the fifteenth EverQuest expansion.
 - (Since Classic) Since Jamfest is not using classic spells, the rez effects use modern one
 - (Since Classic) no classes get EXP bonuses ([learn more about exp values](/exp) )
 - (Since Classic) Return home button is enabled
+- (Since Classic) Mobs don't flee
+- (Since Classic) Spells don't unmem on death 
 
 ## Classic Default
 

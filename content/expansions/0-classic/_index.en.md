@@ -22,6 +22,8 @@ Launched in 1999, this is the original EverQuest as it was at launch.
 - Since Jamfest is not using classic spells, the rez effects use modern one
 - no classes get EXP bonuses ([learn more about exp values](/exp) )
 - Return home button is enabled
+- Mobs don't flee
+- Spells don't unmem on death
 
 ## Classic Default
 
