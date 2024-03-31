@@ -21,7 +21,14 @@ To get started with Jamfest EQ
 
 Once you create your character, here's a list of commands worth noting:
 
-- `#opt` Typing this command with no arguments will list all possible features you can opt in. Check out [Features and Rules](/features-and-rules) for a more detailed breakdown of each one.
+- `#opt` by itself will give saylinks of each option, and it's current status
+- `#opt 4x` gives a 4x boost to EXP
+- `#opt exp_debug` enables a message of how your EXP multipliers are applied
+- `#opt mighty` gives a boost to your outgoing damage, and reduces incoming.   
+    - vs normal mobs, 2x dmg, 0.5x dmg taken
+    - vs raid mobs, 6x dmg, 0.16x dmg taken
+- `#opt mighty_debug` enables a message of how your mighty multipliers are being applied
+- `#opt catchup` gives a additive 10x boost that curves up to 38x at level 50+  
 
 
 ## FAQ

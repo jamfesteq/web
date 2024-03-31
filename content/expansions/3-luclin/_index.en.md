@@ -31,6 +31,7 @@ Launched in 2001, Luclin is the third EverQuest expansion.
 - Mobs don't flee
 - Spells don't unmem on death
 - Target buffs are sent
+- Mobs no longer push
 {{</details>}}
 
 ## Default Rules

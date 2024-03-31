@@ -28,6 +28,7 @@ Launched in 2006, The Serpent's Spine is the twelfth EverQuest expansion.
 - Mobs don't flee
 - Spells don't unmem on death
 - Target buffs are sent
+- Mobs no longer push
 {{</details>}}
 
 ## Default Rules

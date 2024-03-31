@@ -28,6 +28,7 @@ Launched in 2003, Legacy of Ykesha is the fifth EverQuest expansion.
 - Mobs don't flee
 - Spells don't unmem on death
 - Target buffs are sent
+- Mobs no longer push
 {{</details>}}
 
 ## Default Rules

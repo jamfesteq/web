@@ -27,6 +27,7 @@ Launched in 2008, Seeds of Destruction is the fifteenth EverQuest expansion.
 - Mobs don't flee
 - Spells don't unmem on death
 - Target buffs are sent
+- Mobs no longer push
 {{</details>}}
 
 ## Default Rules

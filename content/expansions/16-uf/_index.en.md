@@ -27,6 +27,7 @@ Launched in 2009, Underfoot is the sixteenth EverQuest expansion.
 - Mobs don't flee
 - Spells don't unmem on death
 - Target buffs are sent
+- Mobs no longer push
 {{</details>}}
 
 ## Default Rules

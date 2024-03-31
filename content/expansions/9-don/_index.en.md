@@ -27,6 +27,7 @@ Launched in 2005, Dragons of Norrath is the ninth EverQuest expansion.
 - Mobs don't flee
 - Spells don't unmem on death
 - Target buffs are sent
+- Mobs no longer push
 {{</details>}}
 
 ## Default Rules

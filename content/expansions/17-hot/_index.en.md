@@ -26,6 +26,7 @@ Launched in 2010, House of Thule is the seventeenth EverQuest expansion.
 - Mobs don't flee
 - Spells don't unmem on death
 - Target buffs are sent
+- Mobs no longer push
 {{</details>}}
 
 ## Default Rules

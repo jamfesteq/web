@@ -27,6 +27,7 @@ Launched in 2011, Veil of Alaris is the eighteenth EverQuest expansion.
 - Mobs don't flee
 - Spells don't unmem on death
 - Target buffs are sent
+- Mobs no longer push
 {{</details>}}
 
 ## Default Rules

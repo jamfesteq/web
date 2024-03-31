@@ -26,6 +26,7 @@ Launched in 2006, Prophecy of Ro is the eleventh EverQuest expansion.
 - Mobs don't flee
 - Spells don't unmem on death
 - Target buffs are sent
+- Mobs no longer push
 {{</details>}}
 ## Default Rules
 
