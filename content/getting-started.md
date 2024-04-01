@@ -28,7 +28,7 @@ Once you create your character, here's a list of commands worth noting:
     - vs normal mobs, 2x dmg, 0.5x dmg taken
     - vs raid mobs, 6x dmg, 0.16x dmg taken
 - `#opt mighty_debug` enables a message of how your mighty multipliers are being applied
-- `#opt catchup` gives a additive 10x boost that curves up to 38x at level 50+  
+- `#opt catchup` gives a additive 10x boost that curves up to 38x, currently stops at level 51
 
 
 ## FAQ
