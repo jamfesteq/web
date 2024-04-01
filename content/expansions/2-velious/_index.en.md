@@ -10,6 +10,7 @@ Launched in 2000, Velious is the second EverQuest expansion.
 ## Highlights
 
 - (Since Kunark) Max Level: 60
+- [Coldain Ring](coldain-ring.md)
 
 {{<details title="Jamfest Rule Overrides">}}
 - Enchanter, Cleric, Shaman, Druids and Wizard guildmasters now do services you would expect for a fee of `(level-10) platinum` (10 and below is free)

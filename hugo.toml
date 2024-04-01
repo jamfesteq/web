@@ -4,7 +4,13 @@ disablePathToLower = true
 enableGitInfo = true
 theme = "amethyst"
 
+[markup]
+defaultMarkdownHandler = "goldmark"
 
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
+  
 [params]
 title = "jamfest"
 description = "jamfesteq.com"
