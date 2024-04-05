@@ -9,6 +9,7 @@ Launched in 1999, this is the original EverQuest as it was at launch.
 ## Highlights
 
 - Max Level: 50
+- [Planar Armor](planar.md)
 
 {{<details title="Jamfest Rule Overrides">}}
 - Enchanter, Cleric, Shaman, Druids and Wizard guildmasters now do services you would expect for a fee of `(level-10) platinum` (10 and below is free)
