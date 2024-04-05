@@ -7,23 +7,23 @@ bookToC: false
 
 Class|Zone|Mobs
 ---|---|---
-DRU|gorgon, disciple of innoruuk|fear
-MNK|shiverback|fear
-NEC|boogymen|fear
-PAL|fetid fiend, photoplasm, knight of innoruuk|fear
-RNG|tentacle, agent of innoruuk|fear
-SHD|amygladan|fear
-WIZ|frightfinger|fear
-BRD|scorn banshee, thought destroyer|hate
-CLR|cleric|hate
-ENC|revenant|hate
-MAG|revenant|hate
-ROG|abhorrant|hate
-SHM|spite golem|hate
-WAR|kiraikuei, repulsive rat|hate
-SHD|(iksar) nightmare|hate
-SHM|(iksar) spite golem|hate
-WAR|(iksar) repulsive rat|hate
+DRU|fear|gorgon, disciple of innoruuk
+MNK|fear|shiverback
+NEC|fear|boogymen
+PAL|fear|fetid fiend, photoplasm, knight of innoruuk
+RNG|fear|tentacle, agent of innoruuk
+SHD|fear|amygladan
+WIZ|fear|frightfinger
+BRD|hate|scorn banshee, thought destroyer
+CLR|hate|cleric
+ENC|hate|revenant
+MAG|hate|revenant
+ROG|hate|abhorrant
+SHM|hate|spite golem
+WAR|hate|kiraikuei, repulsive rat
+SHD|hate|(iksar) nightmare
+SHM|hate|(iksar) spite golem
+WAR|hate|(iksar) repulsive rat
 
 
 
