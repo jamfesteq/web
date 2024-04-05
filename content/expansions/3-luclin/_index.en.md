@@ -13,6 +13,7 @@ Launched in 2001, Luclin is the third EverQuest expansion.
 - Vah Shir is now a playable race
 - Beastlord is now a playable class
 - [Vex Thal Key](vt-key.md)
+- [Umbral Armor](umbral.md)
 
 
 {{<details title="Jamfest Rule Overrides">}}
