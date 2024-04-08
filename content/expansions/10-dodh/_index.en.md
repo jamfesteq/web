@@ -10,6 +10,7 @@ Launched in 2005, Depths of Darkhollow is the tenth EverQuest expansion.
 ## Highlights
 
 - (Since Omens) Max Level: 70
+- [Hunter](hunter)
 
 {{<details title="Jamfest Rule Overrides">}}
 - Enchanter, Cleric, Shaman, Druids and Wizard guildmasters now do services you would expect for a fee of `(level-10) platinum` (10 and below is free)
