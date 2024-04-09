@@ -7,6 +7,8 @@ description: "Launched in 2006, Prophecy of Ro is the eleventh EverQuest expansi
 
 Launched in 2006, Prophecy of Ro is the eleventh EverQuest expansion.
 
+To access Arcstone, go to West Freeport. Enter the Mage's area, the Spire, and take the portal in the center, then keep going up the spiral ramp. At the top is the portal to Arcstone.
+
 ## Highlights
 
 - (Since Omens) Max Level: 70
