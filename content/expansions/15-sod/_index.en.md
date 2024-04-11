@@ -10,6 +10,8 @@ Launched in 2008, Seeds of Destruction is the fifteenth EverQuest expansion.
 ## Highlights
 
 - Max Level: 85
+- [Group Progression](group.md)
+- [Raid Progression](raid.md)
 
 {{<details title="Jamfest Rule Overrides">}}
 - Enchanter, Cleric, Shaman, Druids and Wizard guildmasters now do services you would expect for a fee of `(level-10) platinum` (10 and below is free)

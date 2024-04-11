@@ -12,6 +12,8 @@ Launched in 2000, Kunark is the first EverQuest expansion.
 - Max Level: 60
 - [Epics](epics)
 - Iksar is now a playable race
+- [Group Progression](group.md)
+- [Raid Progression](raid.md)
 
 {{<details title="Jamfest Rule Overrides">}}
 - Enchanter, Cleric, Shaman, Druids and Wizard guildmasters now do services you would expect for a fee of `(level-10) platinum` (10 and below is free)

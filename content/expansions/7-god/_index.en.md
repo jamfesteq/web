@@ -10,6 +10,8 @@ Launched in 2004, Gates of Discord is the seventh EverQuest expansion.
 
 - (Since PoP) Max Level: 65
 - Berserker is now a playable class
+- [Group Progression](group.md)
+- [Raid Progression](raid.md)
 
 {{<details title="Jamfest Rule Overrides">}}
 - Enchanter, Cleric, Shaman, Druids and Wizard guildmasters now do services you would expect for a fee of `(level-10) platinum` (10 and below is free)

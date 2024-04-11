@@ -8,7 +8,10 @@ description: "Launched in 2010, House of Thule is the seventeenth EverQuest expa
 Launched in 2010, House of Thule is the seventeenth EverQuest expansion.
 
 ## Highlights
+
 - Max Level: 90
+- [Group Progression](group.md)
+- [Raid Progression](raid.md)
 
 {{<details title="Jamfest Rule Overrides">}}
 - Enchanter, Cleric, Shaman, Druids and Wizard guildmasters now do services you would expect for a fee of `(level-10) platinum` (10 and below is free)

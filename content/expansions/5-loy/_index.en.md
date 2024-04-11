@@ -10,6 +10,8 @@ Launched in 2003, Legacy of Ykesha is the fifth EverQuest expansion.
 ## Highlights
 
 - (Since PoP) Max Level: 65
+- [Group Progression](group.md)
+- [Raid Progression](raid.md)
 
 
 {{<details title="Jamfest Rule Overrides">}}

@@ -14,6 +14,8 @@ Launched in 2001, Luclin is the third EverQuest expansion.
 - Beastlord is now a playable class
 - [Vex Thal Key](vt-key.md)
 - [Umbral Armor](umbral.md)
+- [Group Progression](group.md)
+- [Raid Progression](raid.md)
 
 
 {{<details title="Jamfest Rule Overrides">}}

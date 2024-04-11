@@ -13,6 +13,8 @@ To access Arcstone, go to West Freeport. Enter the Mage's area, the Spire, and t
 
 - (Since Omens) Max Level: 70
 - [Hunter](hunter)
+- [Group Progression](group.md)
+- [Raid Progression](raid.md)
 
 
 {{<details title="Jamfest Rule Overrides">}}

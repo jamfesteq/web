@@ -10,6 +10,8 @@ Launched in 2011, Veil of Alaris is the eighteenth EverQuest expansion.
 ## Highlights
 
 - Max Level: 95
+- [Group Progression](group.md)
+- [Raid Progression](raid.md)
 
 {{<details title="Jamfest Rule Overrides">}}
 - Enchanter, Cleric, Shaman, Druids and Wizard guildmasters now do services you would expect for a fee of `(level-10) platinum` (10 and below is free)
