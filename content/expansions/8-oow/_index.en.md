@@ -11,8 +11,8 @@ Launched in 2004, Omens of War is the eighth EverQuest expansion.
 
 - Max Level: 70
 - Progression via one of two paths, good or evil:
-  - [Norrath's Keepers (Good)](norraths-keeper.md)
-  - [Dark Reign (Evil)](dark-reign.md)
+  - [Norrath's Keepers - Good](norraths-keeper.md)
+  - [Dark Reign - Evil](dark-reign.md)
 <!--- [Group Progression](group.md) --->
 <!--- [Raid Progression](raid.md) --->
 - Completion of Progression Tiers results in character rewards per tier:
