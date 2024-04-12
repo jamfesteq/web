@@ -21,13 +21,13 @@ bookToC: true
   - It requires a minimum of 3 players to request a group mission (mercenaries count!). There is a limit on how big the group level range can be (maybe +/- 15? This is a guess).
   - You’ll also receive  Ebon Crystals for completing Group Missions. These are used as currency at Xeib Darkskies (Dark Reign Mechant). They can be found on the top right of your main Inventory Window.
   - Recommended Group Tasks:
-    – Grounding the Drakes
+    - Grounding the Drakes
       - Issue #129 - "Drake Fangs" not currently dropping. Same graphic item, "Drake Claw", drops but doesn't count
     – Lavaspinner's Locals
 
 Both options are pretty easy. If you are doing faction on 3+ characters at once you’re probably better off with the group missions. If you are doing faction on only 1 or 2 players you’ll want to consider the solo tasks. Remember  Ebon Crystals is an added bonus for doing the Group Missions.
 
-Once you are Indifferent faction you can move onto Tier 1.
+### Once you are Indifferent faction you can move onto Tier 1.
 
 
 # Tier 1:
