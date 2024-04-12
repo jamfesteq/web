@@ -175,6 +175,7 @@ Once you have Kindly faction Hail Commander Zaerr Ty`Dar in Lavstorm Mountains t
 ## Step 3
 Next are two raids from Captain Aleeth Zyrv in Lavastorm Mountains. 
 - Goblin Dojo (24 Player)
+  - Issue 179 -- Raid will not initiate until at least six PCs in zone - not solo friendly
 - Guardian of the Sands (42 Player)
 - You’ll need a minimum of 6 players to request them. You can use offline characters if needed. Goblin Dojo (24 Player) will need 6 real characters inside the raid to begin the event.
 
