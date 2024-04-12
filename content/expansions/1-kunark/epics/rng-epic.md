@@ -125,3 +125,5 @@ Go to Plane of Hate and loot Shattered Emerald of Corruption. I got mine from Ma
 
 # Step 22 – Earthcaller
 Go to North Karana and find Xanuusus (+1340, +500). Give him Shattered Emerald of Corruption and Refined Mithril Blade to receive Earthcaller!
+
+Sourced from: https://www.eqprogression.com/ranger-1-0-epic-quest/
