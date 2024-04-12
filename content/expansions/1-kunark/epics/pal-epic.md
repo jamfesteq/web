@@ -5,9 +5,9 @@ bookHidden: true
 ### Checklist
 
 ## Required quests before starting include (in order):
-- SoulFire
-- Ghoulbane
-- Fiery Avenger
+- [SoulFire](soulfire)
+- [Ghoulbane](ghoulbane)
+- [Fiery Avenger](fiery)
 
 ## ** You must have Fiery Avenger before starting the Fiery Defender quest ** 
 
