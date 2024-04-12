@@ -148,3 +148,5 @@ You will receive   Lhranc’s Token and a human form of Lhranc will spawn. Hail 
 This guy doesn’t mess around, so bring a raid in era. He hits Hard. He is still relatively hard even in PoP era so bring a few friends to help. He procs a 500 point lifetap but doesn’t have a ton of HP (32K?). He also runs at low HP. Consider this a raid boss. Once dead, Marl Kastane will spawn just outside Lhranc’s room. 
 
 Give Marl Kastane  Lhranc’s Token to receive Innoruuk’s Curse! 
+
+Sourced from: https://www.eqprogression.com/shadow-knight-1-0-epic-quest/
