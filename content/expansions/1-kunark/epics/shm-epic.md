@@ -111,3 +111,5 @@ Go to City of Mist for the last time! You will need a lock pick again if you don
 
 # Step 18
 Go back to Spirit Sentinel in the lake in Emerald Jungle. Give him Iksar Scale to receive Spear of Fate! You’ll lose all your faction gained upon Epic completion.
+
+Sourced from: https://www.eqprogression.com/shaman-1-0-epic-quest/
