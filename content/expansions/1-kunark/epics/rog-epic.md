@@ -101,3 +101,5 @@ Give him:
 - General’s Pouch
 - Jagged Diamond Dagger
 to receive your 1.0 Epic: Ragebringer!
+
+Sourced from: https://www.eqprogression.com/rogue-1-0-epic-quest/
