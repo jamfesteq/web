@@ -1,5 +1,5 @@
 ---
-title: Scythe of the Shadowed Soul
+title: Scythe of the Shadowed Soul (Necromancer Epic)
 bookHidden: true
 ---
 ### Checklist
