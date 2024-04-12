@@ -16,10 +16,10 @@ bookToC: true
     – Spider's Web
     – Meat for Stew
     – Taunting the Brood
-- For Group Missions:
- – You can request these starting at Apprehensive. Everyone in the group will receive   1x Norrath’s Keepers Token, which can be given to Tatsujiro the Serene (Norrath’s Keepers Merchant) in the Norrath’s Keepers Camp in the tunnels to receive faction. These are LORE, so make sure you turn them in before doing another mission!!
-  – It requires a minimum of 3 players to request a group mission (mercenaries count!). There is a limit on how big the group level range can be (maybe +/- 15? This is a guess).
-– You’ll also receive  Radiant Crystals for completing Group Missions. These are used as currency at Tatsujiro the Serene (Norrath’s Keepers Merchant). They can be found on the top right of your main Inventory Window.
+- For Group Missions
+  - You can request these starting at Apprehensive. Everyone in the group will receive   1x Norrath’s Keepers Token, which can be given to Tatsujiro the Serene (Norrath’s Keepers Merchant) in the Norrath’s Keepers Camp in the tunnels to receive faction. These are LORE, so make sure you turn them in before doing another mission!!
+  - It requires a minimum of 3 players to request a group mission (mercenaries count!). There is a limit on how big the group level range can be (maybe +/- 15? This is a guess).
+- You’ll also receive  Radiant Crystals for completing Group Missions. These are used as currency at Tatsujiro the Serene (Norrath’s Keepers Merchant). They can be found on the top right of your main Inventory Window.
   – Recommended Group Tasks:
     – Grounding the Drakes
       - Issue #129 - "Drake Fangs" not currently dropping. Same graphic item, "Drake Claw", drops but doesn't count
