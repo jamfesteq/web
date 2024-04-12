@@ -230,4 +230,6 @@ NOTE: Don’t forget to turn in your Dark Reign Token to Xeib Darkskies (Dark Re
 ## Step 7
 Give Shadowscale of Vishimtar to Commander Zaerr Ty`Dar in Lavastorm Mountains. Dark Reign Progression Complete! Hail him and follow his dialogue to receive all remaining flags.
 
+Sourced from: https://www.eqprogression.com/dark-reign-progression-guide-dragons-of-norrath/
+
 ### Tier 5 Reward: +1% chance to resist spells
