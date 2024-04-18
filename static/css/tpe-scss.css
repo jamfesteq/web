@@ -880,6 +880,70 @@ div#datatable-buttons_info {
   speak: none;
   text-transform: none; }
 
+.item-description {
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+  color: white;
+  font-size: 12px;
+  background-color: #192733;
+  padding: none; }
+  .item-description .user-select-none {
+    user-select: none; }
+
+.spell-description {
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+  color: white;
+  font-size: 12px;
+  background-color: #192733;
+  padding: none; }
+  .spell-description .user-select-none {
+    user-select: none; }
+
+.item-description table {
+  font-family: arial, helvetica;
+  font-weight: normal;
+  font-size: 12px;
+  text-align: inherit;
+  vertical-align: top;
+  border: none;
+  overflow: unset;
+  margin: 0px; }
+
+.item-description table th {
+  background-color: #192733;
+  border: none; }
+
+.item-description table tr th {
+  background-color: #192733;
+  color: white;
+  font-weight: normal;
+  text-align: left; }
+
+.item-description table tr td {
+  background-color: #192733;
+  color: white;
+  font-weight: normal;
+  padding: 0px;
+  text-align: left;
+  overflow: none; }
+
+.item-description table td {
+  background-color: #192733;
+  color: white;
+  padding: 0px; }
+
+.item-description table tr:nth-child(odd) {
+  background-color: #192733; }
+
+.item-description table tr:nth-child(even) {
+  background-color: #192733; }
+
+.item-description table tr:hover {
+  background-color: #192733; }
+
 /* FONT PATH
  * -------------------------- */
 @font-face {
@@ -899,6 +963,70 @@ div#datatable-buttons_info {
   line-height: 1;
   speak: none;
   text-transform: none; }
+
+.item-description {
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+  color: white;
+  font-size: 12px;
+  background-color: #192733;
+  padding: none; }
+  .item-description .user-select-none {
+    user-select: none; }
+
+.spell-description {
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+  color: white;
+  font-size: 12px;
+  background-color: #192733;
+  padding: none; }
+  .spell-description .user-select-none {
+    user-select: none; }
+
+.item-description table {
+  font-family: arial, helvetica;
+  font-weight: normal;
+  font-size: 12px;
+  text-align: inherit;
+  vertical-align: top;
+  border: none;
+  overflow: unset;
+  margin: 0px; }
+
+.item-description table th {
+  background-color: #192733;
+  border: none; }
+
+.item-description table tr th {
+  background-color: #192733;
+  color: white;
+  font-weight: normal;
+  text-align: left; }
+
+.item-description table tr td {
+  background-color: #192733;
+  color: white;
+  font-weight: normal;
+  padding: 0px;
+  text-align: left;
+  overflow: none; }
+
+.item-description table td {
+  background-color: #192733;
+  color: white;
+  padding: 0px; }
+
+.item-description table tr:nth-child(odd) {
+  background-color: #192733; }
+
+.item-description table tr:nth-child(even) {
+  background-color: #192733; }
+
+.item-description table tr:hover {
+  background-color: #192733; }
 
 /* makes the font 33% larger relative to the icon container */
 .xa-lg {

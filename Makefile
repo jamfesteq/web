@@ -1,14 +1,14 @@
 VERSION ?= 1.0.0
-NAME := jamfesteq.web.app
+NAME := jamfesteq.com
 
 .PHONY: server
 server:
-	@hugo server -b http://localhost:1313/
+	@hugo server -b http://localhost:1313/ --noHTTPCache
 
 .PHONY: build
 build:
 	@#rm -rf public/*
-	@hugo -b https://jamfesteq.web.app/
+	@hugo -b https://jamfesteq.com/
 
 relogin:
 	firebase logout

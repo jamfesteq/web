@@ -9,7 +9,7 @@ description: Cleric Spells.
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---
-Courage|1|Classic|Bazaar|Likka Sowtsui
+{{<spell id="202" name="Courage">}}|1|Classic|Bazaar|Likka Sowtsui
 Cure Poison|1|Classic|Bazaar|Tokun
 Divine Aura|1|Classic|Bazaar|Likka Sowtsui
 Flash of Light|1|Classic|Bazaar|Likka Sowtsui
