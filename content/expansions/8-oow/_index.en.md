@@ -10,8 +10,23 @@ Launched in 2004, Omens of War is the eighth EverQuest expansion.
 ## Highlights
 
 - Max Level: 70
-- [Group Progression](group.md)
-- [Raid Progression](raid.md)
+- Progression via one of two paths, good or evil:
+  - [Norrath's Keepers - Good](norraths-keeper.md)
+  - [Dark Reign - Evil](dark-reign.md)
+<!--- [Group Progression](group.md) --->
+<!--- [Raid Progression](raid.md) --->
+- Completion of Progression Tiers results in character rewards per tier:
+  - Tier 1: Indifferent
+    - Reward: AA Passive: +10 Max All Stats (Adds to cap and base!)
+  - Tier 2: Amiable
+    - Reward: +3% Base HP, +200  Max Mana/Endurance. Also receive a Level 69 Spell/Tome.
+  - Tier 3: High Amiable
+    - Reward: +1 to Maximum Buff Slot limit
+  - Tier 4: Kindly
+    - Reward: Increased chance of melee critical +40%. Increase chance of spell critical +1%.
+  - Tier 5: Warmly
+    - Reward: +1% chance to resist Detrimental spells
+
 
 {{<details title="Jamfest Rule Overrides">}}
 - Enchanter, Cleric, Shaman, Druids and Wizard guildmasters now do services you would expect for a fee of `(level-10) platinum` (10 and below is free)
