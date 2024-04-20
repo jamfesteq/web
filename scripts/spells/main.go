@@ -134,7 +134,7 @@ func run() error {
 			if spellBest == nil {
 				spellBest = spell
 			}
-			if spell.SpellLevel > 70 {
+			if spell.SpellLevel > 100 {
 				continue
 			}
 

@@ -307,3 +307,172 @@ Name|Lvl|Era|Zone|NPC
 {{<spell id="5416" name="Spiritual Serenity">}}|70|PoP|Plane of Knowledge|Mystic Pikor
 {{<spell id="5409" name="Talisman of Might">}}|70|PoP|Plane of Knowledge|Mystic Pikor
 {{<spell id="5415" name="Talisman of Wunshi">}}|70|PoP|Plane of Knowledge|Mystic Pikor
+{{<spell id="5400" name="Vindictive Spirit">}}|70|PoP|Plane of Knowledge|Mystic Pikor
+{{<spell id="9962" name="Ahnkaul's Spear of Venom">}}|71|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="9993" name="Breath of Ternsmochin">}}|71|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="9959" name="Preternatural Foresight">}}|71|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="9968" name="Spirit of the Stoic One">}}|71|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="10026" name="Talisman of Persistence">}}|71|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10027" name="Talisman of Persistence Rk. II">}}|71|Unknown|Katta Castrum|Trader Othena
+{{<spell id="10028" name="Talisman of Persistence Rk. III">}}|71|Unknown|Katta Castrum|Master Patales
+{{<spell id="9974" name="Talisman of the Panther">}}|71|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="9700" name="Cure Corruption">}}|72|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="9999" name="Feralize">}}|72|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="9983" name="Kyrah's Faithful">}}|72|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="11782" name="Lassitude">}}|72|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11783" name="Lassitude Rk. II">}}|72|Unknown|Katta Castrum|Trader Othena
+{{<spell id="11784" name="Lassitude Rk. III">}}|72|Unknown|Katta Castrum|Master Patales
+{{<spell id="9980" name="Malosinise">}}|72|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="10047" name="Tortugone's Drowse">}}|72|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="10002" name="Ahnkaul's Mending">}}|73|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="10014" name="Ancestral Bargain">}}|73|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="10005" name="Dire Focusing">}}|73|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="11773" name="Fulkitcher Weave">}}|73|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11774" name="Fulkitcher Weave Rk. II">}}|73|Unknown|Katta Castrum|Trader Othena
+{{<spell id="11775" name="Fulkitcher Weave Rk. III">}}|73|Unknown|Katta Castrum|Master Patales
+{{<spell id="10059" name="Halcyon Breeze">}}|73|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="10017" name="Sting of the Queen">}}|73|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="9920" name="Chant of the Napaea">}}|74|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="10032" name="Glacial Avalanche">}}|74|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="10038" name="Juju">}}|74|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="11776" name="Nectar of Agony">}}|74|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11777" name="Nectar of Agony Rk. II">}}|74|Unknown|Katta Castrum|Trader Othena
+{{<spell id="11778" name="Nectar of Agony Rk. III">}}|74|Unknown|Katta Castrum|Master Patales
+{{<spell id="10011" name="Talisman of Foresight">}}|74|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="10029" name="Talisman of the Stoic One">}}|74|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="10068" name="Malis">}}|75|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="9947" name="Second Life">}}|75|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="11779" name="Specter of Renewal">}}|75|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11780" name="Specter of Renewal Rk. II">}}|75|Unknown|Katta Castrum|Trader Othena
+{{<spell id="11781" name="Specter of Renewal Rk. III">}}|75|Unknown|Katta Castrum|Master Patales
+{{<spell id="10056" name="Talisman of the Dire">}}|75|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="10053" name="Vengeance of Ahnkaul">}}|75|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="10044" name="Wishka's Favor">}}|75|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="15253" name="Breath of Big Bynn">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15235" name="Spirit of the Stalwart">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15265" name="Spirit of Vehemence">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15238" name="Talisman of the Cougar">}}|76|PoP|Plane of Knowledge|Mystic Somas
+{{<spell id="15239" name="Talisman of the Cougar Rk. II">}}|76|Unknown|Loping Plains|Derak Fangbreaker
+{{<spell id="15240" name="Talisman of the Cougar Rk. III">}}|76|Unknown|Loping Plains|Brett of the Watch
+{{<spell id="15277" name="Talisman of Vehemence">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15232" name="Vestax's Spear of Venom">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15256" name="Feralisis">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="15323" name="Languor">}}|77|PoP|Plane of Knowledge|Mystic Somas
+{{<spell id="15324" name="Languor Rk. II">}}|77|Unknown|Dragonscale Hills|Tonas
+{{<spell id="14659" name="Malosinatia">}}|77|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15295" name="Rolist's Drowse">}}|77|PoP|Plane of Knowledge|Mystic Somas
+{{<spell id="15296" name="Rolist's Drowse Rk. II">}}|77|Unknown|The Steam Factory|Karri
+{{<spell id="15297" name="Rolist's Drowse Rk. III">}}|77|Unknown|The Steam Factory|Little Bo
+{{<spell id="15250" name="Vegu's Faithful">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="15271" name="Ancestral Hearkening">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="15342" name="Ancestral Intervention">}}|78|PoP|Plane of Knowledge|Mystic Somas
+{{<spell id="15343" name="Ancestral Intervention Rk. II">}}|78|Unknown|Hills of Shade|Hardrin
+{{<spell id="15274" name="Bite of the Brownie">}}|78|PoP|Plane of Knowledge|Mystic Somas
+{{<spell id="15275" name="Bite of the Brownie Rk. II">}}|78|Unknown|The Steam Factory|Karri
+{{<spell id="15276" name="Bite of the Brownie Rk. III">}}|78|Unknown|The Steam Factory|Little Bo
+{{<spell id="15262" name="Bloodworg Focusing">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="15259" name="Gemmi's Mending">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="15307" name="Halcyon Zephyr">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14427" name="Chant of the Darkvine">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="15317" name="Nectar of Rancor">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="15286" name="Pocus">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="15280" name="Talisman of the Stalwart">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="15283" name="Tundra Crumble">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="15301" name="Blood of Kerafyrm">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14451" name="Preincarnation">}}|80|PoP|Plane of Knowledge|Mystic Somas
+{{<spell id="15320" name="Shade of Renewal">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="15304" name="Talisman of the Bloodworg">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="15333" name="Thorn Wilting">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="15336" name="Ward of Resurgence">}}|80|PoP|Plane of Knowledge|Mystic Somas
+{{<spell id="19415" name="Breath of Queen Malarian">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19394" name="Severilous' Spear of Venom">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19397" name="Spirit of the Resolute">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19472" name="Unity of the Spirits">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18549" name="Wild Growth">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19412" name="Aina's Faithful">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19418" name="Feralization">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19486" name="Listlessness Rk. II">}}|82|Unknown|Korafax, Home of the Riders|Herald of Druzzil Ro
+{{<spell id="18726" name="Malosenea">}}|82|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19433" name="Ancestral Obligation">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19421" name="Dannal's Mending">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19469" name="Halcyon Whisper">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18467" name="Chant of the Burynai">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19445" name="Ice Sheet">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19448" name="Mojo">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19479" name="Nectar of the Slitheren">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19442" name="Talisman of the Resolute">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19513" name="Blood of Avoling">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19463" name="Blood of Jaled'Dar">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19482" name="Shadow of Renewal">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19475" name="Talisman of Unity">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="26176" name="Breath of the Shiverback">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25731" name="Mammoth's Force">}}|86|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26179" name="Spinechiller's Spear of Venom">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25701" name="Spirit of the Relentless">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26182" name="Talisman of the Tiger">}}|86|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26188" name="Unity of the Soul">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25704" name="Untamed Growth">}}|86|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26200" name="Feralescense">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26203" name="Lethargy">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26173" name="Malosene">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26213" name="Nargul's Malady">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26228" name="Shakare's Drowse">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26234" name="Wurt's Faithful">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26237" name="Ancestral Covenant">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26240" name="Ascendant's Intervention">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26243" name="Bite of the Blightwolf">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26246" name="Halcyon Gust">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26249" name="Kralbor's Pandemic">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26252" name="Mending Counterbias">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26261" name="Qirik's Mending">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25710" name="Chant of the Tae Ew">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26264" name="Hex">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26267" name="Ice Floe">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26270" name="Nectar of Torment">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25713" name="Talisman of the Relentless">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26273" name="Undaleen's Venom">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26279" name="Blood of Corbeth">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26282" name="Frozen Gift">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26285" name="Pack of Wurt">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26291" name="Penumbra of Renewal">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26294" name="Reckless Mending">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26300" name="Spinechiller Blood">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26303" name="Splash of Glyphdust">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26315" name="Talisman of Soul's Unity">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26318" name="Ward of Recovery">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="29279" name="Breath of Silbar">}}|91|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29282" name="Hiqork's Spear of Venom">}}|91|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="28796" name="Spirit of the Indomitable">}}|91|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29285" name="Talisman of the Lion">}}|91|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="28799" name="Unfettered Growth">}}|91|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29291" name="Unity of Kolos">}}|91|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29306" name="Apathy">}}|92|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29303" name="Feralisera">}}|92|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29316" name="Giaborn's Malady">}}|92|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29325" name="Gotikan's Recourse">}}|92|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29346" name="Hilnaah's Faithful">}}|92|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29276" name="Maloseneta">}}|92|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29340" name="Matip's Drowse">}}|92|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29319" name="Yubai's Affliction">}}|92|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29349" name="Ancestral Arrangement">}}|93|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29355" name="Bite of the Grendlaen">}}|93|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29373" name="Gotikan's Mending">}}|93|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29358" name="Halcyon Breath">}}|93|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29361" name="Poanag's Pandemic">}}|93|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29352" name="Progenitor's Intervention">}}|93|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29364" name="Renewing Counterbias">}}|93|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="28806" name="Chant of the Izon">}}|94|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29379" name="Hoodoo">}}|94|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29382" name="Ice Mass">}}|94|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29385" name="Nectar of Sholoth">}}|94|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29391" name="Stranglefang's Venom">}}|94|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="28809" name="Talisman of the Indomitable">}}|94|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29376" name="Yubai's Rain of Venom">}}|94|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29394" name="Blood of Klar">}}|95|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29397" name="Freezing Gift">}}|95|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29418" name="Issuance of Malos">}}|95|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29415" name="Naeya Blood">}}|95|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29400" name="Pack of Hilnaah">}}|95|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29406" name="Phantom of Renewal">}}|95|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29409" name="Reckless Remedy">}}|95|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29424" name="Talisman of Kolos' Unity">}}|95|Unknown|Argath, Bastion of Illdaera|Stup

@@ -160,3 +160,148 @@ Name|Lvl|Era|Zone|NPC
 {{<spell id="8481" name="Blessed Aura">}}|70|PoP|Plane of Knowledge|Cavalier Cerakor
 {{<spell id="5297" name="Brell's Brawny Bulwark">}}|70|PoP|Plane of Knowledge|Cavalier Cerakor
 {{<spell id="8479" name="Ward of Tunare">}}|70|PoP|Plane of Knowledge|Cavalier Cerakor
+{{<spell id="5296" name="Wave of Piety">}}|70|PoP|Plane of Knowledge|Cavalier Cerakor
+{{<spell id="10170" name="Absolve">}}|71|PoP|Plane of Knowledge|Inquisitor Harona
+{{<spell id="11857" name="Burial Rites">}}|71|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11858" name="Burial Rites Rk. II">}}|71|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="11859" name="Burial Rites Rk. III">}}|71|Unknown|Katta Castrum|Master Ulyssus
+{{<spell id="21399" name="Eradicate Disease">}}|71|PoP|Plane of Knowledge|Mystic Ryrin
+{{<spell id="10158" name="Sacred Force">}}|71|PoP|Plane of Knowledge|Inquisitor Harona
+{{<spell id="10155" name="Sacred Touch">}}|71|PoP|Plane of Knowledge|Inquisitor Harona
+{{<spell id="10173" name="Challenge for Honor">}}|72|PoP|Plane of Knowledge|Inquisitor Harona
+{{<spell id="10185" name="Gleaming Light">}}|72|PoP|Plane of Knowledge|Inquisitor Harona
+{{<spell id="10188" name="Lesson of Penitence">}}|72|PoP|Plane of Knowledge|Inquisitor Harona
+{{<spell id="11854" name="Armor of Righteousness">}}|73|Unknown|The Buried Sea|Halon Griere
+{{<spell id="11855" name="Armor of Righteousness Rk. II">}}|73|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="10197" name="Armor of Unrelenting Faith">}}|73|PoP|Plane of Knowledge|Inquisitor Harona
+{{<spell id="10161" name="Burst of Sunlight">}}|73|PoP|Plane of Knowledge|Inquisitor Harona
+{{<spell id="10200" name="Sacred Cleansing">}}|73|PoP|Plane of Knowledge|Inquisitor Harona
+{{<spell id="10209" name="Brell's Stony Guard">}}|74|PoP|Plane of Knowledge|Inquisitor Harona
+{{<spell id="10194" name="Fenegar's Mark">}}|74|PoP|Plane of Knowledge|Inquisitor Harona
+{{<spell id="10206" name="Wave of Forgiveness">}}|74|PoP|Plane of Knowledge|Inquisitor Harona
+{{<spell id="9700" name="Cure Corruption">}}|75|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="11851" name="Force of Prexus">}}|75|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11852" name="Force of Prexus Rk. II">}}|75|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="11853" name="Force of Prexus Rk. III">}}|75|Unknown|Katta Castrum|Master Ulyssus
+{{<spell id="10215" name="Remorse for the Fallen">}}|75|PoP|Plane of Knowledge|Inquisitor Harona
+{{<spell id="10212" name="Sworn Protector">}}|75|PoP|Plane of Knowledge|Inquisitor Harona
+{{<spell id="10224" name="Wraithguard's Vengeance">}}|75|PoP|Plane of Knowledge|Cavalier Ethigom
+{{<spell id="14951" name="Atonement">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14990" name="Benediction">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14942" name="Solemn Force">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14939" name="Solemn Touch">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14963" name="Lesson of Contrition">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14960" name="Radiant Light">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14948" name="Symbol of Bthur">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14954" name="Trial for Honor">}}|77|PoP|Plane of Knowledge|Cavalier Ethigom
+{{<spell id="14987" name="Armor of Decorum">}}|78|Unknown|Fortress Mechanotus|Inizen Nogglezop
+{{<spell id="14969" name="Armor of Inexorable Faith">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14945" name="Burst of Morrow">}}|78|PoP|Plane of Knowledge|Cavalier Ethigom
+{{<spell id="14946" name="Burst of Morrow Rk. II">}}|78|Unknown|Hills of Shade|Hardrin
+{{<spell id="14972" name="Solemn Cleansing">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14978" name="Brell's Earthen Aegis">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14966" name="Bthur's Mark">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="15002" name="Mark of the Saint">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14975" name="Wave of Absolution">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="15005" name="Aurora of Morrow">}}|80|PoP|Plane of Knowledge|Cavalier Ethigom
+{{<spell id="15006" name="Aurora of Morrow Rk. II">}}|80|Unknown|Loping Plains|Derak Fangbreaker
+{{<spell id="15007" name="Aurora of Morrow Rk. III">}}|80|Unknown|Loping Plains|Brett of the Watch
+{{<spell id="14984" name="Force of Timorous">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14981" name="Oathbound Protector">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="15008" name="Righteous Fury">}}|80|PoP|Plane of Knowledge|Cavalier Ethigom
+{{<spell id="15009" name="Righteous Fury Rk. II">}}|80|Unknown|Dragonscale Hills|Jashy
+{{<spell id="14996" name="Sustenance of Tunare">}}|80|PoP|Plane of Knowledge|Cavalier Ethigom
+{{<spell id="14997" name="Sustenance of Tunare Rk. II">}}|80|Unknown|Dragonscale Hills|Automated Vending Unit II
+{{<spell id="14998" name="Sustenance of Tunare Rk. III">}}|80|Unknown|Dragonscale Hills|Ak`anon Supplier Mark LXXXVIII
+{{<spell id="19128" name="Devoted Purity">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19056" name="Devout Force">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19053" name="Devout Touch">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19104" name="Eulogy">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19065" name="Expiation">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19711" name="Mark of the Crusader">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19069" name="Charge for Honor Rk. II">}}|82|Unknown|Korafax, Home of the Riders|Herald of Druzzil Ro
+{{<spell id="19140" name="Crush of the Crying Seas">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19077" name="Lesson of Compunction">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19074" name="Shining Light">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19062" name="Symbol of Jeneca">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19101" name="Armor of Endless Honor">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19083" name="Armor of Unwavering Faith">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19086" name="Devout Cleansing">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19131" name="Withstand">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19092" name="Brell's Loamy Ward">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19080" name="Jeneca's Mark">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19116" name="Mark of the Pious">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19089" name="Wave of Remitment">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19143" name="Crush of Compunction">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19122" name="Devout Fury">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19098" name="Force of the Crying Seas">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19095" name="Sworn Keeper">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="25063" name="Annihilate the Undead">}}|86|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25273" name="Cleanse">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25282" name="Earnest Force">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25276" name="Earnest Purity">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25279" name="Earnest Touch">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25285" name="Elegy">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25291" name="Mark of the Pure">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25294" name="Propitiate">}}|86|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25000" name="Respite">}}|86|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="25297" name="Confrontation for Honor">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25303" name="Crush of Marr">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25312" name="Joyous Light">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25315" name="Lesson of Repentance">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25318" name="Symbol of Jyleel">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25321" name="Armor of Courage">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25330" name="Armor of Implacable Faith">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25264" name="Defy">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25336" name="Earnest Cleansing">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25345" name="Righteous Indignation ">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25351" name="Brell's Tellurian Rampart">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25354" name="Mark of the Defender">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25357" name="Penitence">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25270" name="Stubborn Stance">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25360" name="Wave of Penitence">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25363" name="Aurora of Daybreak">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25366" name="Crush of Repentance">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25369" name="Earnest Fury">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25375" name="Force of Marr">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25378" name="Glorious Exoneration">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25381" name="Oathbound Keeper">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25384" name="Preservation of Marr">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25390" name="Protective Devotion">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25399" name="Pureforge Discipline">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="28081" name="Abolish the Undead">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28335" name="Mark of Ragan">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28338" name="Mollify">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28329" name="Paean">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28317" name="Purify">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28326" name="Zealous Force">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28320" name="Zealous Purity">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28323" name="Zealous Touch">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28341" name="Avowed Keeper">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28362" name="Brilliant Light">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28353" name="Crush of Oseka">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28365" name="Lesson of Remorse">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28347" name="Provocation for Honor">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28356" name="Reprimand">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28371" name="Righteous Audacity">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28368" name="Symbol of Erillion">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28383" name="Armor of Formidable Faith">}}|93|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28374" name="Armor of Zeal">}}|93|Unknown|Argath, Bastion of Illdaera|Danibi
+{{<spell id="28386" name="Burst of Splendor">}}|93|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28308" name="Renounce">}}|93|Unknown|Argath, Bastion of Illdaera|Danibi
+{{<spell id="28398" name="Righteous Vexation">}}|93|Unknown|Argath, Bastion of Illdaera|Danibi
+{{<spell id="28407" name="Splash of Purification">}}|93|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28389" name="Zealous Cleansing">}}|93|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28410" name="Brell's Adamantine Armor">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28419" name="Contrition">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28413" name="Mark of the Reverent">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28416" name="Rejuvenating Steel">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28314" name="Stoic Stance">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28431" name="Wave of Contrition">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28434" name="Aurora of Splendor">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28437" name="Crush of Tides">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28446" name="Force of Oseka">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28449" name="Glorious Exculpation">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28452" name="Hand of the Avowed Keeper">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28455" name="Preservation of Oseka">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28461" name="Protective Dedication">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia

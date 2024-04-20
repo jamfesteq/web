@@ -350,3 +350,175 @@ Name|Lvl|Era|Zone|NPC
 {{<spell id="10876" name="Icefall Glacier Gate">}}|70|PoP|Plane of Knowledge|Channeler Alyrianne
 {{<spell id="10875" name="Icefall Glacier Portal">}}|70|PoP|Plane of Knowledge|Channeler Alyrianne
 {{<spell id="5456" name="Telekara">}}|70|PoP|Plane of Knowledge|Channeler Alyrianne
+{{<spell id="10874" name="Translocate: Icefall Glacier">}}|70|PoP|Plane of Knowledge|Channeler Alyrianne
+{{<spell id="10782" name="Concussive Blast">}}|71|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10853" name="Defense of Calrena">}}|71|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10770" name="Rimelure">}}|71|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10773" name="Shield of the Crystalwing">}}|71|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10776" name="Tears of the Betrayed">}}|71|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="11839" name="Wildmagic Strike">}}|71|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11841" name="Wildmagic Strike Rk. III">}}|71|Unknown|Katta Castrum|Master Ellestellian
+{{<spell id="11834" name="Beam of Solteris">}}|72|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11836" name="Beam of Solteris Rk. III">}}|72|Unknown|Katta Castrum|Master Ellestellian
+{{<spell id="10798" name="Cloudburst Strike">}}|72|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10804" name="Impel">}}|72|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10819" name="Leap of Sparks">}}|72|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10788" name="Magmaraug's Presence">}}|72|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10792" name="Patient Harvest">}}|72|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10816" name="Ball Lightning">}}|73|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10822" name="Cold Snap">}}|73|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10807" name="Lavalure">}}|73|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10813" name="Leap of Shocking Bolts">}}|73|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10810" name="Scales of the Crystalwing">}}|73|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10862" name="Tendrilmist Guard">}}|73|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10864" name="Tendrilmist Guard Rk. III">}}|73|Unknown|Katta Castrum|Master Ellestellian
+{{<spell id="11831" name="Chaos Immolation">}}|74|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10828" name="Crystalwing Ward">}}|74|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10840" name="Ethantis's Burning Blade">}}|74|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10841" name="Flashfires">}}|74|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="7697" name="Focus Mass Elaborate Spellcaster's Empowering Essence">}}|74|PoP|Plane of Knowledge|Illusionist Acored
+{{<spell id="10837" name="Icefall Avalanche">}}|74|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="11983" name="Translocate: Katta Castrum">}}|74|PoP|Plane of Knowledge|Trader Thallynus
+{{<spell id="10831" name="Volcanic Eruption">}}|74|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10847" name="Claw of Selay">}}|75|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="15891" name="Dragonscale Hills Gate">}}|75|PoP|Plane of Knowledge|Myraley Silverheart
+{{<spell id="15890" name="Dragonscale Hills Portal">}}|75|PoP|Plane of Knowledge|Myraley Silverheart
+{{<spell id="10540" name="Ethereal Conflagration">}}|75|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="7685" name="Focus Ornate Spellcaster's Empowering Essence">}}|75|PoP|Plane of Knowledge|Illusionist Acored
+{{<spell id="10856" name="Icicle Deluge">}}|75|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="11828" name="Intertwining Energy">}}|75|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11830" name="Intertwining Energy Rk. III">}}|75|Unknown|Katta Castrum|Master Ellestellian
+{{<spell id="10859" name="Sothgar's Flame">}}|75|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="10850" name="Telakisz">}}|75|PoP|Plane of Knowledge|Jaelle Florica
+{{<spell id="15889" name="Translocate: Dragonscale Hills">}}|75|PoP|Plane of Knowledge|Myraley Silverheart
+{{<spell id="15462" name="Bulwark of Caella">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15387" name="Bulwark of the Crystalwing">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15393" name="Concussive Burst">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15384" name="Lure of Isaz">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15511" name="Phase March">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15390" name="Tears of the Forsaken">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15491" name="Wildmagic Burst">}}|76|PoP|Plane of Knowledge|Channeler Keatrem
+{{<spell id="15493" name="Wildmagic Burst Rk. III">}}|76|Unknown|Hills of Shade|Shelsy Shadestepper
+{{<spell id="15505" name="Aspect of Zomm">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="15411" name="Cloudburst Bolts">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="15431" name="Leap of Static Bolts">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="15405" name="Tranquil Harvest">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="15402" name="Vsorug's Presence">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="15471" name="Etherroot Guard">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="15500" name="Funnel of Frost">}}|78|PoP|Plane of Knowledge|Channeler Keatrem
+{{<spell id="15422" name="Laminae of the Crystalwing">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="15425" name="Leap of Arclight">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="15419" name="Pyrolure">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="15434" name="Rime Snap">}}|78|PoP|Plane of Knowledge|Channeler Keatrem
+{{<spell id="15435" name="Rime Snap Rk. II">}}|78|Unknown|Dragonscale Hills|Jashy
+{{<spell id="15428" name="Rolling Lightning">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="15483" name="Chaos Conflagration">}}|79|PoP|Plane of Knowledge|Channeler Keatrem
+{{<spell id="15484" name="Chaos Conflagration Rk. II">}}|79|Unknown|The Steam Factory|Karri
+{{<spell id="15485" name="Chaos Conflagration Rk. III">}}|79|Unknown|The Steam Factory|Little Bo
+{{<spell id="15439" name="Crystalwing Guard">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="15508" name="Ethereal Rime">}}|79|PoP|Plane of Knowledge|Channeler Keatrem
+{{<spell id="15509" name="Ethereal Rime Rk. II">}}|79|Unknown|Dragonscale Hills|Vesiss
+{{<spell id="15448" name="Euthanos' Flameblade">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="15451" name="Flashflames">}}|79|PoP|Plane of Knowledge|Channeler Keatrem
+{{<spell id="15452" name="Flashflames Rk. II">}}|79|Unknown|Loping Plains|Derak Fangbreaker
+{{<spell id="15453" name="Flashflames Rk. III">}}|79|Unknown|Loping Plains|Brett of the Watch
+{{<spell id="7698" name="Focus Mass Ornate Spellcaster's Empowering Essence">}}|79|PoP|Plane of Knowledge|Illusionist Warek
+{{<spell id="15445" name="Glacial Collapse">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="15442" name="Pyroclastic Eruption">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="21987" name="Brell's Rest Gate">}}|80|PoP|Plane of Knowledge|Marie Fay
+{{<spell id="21985" name="Brell's Rest Portal">}}|80|PoP|Plane of Knowledge|Marie Fay
+{{<spell id="15456" name="Claw of Selig">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="15381" name="Ethereal Incineration">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="7686" name="Focus Runed Spellcaster's Empowering Essence">}}|80|PoP|Plane of Knowledge|Illusionist Warek
+{{<spell id="15465" name="Icicle Storm">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="15468" name="Inizen's Fire">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="15497" name="Netherstep">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="20543" name="Plane of Time Gate">}}|80|PoP|Plane of Knowledge|Channeler Keatrem
+{{<spell id="20542" name="Plane of Time Portal">}}|80|PoP|Plane of Knowledge|Channeler Keatrem
+{{<spell id="15477" name="Tangleweave Energy">}}|80|PoP|Plane of Knowledge|Channeler Keatrem
+{{<spell id="15459" name="Telajasz">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="21988" name="Translocate: Brell's Rest">}}|80|PoP|Plane of Knowledge|Marie Fay
+{{<spell id="20541" name="Translocate: Plane of Time">}}|80|PoP|Plane of Knowledge|Channeler Keatrem
+{{<spell id="19650" name="Aegis of Calrena">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19573" name="Concussive Flash">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19699" name="Nethervoid March">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18558" name="Shield of the Void">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19570" name="Tears of the Pyrilen">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19564" name="Voidfrost Lure">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19591" name="Cloudburst Levin">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19611" name="Leap of Static Jolts">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19585" name="Serene Harvest">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19582" name="Talendor's Presence">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19599" name="Flarelure">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19615" name="Gelid Snap Rk. II">}}|83|Unknown|Korafax, Home of the Riders|Herald of Druzzil Ro
+{{<spell id="19605" name="Leap of Lightning Sprites">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19659" name="Nethermist Guard">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19608" name="Ribbon Lightning">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19602" name="Squamae of the Crystalwing">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19671" name="Chaos Combustion">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19623" name="Crystalwing Shell">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19632" name="Daveron's Pyroblade">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19629" name="Icesheet Cascade">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19626" name="Magmatic Eruption">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19644" name="Claw of Gorenaire">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19561" name="Ethereal Combustion">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="17885" name="Grounds Gate">}}|85|Unknown|The Feerrott|Kaelynn Stearns
+{{<spell id="17886" name="Grounds Portal">}}|85|Unknown|The Feerrott|Kaelynn Stearns
+{{<spell id="19653" name="Icicle Torrent">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19656" name="Klixcxyk's Fire">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19647" name="Telajara">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19665" name="Thricewoven Energy">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="17887" name="Translocate: the Grounds">}}|85|Unknown|The Feerrott|Kaelynn Stearns
+{{<spell id="26520" name="Aegis of Lithara">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26523" name="Concussive Burst">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26543" name="Glacial Lure">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26333" name="Shield of Dreams">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26546" name="Tears of Flame">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26561" name="Cloudburst Storm">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26566" name="Glacial Pillar">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26569" name="Leap of Corposantum">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26572" name="Ring of Fire">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26575" name="Soothing Harvest">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26578" name="Beam of Permafrost">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26583" name="Dermis of the Crystalwing">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26586" name="Flamelure">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26589" name="Freezing Snap">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26598" name="Lightning Helix">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26604" name="Mana Vortex">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26610" name="Murkmist Guard">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26616" name="Blazing Pillar">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26619" name="Chaos Char">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26622" name="Crystalwing Carapace">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26625" name="Denunciation of Havoc">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26644" name="Ethereal Glaciation">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26647" name="Flashpyre">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26656" name="Glacial Cascade">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26659" name="Lithara's Pyroblade">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26662" name="Magmatic Downpour">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26665" name="Ethereal Inferno">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26668" name="Glacial Claw">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26671" name="Hail Torrent">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26674" name="Ice Vortex">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26680" name="Lithara's Fire">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26683" name="Maelstrom of Mana">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26698" name="Self-Annihilation">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26704" name="Splash of Rhyolite">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26707" name="Telakama">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26710" name="Thricewoven Electricity">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="29645" name="Aegis of Alra">}}|91|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29648" name="Concussive Barrage">}}|91|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29666" name="Frigid Lure">}}|91|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29672" name="Katelanama">}}|91|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29445" name="Shield of Bronze">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29669" name="Tears of Daevan">}}|91|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29682" name="Cloudburst Tempest">}}|92|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29690" name="Frozen Pillar">}}|92|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29693" name="Leap of Plasma">}}|92|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29699" name="Placid Harvest">}}|92|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29696" name="Ring of Flame">}}|92|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29710" name="Armor of the Crystalwing">}}|93|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29707" name="Atol's Concussive Shackles">}}|93|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29702" name="Beam of Rime Crystals">}}|93|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29713" name="Blazelure">}}|93|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29725" name="Lightning Swarm">}}|93|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29735" name="Shademist Guard">}}|93|Unknown|Argath, Bastion of Illdaera|Matima

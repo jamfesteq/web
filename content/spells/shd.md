@@ -173,3 +173,123 @@ Name|Lvl|Era|Zone|NPC
 {{<spell id="8484" name="Decrepit Skin">}}|70|PoP|Plane of Knowledge|Reaver Muron
 {{<spell id="8483" name="Theft of Agony">}}|70|PoP|Plane of Knowledge|Reaver Muron
 {{<spell id="5337" name="Theft of Hate">}}|70|PoP|Plane of Knowledge|Reaver Muron
+{{<spell id="5338" name="Touch of the Devourer">}}|70|PoP|Plane of Knowledge|Reaver Muron
+{{<spell id="10245" name="Blacktalon Bite">}}|71|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10233" name="Bond of the Blacktalon">}}|71|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10042" name="Exhumer's Call">}}|71|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="11863" name="Marrowthirst Horror">}}|71|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="11864" name="Marrowthirst Horror Rk. II">}}|71|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="11865" name="Marrowthirst Horror Rk. III">}}|71|Unknown|Katta Castrum|Master Ulyssus
+{{<spell id="10257" name="Terror of Vergalid">}}|71|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10272" name="Blood of the Blacktalon">}}|72|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10260" name="Challenge for Power">}}|72|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10251" name="Shroud of the Nightborn">}}|72|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10282" name="Amplify Death">}}|73|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10285" name="Dark Bargain">}}|73|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10276" name="Drink of Decomposition">}}|73|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10275" name="Shambling Minion">}}|73|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="11866" name="Soul Carapace">}}|73|Unknown|The Buried Sea|Halon Griere
+{{<spell id="11867" name="Soul Carapace Rk. II">}}|73|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="11868" name="Soul Carapace Rk. III">}}|73|Unknown|Katta Castrum|Master Ulyssus
+{{<spell id="10300" name="Cloak of Corruption">}}|74|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10288" name="Rotroot Spear">}}|74|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10291" name="Vilify">}}|74|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10306" name="Last Breath">}}|75|Unknown|Direwind Cliffs|Outcast Erralock
+{{<spell id="10315" name="Remorseless Demeanor">}}|75|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10327" name="Touch of Severan">}}|75|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10227" name="Touch of the Wailing Three">}}|75|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10228" name="Touch of the Wailing Three Rk. II">}}|75|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="10229" name="Touch of the Wailing Three Rk. III">}}|75|Unknown|Katta Castrum|Master Ulyssus
+{{<spell id="15148" name="Blackwater Bite">}}|76|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15142" name="Bond of the Blackwater">}}|76|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="14823" name="Procure Corpse">}}|76|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15202" name="Soulthirst Horror">}}|76|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15203" name="Soulthirst Horror Rk. II">}}|76|Unknown|Hills of Shade|Lanika Shadestepper
+{{<spell id="15204" name="Soulthirst Horror Rk. III">}}|76|Unknown|Hills of Shade|Shelsy Shadestepper
+{{<spell id="15160" name="Terror of the Soulbleeder">}}|76|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15220" name="Assiduous Impurity">}}|77|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15221" name="Assiduous Impurity Rk. II">}}|77|Unknown|Dragonscale Hills|Automated Vending Unit II
+{{<spell id="15222" name="Assiduous Impurity Rk. III">}}|77|Unknown|Dragonscale Hills|Ak`anon Supplier Mark LXXXVIII
+{{<spell id="15169" name="Blood of the Blackwater">}}|77|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15154" name="Shroud of the Gloomborn">}}|77|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15163" name="Trial for Power">}}|77|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15164" name="Trial for Power Rk. II">}}|77|Unknown|Loping Plains|Derak Fangbreaker
+{{<spell id="15165" name="Trial for Power Rk. III">}}|77|Unknown|Loping Plains|Brett of the Watch
+{{<spell id="15175" name="Expatiate Death">}}|78|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15178" name="Grim Covenant">}}|78|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15172" name="Maladroit Minion">}}|78|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15223" name="Rigor Mortis">}}|78|Unknown|Fortress Mechanotus|Inizen Nogglezop
+{{<spell id="15211" name="Umbral Carapace">}}|78|Unknown|Fortress Mechanotus|Inizen Nogglezop
+{{<spell id="15187" name="Drape of Corruption">}}|79|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15184" name="Revile">}}|79|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15181" name="Rotmarrow Spear">}}|79|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15191" name="Last Gasp Rk. II">}}|80|Unknown|The Steam Factory|Karri
+{{<spell id="15192" name="Last Gasp Rk. III">}}|80|Unknown|The Steam Factory|Little Bo
+{{<spell id="15199" name="Touch of Kildrukaun">}}|80|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15136" name="Touch of the Soulbleeder">}}|80|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15214" name="Umbral Skin">}}|80|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="15215" name="Umbral Skin Rk. II">}}|80|Unknown|Dragonscale Hills|Vesiss
+{{<spell id="19295" name="Bond of Laarthik">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19301" name="Laarthik's Bite">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18928" name="Reaper's Call">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19313" name="Terror of Jelvalak">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19322" name="Blood of Laarthik">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19373" name="Plague of the Karanas">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19307" name="Shroud of the Blightborn">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19328" name="Gift of Sathir">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19364" name="Malarian Carapace">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19325" name="Minion of Sebilis">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19331" name="Venril's Covenant">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19131" name="Withstand">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19337" name="Burst of Spite">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19340" name="Drape of Korafax">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19334" name="Malarian Spear">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19382" name="Curse of Frailty">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19344" name="Final Breath Rk. II">}}|85|Unknown|Korafax, Home of the Riders|Herald of Druzzil Ro
+{{<spell id="19289" name="Touch of Lanys">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19352" name="Touch of Tharoff">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="25556" name="Amygdalan Horror">}}|86|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25565" name="Banshee Skin">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25568" name="Bond of Malthiasiss">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25574" name="Malthiasiss's Bite">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25555" name="Reaper's Beckon">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25000" name="Respite">}}|86|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="25580" name="Terror of Rerekalen">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25583" name="Blood of Malthiasiss">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25586" name="Confrontation for Power">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25595" name="Plague of Iglum">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25598" name="Shroud of the Plagueborne">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25264" name="Defy">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25604" name="Gift of Dyalgem">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25607" name="Gixblat's Covenant">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25611" name="Gorgon Carapace">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25614" name="Gorgon Mantle">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25617" name="Minion of Fear">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25620" name="Repulsive Sacrifice">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25629" name="Call of Dusk">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25635" name="Drape of Fear">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25638" name="Gorgon Spear">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25659" name="Insidious Blight">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25641" name="Loathing">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25270" name="Stubborn Stance">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25644" name="Curse of Enfeeblement">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25647" name="Dire Accusation">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25650" name="Dire Restriction">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25653" name="Gorgon Skin">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25662" name="Last Breath">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25671" name="Touch of Dyalgem">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25674" name="Touch of Iglum">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="28645" name="Bond of Korum">}}|91|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="28642" name="Ghoul Skin">}}|91|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="28651" name="Korum's Bite">}}|91|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="28632" name="Reaper's Decree">}}|91|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="28657" name="Terror of Desalin">}}|91|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="28675" name="Insidious Audacity">}}|92|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="28678" name="Plague of Piqiorn">}}|92|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="28663" name="Provocation for Power">}}|92|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="28681" name="Shroud of the Shadeborne">}}|92|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="28690" name="Gift of Urash">}}|93|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="28709" name="Minion of Sholoth">}}|93|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="28308" name="Renounce">}}|93|Unknown|Argath, Bastion of Illdaera|Danibi
+{{<spell id="28697" name="Sholothian Carapace">}}|93|Unknown|Argath, Bastion of Illdaera|Danibi
+{{<spell id="28693" name="Worag's Covenant">}}|93|Unknown|Argath, Bastion of Illdaera|Shelif

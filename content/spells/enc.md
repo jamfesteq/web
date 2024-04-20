@@ -376,3 +376,198 @@ Name|Lvl|Era|Zone|NPC
 {{<spell id="8508" name="Mind Shatter">}}|70|PoP|Plane of Knowledge|Illusionist Acored
 {{<spell id="5519" name="True Name">}}|70|PoP|Plane of Knowledge|Illusionist Acored
 {{<spell id="5522" name="Voice of Clairvoyance">}}|70|PoP|Plane of Knowledge|Illusionist Acored
+{{<spell id="8506" name="Ward of Bedazzlement">}}|70|PoP|Plane of Knowledge|Illusionist Acored
+{{<spell id="10580" name="Draconic Rune">}}|71|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10586" name="Ellowind's Animation">}}|71|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10577" name="Fractured Consciousness">}}|71|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="11909" name="Perplexing Flash">}}|71|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11911" name="Perplexing Flash Rk. III">}}|71|Unknown|Katta Castrum|Master Ellestellian
+{{<spell id="10596" name="Rune of Ellowind">}}|71|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10583" name="Sorcerous Shield">}}|71|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10647" name="Bewilderment">}}|72|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10614" name="Coax">}}|72|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10608" name="Echo of Tashan">}}|72|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="11891" name="Entrancer's Aura">}}|72|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10599" name="Quiet Mind">}}|72|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10602" name="Speed of Ellowind">}}|72|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10620" name="Aegis of Alendar">}}|73|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10629" name="Dreams of Veldyn">}}|73|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="11903" name="Mana Recursion">}}|73|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10623" name="Polychromatic Assault">}}|73|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10617" name="Seer's Intuition">}}|73|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10635" name="Thin Air">}}|73|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10641" name="Brimstone Body">}}|74|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10644" name="Color Collapse">}}|74|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="7698" name="Focus Mass Ornate Spellcaster's Empowering Essence">}}|74|PoP|Plane of Knowledge|Illusionist Warek
+{{<spell id="10653" name="Legion of Alendar">}}|74|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="11885" name="Rune of the Kedge">}}|74|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10650" name="Spinning into the Void">}}|74|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10638" name="Wake of Subdual">}}|74|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10656" name="Dyn`leth's Whispers">}}|75|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="7686" name="Focus Runed Spellcaster's Empowering Essence">}}|75|PoP|Plane of Knowledge|Illusionist Warek
+{{<spell id="10659" name="Hastening of Ellowind">}}|75|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="11897" name="Mind Phobiate">}}|75|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10674" name="Polychromatic Rune">}}|75|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10662" name="Voice of Intuition">}}|75|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="10666" name="Ward of Bewilderment">}}|75|PoP|Plane of Knowledge|a bixie imposter
+{{<spell id="14503" name="Erradien's Animation">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14626" name="Learner's Aura">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14605" name="Mystifying Flash">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14497" name="Opalescent Rune">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14506" name="Rune of Erradien">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14494" name="Shattered Consciousness">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14500" name="Spellbound Shield">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14518" name="Cajole">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14515" name="Din of Tashan">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14587" name="Mystifier's Aura">}}|77|PoP|Plane of Knowledge|Illusionist Warek
+{{<spell id="14588" name="Mystifier's Aura Rk. II">}}|77|Unknown|Dragonscale Hills|Automated Vending Unit II
+{{<spell id="14589" name="Mystifier's Aura Rk. III">}}|77|Unknown|Dragonscale Hills|Ak`anon Supplier Mark LXXXVIII
+{{<spell id="14548" name="Mystify">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14650" name="Runic Swirl Aura">}}|77|PoP|Plane of Knowledge|Illusionist Warek
+{{<spell id="14651" name="Runic Swirl Aura Rk. II">}}|77|Unknown|The Steam Factory|Karri
+{{<spell id="14652" name="Runic Swirl Aura Rk. III">}}|77|Unknown|The Steam Factory|Little Bo
+{{<spell id="14509" name="Silent Mind">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14512" name="Speed of Erradien">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14524" name="Aegis of Qandieal">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14599" name="Mana Resurgence">}}|78|PoP|Plane of Knowledge|Illusionist Warek
+{{<spell id="14600" name="Mana Resurgence Rk. II">}}|78|Unknown|Dragonscale Hills|Vesiss
+{{<spell id="14527" name="Multichromatic Assault">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14521" name="Seer's Cognizance">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14536" name="Strangling Air">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14530" name="Visions of Kirathas">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14644" name="Wake of Atrophy Aura">}}|78|PoP|Plane of Knowledge|Illusionist Warek
+{{<spell id="14645" name="Wake of Atrophy Aura Rk. II">}}|78|Unknown|Dragonscale Hills|Automated Vending Unit II
+{{<spell id="14646" name="Wake of Atrophy Aura Rk. III">}}|78|Unknown|Dragonscale Hills|Ak`anon Supplier Mark LXXXVIII
+{{<spell id="14632" name="Aura of Endless Glamour">}}|79|PoP|Plane of Knowledge|Illusionist Warek
+{{<spell id="14633" name="Aura of Endless Glamour Rk. II">}}|79|Unknown|Hills of Shade|Hardrin
+{{<spell id="14638" name="Aura of Horror">}}|79|PoP|Plane of Knowledge|Illusionist Warek
+{{<spell id="14639" name="Aura of Horror Rk. II">}}|79|Unknown|Hills of Shade|Lanika Shadestepper
+{{<spell id="14640" name="Aura of Horror Rk. III">}}|79|Unknown|Hills of Shade|Shelsy Shadestepper
+{{<spell id="14542" name="Brimstone Tenement">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14545" name="Color Cataclysm">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14554" name="Legion of Qandieal">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14539" name="Quelling Wave">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14581" name="Rune of the Deep">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14551" name="Whirling into the Hollow">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14560" name="Hastening of Erradien">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14557" name="Haunting Whispers">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14620" name="Mana Resurgence Aura">}}|80|PoP|Plane of Knowledge|Illusionist Warek
+{{<spell id="14593" name="Mind Oscillate">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14572" name="Multichromatic Rune">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14578" name="Tears of Qandieal">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14563" name="Voice of Cognizance">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14566" name="Ward of Mystifying">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="18663" name="Befuddling Flash">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18552" name="Fragmented Consciousness">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18555" name="Pearlescent Rune">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18564" name="Rune of Yozan">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18558" name="Shield of the Void">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18561" name="Yozan's Animation">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18573" name="Bark of Tashan">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18606" name="Befuddle">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18567" name="Hushed Mind">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18576" name="Seduction">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18582" name="Aegis of Xadrith">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18588" name="Docility">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18585" name="Polychaotic Assault">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18579" name="Prescience">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18594" name="Smother">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18603" name="Color Conflux">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18600" name="Dermal Brimstone">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18597" name="Ensorcelling Wave">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18612" name="Legion of Xadrith">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18639" name="Rune of the Void">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18609" name="The Downward Spiral">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18697" name="Twincast Aura Rk. II">}}|84|Unknown|Korafax, Home of the Riders|Herald of Druzzil Ro
+{{<spell id="18615" name="Dominate">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18651" name="Mind Twist">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18630" name="Polychaotic Rune">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18636" name="Tears of Xadrith">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18621" name="Voice of Prescience">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18624" name="Ward of Befuddlement">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="26889" name="Baffling Flash">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26896" name="Novak's Animation">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26899" name="Rune of Novak">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26333" name="Shield of Dreams">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26902" name="Spectral Rune">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26905" name="Speed of Novak">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26908" name="Splintered Consciousness">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26911" name="Baffle">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26920" name="Bucolic Mind">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26923" name="Chromarcana">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26926" name="Clamor of Tashan">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26929" name="Deception">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26944" name="Aegis of Zykean">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26957" name="Constrict">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26963" name="Forethought">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26985" name="Serenity">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26991" name="Spectral Assault">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26994" name="Baffling Constriction">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26997" name="Brimstone Brawn">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="27000" name="Color Clash">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="27003" name="Dizzying Helix">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="27006" name="Echo of Subjugation">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="27012" name="Legion of Zykean">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="27015" name="Manastorm">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="27021" name="Serene Wave">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="27024" name="Twilight Rune">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="27030" name="Hastening of Novak">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="27034" name="Mana Reiteration Aura">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="27040" name="Mind Helix">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="27046" name="Mindblade">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="27056" name="Polyspectral Rune">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="27049" name="Soporific Stare">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="27062" name="Spectral Unity">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="27065" name="Subjugate">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="27074" name="Tears of Zykean">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="27077" name="Voice of Forethought">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="27080" name="Ward of Bafflement">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="30030" name="Arcanaward's Rune">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30020" name="Chromatic Flash">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30023" name="Illusion: Ripclaw Raptor">}}|91|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="30017" name="Misleading Flash">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30027" name="Rune of Tonmek">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30024" name="Seronvall's Animation">}}|91|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29445" name="Shield of Bronze">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30036" name="Slivered Consciousness">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30033" name="Speed of Aransir">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30042" name="Arctender's Aura">}}|92|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="30048" name="Arctender's Echo">}}|92|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="30060" name="Chromaruin">}}|92|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30066" name="Compelling Edict">}}|92|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30063" name="Declaration of Tashan">}}|92|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30069" name="Governing Aura">}}|92|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="30054" name="Halcyon Mind">}}|92|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30039" name="Mislead">}}|92|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30057" name="Remote Color Convergence">}}|92|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30075" name="Runic Glow Aura">}}|92|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="30081" name="Aegis of Soliadal">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30128" name="Arcane Assault">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30097" name="Attenuating Helix">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30090" name="Chaotic Confusion">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30122" name="Confusion">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30131" name="Horrifying Rune">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30103" name="Illusion: Deadraiser">}}|93|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="30104" name="Mana Repercussion">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30084" name="Placid Issuance">}}|93|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="30100" name="Premeditation">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30094" name="Suffocation">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30140" name="Brimstone Potency">}}|94|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30143" name="Color Convergence">}}|94|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30137" name="Confusing Constriction">}}|94|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30146" name="Dizzying Gyre">}}|94|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30149" name="Echo of Coercion">}}|94|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="30155" name="Legion of Tonmek">}}|94|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30164" name="Peaceful Wave">}}|94|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30167" name="Shadowed Rune">}}|94|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30202" name="Arcane Unity">}}|95|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30205" name="Enforce">}}|95|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30173" name="Hastening of Aransir">}}|95|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30226" name="Issuance of Mana Repercussion">}}|95|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="30177" name="Mana Repercussion Aura">}}|95|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="30183" name="Mind Spiral">}}|95|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30189" name="Mindscythe">}}|95|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30196" name="Polyarcanic Rune">}}|95|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30192" name="Sedative Stare">}}|95|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30214" name="Tears of Wreliard">}}|95|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="30217" name="Voice of Premeditation">}}|95|Unknown|Argath, Bastion of Illdaera|Nori

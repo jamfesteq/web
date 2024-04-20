@@ -303,3 +303,223 @@ Name|Lvl|Era|Zone|NPC
 {{<spell id="5278" name="Hand of Conviction">}}|70|PoP|Plane of Knowledge|Vicar Diarin
 {{<spell id="5274" name="Placate">}}|70|PoP|Plane of Knowledge|Vicar Diarin
 {{<spell id="8494" name="Puratus">}}|70|PoP|Plane of Knowledge|Vicar Diarin
+{{<spell id="5275" name="Silent Dictation">}}|70|PoP|Plane of Knowledge|Vicar Diarin
+{{<spell id="9715" name="Awestruck">}}|71|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9703" name="Blessing of Purpose">}}|71|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9797" name="Dulcify">}}|71|PoP|Plane of Knowledge|The Quiet Wanderer
+{{<spell id="1345" name="Eminent Reviviscence">}}|71|PoP|Plane of Knowledge|Vicar Glaunn
+{{<spell id="9706" name="Sacred Remedy">}}|71|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9709" name="Symbol of Elushar">}}|71|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9764" name="Vow of Valor">}}|71|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9712" name="Ward of the Dauntless">}}|71|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9782" name="Yaulp VIII">}}|71|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="9783" name="Yaulp VIII Rk. II">}}|71|Unknown|Katta Castrum|Trader Othena
+{{<spell id="9784" name="Yaulp VIII Rk. III">}}|71|Unknown|Katta Castrum|Master Patales
+{{<spell id="9779" name="Aura of Purpose">}}|72|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="11753" name="Divine Custody">}}|72|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11754" name="Divine Custody Rk. II">}}|72|Unknown|Katta Castrum|Trader Othena
+{{<spell id="11755" name="Divine Custody Rk. III">}}|72|Unknown|Katta Castrum|Master Patales
+{{<spell id="9739" name="Reproval">}}|72|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9736" name="Sacred Elixir">}}|72|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9730" name="Tenacity">}}|72|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9785" name="Ward of Reprisal">}}|72|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9742" name="Aegis of Vie">}}|73|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="11756" name="Consecrate Ground">}}|73|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11757" name="Consecrate Ground Rk. II">}}|73|Unknown|Katta Castrum|Trader Othena
+{{<spell id="11758" name="Consecrate Ground Rk. III">}}|73|Unknown|Katta Castrum|Master Patales
+{{<spell id="9755" name="Promised Renewal">}}|73|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9721" name="Resist Corruption">}}|73|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9746" name="Sacred Light">}}|73|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9749" name="Sound of Zeal">}}|73|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9794" name="Expunge Corruption">}}|74|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9773" name="Mark of the Martyr">}}|74|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9791" name="Shared Purity">}}|74|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9800" name="Silent Decree">}}|74|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9776" name="Tectonic Quake">}}|74|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="11750" name="Unflinching Hammer of Zeal">}}|74|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11751" name="Unflinching Hammer of Zeal Rk. II">}}|74|Unknown|Katta Castrum|Trader Othena
+{{<spell id="11752" name="Unflinching Hammer of Zeal Rk. III">}}|74|Unknown|Katta Castrum|Master Patales
+{{<spell id="9803" name="Armor of the Sacred">}}|75|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="11763" name="Blood of the Martyr">}}|75|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11764" name="Blood of the Martyr Rk. II">}}|75|Unknown|Katta Castrum|Trader Othena
+{{<spell id="11765" name="Blood of the Martyr Rk. III">}}|75|Unknown|Katta Castrum|Master Patales
+{{<spell id="9812" name="Elixir of Redemption">}}|75|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9806" name="Elushar's Mark">}}|75|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9809" name="Hand of Tenacity">}}|75|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="9818" name="Rallied Aegis of Vie">}}|75|PoP|Plane of Knowledge|Kalladrahn the Pure
+{{<spell id="14219" name="Aweshock">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14207" name="Blessing of Resolve">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14288" name="Mollify">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14210" name="Solemn Remedy">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="1346" name="Superior Reviviscence">}}|76|PoP|Plane of Knowledge|Vicar Glaunn
+{{<spell id="14213" name="Symbol of Kaerra">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14255" name="Vow of Victory">}}|76|PoP|Plane of Knowledge|Vicar Glaunn
+{{<spell id="14256" name="Vow of Victory Rk. II">}}|76|Unknown|Dragonscale Hills|Automated Vending Unit II
+{{<spell id="14257" name="Vow of Victory Rk. III">}}|76|Unknown|Dragonscale Hills|Ak`anon Supplier Mark LXXXVIII
+{{<spell id="14216" name="Ward of the Resolute">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14273" name="Yaulp IX">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14270" name="Aura of Resolve">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14234" name="Divine Censure">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14312" name="Divine Destiny">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14331" name="Eleventh-Hour">}}|77|PoP|Plane of Knowledge|Vicar Glaunn
+{{<spell id="14332" name="Eleventh-Hour Rk. II">}}|77|Unknown|Loping Plains|Derak Fangbreaker
+{{<spell id="14333" name="Eleventh-Hour Rk. III">}}|77|Unknown|Loping Plains|Brett of the Watch
+{{<spell id="14346" name="Fool the Fallen">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14231" name="Solemn Elixir">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14225" name="Temerity">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14276" name="Ward of Requital">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14222" name="Forbear Corruption">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14318" name="Hallowed Ground">}}|78|PoP|Plane of Knowledge|Vicar Glaunn
+{{<spell id="14319" name="Hallowed Ground Rk. II">}}|78|Unknown|Hills of Shade|Hardrin
+{{<spell id="14249" name="Promised Restoration">}}|78|PoP|Plane of Knowledge|Vicar Glaunn
+{{<spell id="14250" name="Promised Restoration Rk. II">}}|78|Unknown|Dragonscale Hills|Aring
+{{<spell id="14340" name="Sermon of Admonition">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14237" name="Shield of Vie">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14240" name="Solemn Light">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14243" name="Sound of Resonance">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14337" name="Chromassault">}}|79|PoP|Plane of Knowledge|Vicar Glaunn
+{{<spell id="14309" name="Indomitable Hammer of Zeal">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14264" name="Mark of the Devoted">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14291" name="Silent Dictum">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14267" name="Tectonic Upheaval">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14285" name="Vitiate Corruption">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14294" name="Armor of the Solemn">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14315" name="Blood of the Devoted">}}|80|PoP|Plane of Knowledge|Vicar Glaunn
+{{<spell id="14316" name="Blood of the Devoted Rk. II">}}|80|Unknown|Dragonscale Hills|Automated Vending Unit II
+{{<spell id="14317" name="Blood of the Devoted Rk. III">}}|80|Unknown|Dragonscale Hills|Ak`anon Supplier Mark LXXXVIII
+{{<spell id="14325" name="Circle of Divinity">}}|80|PoP|Plane of Knowledge|Vicar Glaunn
+{{<spell id="14326" name="Circle of Divinity Rk. II">}}|80|Unknown|Hills of Shade|Hardrin
+{{<spell id="14303" name="Elixir of Atonement">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14343" name="Frantic Renewal">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14300" name="Hand of Temerity">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14297" name="Kaerra's Mark">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14246" name="Order of the Resolute">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14306" name="Rallied Shield of Vie">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14349" name="Word of Vivacity">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="18240" name="Aweshake">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18228" name="Blessing of Loyalty">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18231" name="Devout Remedy">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18309" name="Reconcile">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18234" name="Symbol of Darianna">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18237" name="Ward of the Devout">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18294" name="Yaulp X">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18291" name="Aura of Loyalty">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18252" name="Devout Elixir">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18367" name="Distract the Departed">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18333" name="Divine Eminence">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18246" name="Gallantry">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18255" name="Reprehend">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18297" name="Ward of Admonishment">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18261" name="Devout Light">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18258" name="Palladium of Vie">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18373" name="Providence">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18243" name="Repel Corruption">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18361" name="Sermon of Castigation">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18264" name="Sound of Reverberance">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18306" name="Abolish Corruption">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18359" name="Chromassail Rk. II">}}|84|Unknown|Korafax, Home of the Riders|Herald of Druzzil Ro
+{{<spell id="18285" name="Mark of the Unsullied">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18389" name="Purified Blood">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18312" name="Silent Edict">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18288" name="Tectonic Tumult">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18330" name="Unwavering Hammer of Zeal">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18315" name="Armor of the Devout">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18318" name="Darianna's Mark">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18324" name="Elixir of Expiation">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18364" name="Frenetic Renewal">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18321" name="Hand of Gallantry">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18267" name="Order of the Devout">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18327" name="Rallied Palladium of Vie">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18370" name="Word of Recovery">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="25063" name="Annihilate the Undead">}}|86|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25095" name="Awecrash">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25077" name="Blessing of Will">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25083" name="Earnest Remedy">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25080" name="Exonerate">}}|86|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25089" name="Symbol of Ealdun">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25092" name="Ward of the Earnest">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25086" name="Word of Awakening">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25113" name="Yaulp XI">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25119" name="Divine Fortitude">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25252" name="Divine Intercession">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25122" name="Earnest Elixir">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25116" name="Hand of Will">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25128" name="Reliance">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25137" name="Ward of Retaliation">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25153" name="Celestial Intervention">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25143" name="Earnest Light">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25165" name="Promised Resurgence">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25159" name="Rampart of Vie">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25068" name="Reject Corruption">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25146" name="Sanctified Ground">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25171" name="Sermon of Censure">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25174" name="Sound of Fury">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25177" name="Chromarend">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25183" name="Devout Hammer of Zeal">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25186" name="Dissolve Corruption">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25189" name="Glorious Censure">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25180" name="Mark of the Devout">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25071" name="Purged Blood">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25195" name="Shining Rampart">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25192" name="Silent Proclamation">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25074" name="Tectonic Shock">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25204" name="Armor of the Earnest">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25207" name="Blood of the Devout">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25231" name="Celestial Contravention">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25210" name="Ealdun's Mark">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25240" name="Elixir of the Ardent">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25213" name="Fintar's Retort">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25225" name="Frenzied Renewal">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25228" name="Hand of Reliance">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25222" name="Healing Splash">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25243" name="Order of the Earnest">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25246" name="Rallied Rampart of Vie">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25249" name="Word of Resurgence">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="28081" name="Abolish the Undead">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28106" name="Amnesty">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28100" name="Assuage">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28094" name="Aweburst">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28109" name="Faithful Remedy">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28112" name="Infusion of the Faithful">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28299" name="Unity of the Triumvirate">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28127" name="Vow of Veneration">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28121" name="Word of Recuperation">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28136" name="Yaulp XII">}}|91|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28142" name="Divine Guard">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28145" name="Divine Invocation">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28160" name="Fourteenth Catalyst">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28151" name="Mark of Erion">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28157" name="Remonstrance">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28302" name="Unified Credence">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28163" name="Ward of Recrimination">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28148" name="Zealous Elixir">}}|92|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28172" name="Anointed Ground">}}|93|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="28191" name="Armor of Vie">}}|93|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28179" name="Elysian Intervention">}}|93|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28185" name="Issuance of Faith">}}|93|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="28197" name="Promised Restitution">}}|93|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28085" name="Rescind Corruption">}}|93|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28203" name="Sermon of Condemnation">}}|93|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28206" name="Sound of Fervor">}}|93|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28209" name="Vow of Vitriol">}}|93|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28169" name="Zealous Light">}}|93|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28218" name="Chromacleave">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28233" name="Eradicate Corruption">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28236" name="Glorious Admonition">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28221" name="Hand of Faithful Infusion">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28230" name="Infallible Hammer of Zeal">}}|94|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="28227" name="Mark of the Adherent">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28088" name="Perfected Blood">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28242" name="Shining Armor">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28239" name="Silent Mandate">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28091" name="Tectonic Tremor">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28251" name="Armor of the Zealous">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28254" name="Blood of the Adherent">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28287" name="Elixir of the Beneficent">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28278" name="Elysian Contravention">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28272" name="Fervent Renewal">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28260" name="Galvos' Retort">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28293" name="Rallied Armor of Vie">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28269" name="Rejuvenating Splash">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28275" name="Unified Hand of Credence">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28257" name="Unified Hand of the Triumvirate">}}|95|Unknown|Argath, Bastion of Illdaera|Ephinia

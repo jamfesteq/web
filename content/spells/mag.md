@@ -342,3 +342,199 @@ Name|Lvl|Era|Zone|NPC
 {{<spell id="8518" name="Rathe's Strength">}}|70|PoP|Plane of Knowledge|Elementalist Siewth
 {{<spell id="8515" name="Spear of Ro">}}|70|PoP|Plane of Knowledge|Elementalist Siewth
 {{<spell id="5493" name="Star Scream">}}|70|PoP|Plane of Knowledge|Elementalist Siewth
+{{<spell id="5496" name="Star Strike">}}|70|PoP|Plane of Knowledge|Elementalist Siewth
+{{<spell id="10696" name="Bolt of Molten Slag">}}|71|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10729" name="Burnout VI">}}|71|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10731" name="Burnout VI Rk. III">}}|71|Unknown|Katta Castrum|Master Ellestellian
+{{<spell id="10695" name="Essence of Air">}}|71|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10684" name="Magmaskin">}}|71|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="9980" name="Malosinise">}}|71|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="10692" name="Prime Shielding">}}|71|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10715" name="Summon Aenda's Trinkets">}}|71|PoP|Plane of Knowledge|Elementalist Onaec
+{{<spell id="10710" name="Summon Muzzle of Mowcha">}}|71|PoP|Plane of Knowledge|Elementalist Onaec
+{{<spell id="10702" name="Summon Plate of the Elements">}}|71|PoP|Plane of Knowledge|Elementalist Onaec
+{{<spell id="11816" name="Beam of Molten Slag">}}|72|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10708" name="Essence of Water">}}|72|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10712" name="Phantasmal Warden">}}|72|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10705" name="Rain of Molten Slag">}}|72|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10716" name="Shock of Silvered Steel">}}|72|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10700" name="Wand of Elemental Transvergence">}}|72|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10735" name="Annihilate the Unnatural">}}|73|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10736" name="Annihilate the Unnatural Rk. II">}}|73|Unknown|Katta Castrum|Trader Othena
+{{<spell id="10737" name="Annihilate the Unnatural Rk. III">}}|73|Unknown|Katta Castrum|Master Patales
+{{<spell id="10719" name="Essence of Fire">}}|73|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10726" name="Granite Stance">}}|73|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10738" name="Renewal of Aenda">}}|73|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10732" name="Scalding Sands">}}|73|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10720" name="Scorching Skin">}}|73|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10704" name="Summon Elemental Armaments">}}|73|PoP|Plane of Knowledge|Elementalist Onaec
+{{<spell id="10741" name="Aegis of Calliav">}}|74|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10747" name="Circle of Magmaskin">}}|74|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10753" name="Essence of Earth">}}|74|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="7697" name="Focus Mass Elaborate Spellcaster's Empowering Essence">}}|74|PoP|Plane of Knowledge|Illusionist Acored
+{{<spell id="11819" name="Iceflame Body">}}|74|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10750" name="Rain of Thunderbolts">}}|74|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10688" name="Summon Wintry Paradox">}}|74|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10766" name="Blazing Stance">}}|75|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10757" name="Elemental Symbiosis">}}|75|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10754" name="Fickle Inferno">}}|75|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="7685" name="Focus Ornate Spellcaster's Empowering Essence">}}|75|PoP|Plane of Knowledge|Illusionist Acored
+{{<spell id="10763" name="Mass Elemental Transvergence">}}|75|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="10769" name="Monster Summoning V">}}|75|PoP|Plane of Knowledge|Pesha of the Mist
+{{<spell id="11825" name="Rampaging Servant">}}|75|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11827" name="Rampaging Servant Rk. III">}}|75|Unknown|Katta Castrum|Master Ellestellian
+{{<spell id="14672" name="Bolt of Molten Dross">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14700" name="Burnout VII">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14671" name="Core of Air">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14662" name="Lavaskin">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14659" name="Malosinatia">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14668" name="Prime Guard">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14689" name="Summon Nastel's Heirlooms">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14679" name="Summon Plate of the Prime">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15505" name="Aspect of Zomm">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14738" name="Beam of Molten Dross">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14684" name="Core of Water">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14686" name="Eidolic Guardian">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14681" name="Rain of Molten Dross">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14690" name="Shock of Cineral Steel">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14772" name="Shock of Many">}}|77|PoP|Plane of Knowledge|Elementalist Onaec
+{{<spell id="14773" name="Shock of Many Rk. II">}}|77|Unknown|The Steam Factory|Karri
+{{<spell id="14774" name="Shock of Many Rk. III">}}|77|Unknown|The Steam Factory|Little Bo
+{{<spell id="14675" name="Wand of Prime Transvergence">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14454" name="Annihilate the Aberrant">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14693" name="Core of Fire">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14697" name="Grounded Stance">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14108" name="Promised Recovery">}}|78|PoP|Plane of Knowledge|Elementalist Onaec
+{{<spell id="14109" name="Promised Recovery Rk. II">}}|78|Unknown|Hills of Shade|Hardrin
+{{<spell id="14706" name="Revival of Aenro">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14703" name="Scorching Sands">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14694" name="Searing Skin">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14753" name="Summon Cauldron of Many Things">}}|78|PoP|Plane of Knowledge|Elementalist Onaec
+{{<spell id="14680" name="Summon Prime Armaments">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14904" name="Aegis of Kildrukaun">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14778" name="Burning Brimbody">}}|79|PoP|Plane of Knowledge|Elementalist Onaec
+{{<spell id="14779" name="Burning Brimbody Rk. II">}}|79|Unknown|Dragonscale Hills|Jashy
+{{<spell id="14715" name="Circle of Lavaskin">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14721" name="Core of Earth">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="7698" name="Focus Mass Ornate Spellcaster's Empowering Essence">}}|79|PoP|Plane of Knowledge|Illusionist Warek
+{{<spell id="14741" name="Iceflame Tenement">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14665" name="Summon Gelid Paradox">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14718" name="Torrent of Thunderbolts">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14722" name="Fickle Pyroclasm">}}|80|PoP|Plane of Knowledge|Elementalist Onaec
+{{<spell id="14723" name="Fickle Pyroclasm Rk. II">}}|80|Unknown|Dragonscale Hills|Automated Vending Unit II
+{{<spell id="14724" name="Fickle Pyroclasm Rk. III">}}|80|Unknown|Dragonscale Hills|Ak`anon Supplier Mark LXXXVIII
+{{<spell id="7686" name="Focus Runed Spellcaster's Empowering Essence">}}|80|PoP|Plane of Knowledge|Illusionist Warek
+{{<spell id="14734" name="Hungry Flames">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14731" name="Mass Prime Transvergence">}}|80|PoP|Plane of Knowledge|Elementalist Onaec
+{{<spell id="14732" name="Mass Prime Transvergence Rk. II">}}|80|Unknown|Dragonscale Hills|Tonas
+{{<spell id="14737" name="Monster Summoning VI">}}|80|PoP|Plane of Knowledge|Elementalist Onaec
+{{<spell id="14725" name="Prime Symbiosis">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14747" name="Rancorous Servant">}}|80|PoP|Plane of Knowledge|Elementalist Onaec
+{{<spell id="14748" name="Rancorous Servant Rk. II">}}|80|Unknown|The Steam Factory|Karri
+{{<spell id="14749" name="Rancorous Servant Rk. III">}}|80|Unknown|The Steam Factory|Little Bo
+{{<spell id="18738" name="Aspect of Air">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18739" name="Bolt of Molten Scoria">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18729" name="Brimstoneskin">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18767" name="Burnout VIII">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18726" name="Malosenea">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18558" name="Shield of the Void">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18756" name="Summon Zabella's Heirlooms">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18751" name="Aspect of Water">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18811" name="Beam of Molten Scoria">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18753" name="Empyrean Guardian">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18748" name="Rain of Molten Scoria">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18757" name="Shock of Discordant Steel">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18742" name="Wand of Ethereal Transvergence">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18760" name="Aspect of Fire">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18764" name="Earthen Stance">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18121" name="Promised Rejuvenation Rk. II">}}|83|Unknown|Korafax, Home of the Riders|Herald of Druzzil Ro
+{{<spell id="18773" name="Renewal of Cadwin">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18747" name="Summon Ethereal Armaments">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18770" name="Torrid Sands">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18761" name="Torrid Skin">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18788" name="Aspect of Earth">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18848" name="Burning Pyroshroud">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18782" name="Circle of Brimstoneskin">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18785" name="Deluge of Thunderbolts">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18814" name="Iceflame Efflux">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18854" name="Summon Elemental Ore">}}|84|Unknown|Korafax, Home of the Riders|Herald of Druzzil Ro
+{{<spell id="18732" name="Summon Frigid Paradox">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18792" name="Ethereal Symbiosis">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18789" name="Fickle Blaze">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18883" name="Hulking Bodyguard">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18798" name="Mass Ethereal Transvergence">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18801" name="Ravenous Flames">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="26734" name="Bolt of Rhyolite">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26737" name="Burnout IX">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26740" name="Construct of Air">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26741" name="Dreamfire Coat">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26744" name="Gift of Daybreak">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26747" name="Grant Enibik's Heirlooms">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26745" name="Grant Spectral Plate">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26173" name="Malosene">}}|86|Unknown|The Feerrott|William the Tall
+{{<spell id="26333" name="Shield of Dreams">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26749" name="Strike of Sand">}}|86|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26752" name="Beam of Rhyolite">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26755" name="Clash of Many">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26758" name="Cognitive Guardian">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26761" name="Construct of Water">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26762" name="Grant Visor of Vabtik">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26763" name="Rain of Rhyolite">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26766" name="Shock of Ethereal Steel">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26769" name="Splash of Lava">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26772" name="Wand of Spectral Transvergence">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25707" name="Annihilate the Divergent">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26776" name="Beam of Daggers">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26779" name="Blazing Sands">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26782" name="Blazing Skin">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26785" name="Construct of Fire">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26786" name="Grant Spectral Armaments">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26728" name="Promised Wardmending">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26793" name="Renewal of Volark">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26796" name="Tellurian Stance">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26800" name="Burning Veil">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26806" name="Chaotic Blessing">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26812" name="Circle of Dreamfire">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26799" name="Construct of Earth">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26821" name="Grant Glacial Paradox">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26827" name="Grant Ring of Levitation">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26815" name="Iceflame Ward">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26829" name="Rain of Daggers">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26832" name="Scalding Winds">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26835" name="Fickle Flare">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26838" name="Gather Potential">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26841" name="Mass Spectral Transvergence">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26844" name="Ruinous Servant">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26847" name="Spear of Magma">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26850" name="Spectral Symbiosis">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26856" name="Surge of Shadowflares">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26859" name="Tellurian Bodyguard">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26865" name="Voracious Flames">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="29854" name="Bolt of Molten Steel">}}|91|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29857" name="Burnout X">}}|91|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29861" name="Embercoat">}}|91|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29860" name="Facet of Air">}}|91|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29868" name="Grant Atleris' Heirlooms">}}|91|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29866" name="Grant Manaforged Plate">}}|91|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29864" name="Grant Sphere of Air">}}|91|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29276" name="Maloseneta">}}|91|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29445" name="Shield of Bronze">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29873" name="Beam of Molten Steel">}}|92|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29882" name="Facet of Water">}}|92|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29883" name="Grant Quiver of Kalkek">}}|92|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29885" name="Rain of Molten Steel">}}|92|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29888" name="Shock of Argathian Steel">}}|92|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29879" name="Splendrous Guardian">}}|92|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29894" name="Wand of Arcane Transvergence">}}|92|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29901" name="Burning Sands">}}|93|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29907" name="Facet of Fire">}}|93|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29908" name="Grant Manaforged Armaments">}}|93|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29904" name="Molten Skin">}}|93|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29848" name="Promised Amendment">}}|93|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29915" name="Renewal of Sirqo">}}|93|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29924" name="Steelstance">}}|93|Unknown|Argath, Bastion of Illdaera|Matima
+{{<spell id="29918" name="Summon Exigent Servant">}}|93|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29927" name="Facet of Earth">}}|94|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29949" name="Grant Frostrift Paradox">}}|94|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29961" name="Summon Blazing Orb">}}|94|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29969" name="Mass Arcane Transvergence">}}|95|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner

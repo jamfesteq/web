@@ -390,3 +390,210 @@ Name|Lvl|Era|Zone|NPC
 {{<spell id="8498" name="Moonshadow">}}|70|PoP|Plane of Knowledge|Wanderer Kedrisan
 {{<spell id="5359" name="Nature's Beckon">}}|70|PoP|Plane of Knowledge|Wanderer Kedrisan
 {{<spell id="9952" name="Ring of Direwind">}}|70|PoP|Plane of Knowledge|Wanderer Kedrisan
+{{<spell id="9950" name="Zephyr: Direwind">}}|70|PoP|Plane of Knowledge|Wanderer Kedrisan
+{{<spell id="9923" name="Beast's Beckoning">}}|71|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9824" name="Blistering Sunray">}}|71|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9833" name="Cloudburst Hail">}}|71|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9700" name="Cure Corruption">}}|71|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="11766" name="Fernspur">}}|71|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11767" name="Fernspur Rk. II">}}|71|Unknown|Katta Castrum|Trader Othena
+{{<spell id="11768" name="Fernspur Rk. III">}}|71|Unknown|Katta Castrum|Master Patales
+{{<spell id="9827" name="Gale of the Stormborn">}}|71|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9857" name="Mammoth's Strength">}}|71|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9851" name="Nature's Placidity">}}|71|PoP|Plane of Knowledge|The Quiet Wanderer
+{{<spell id="9872" name="Direwild Skin">}}|72|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9863" name="Icefall Breath">}}|72|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9875" name="Pure Life">}}|72|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9917" name="Vinelash Cascade">}}|72|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="9918" name="Vinelash Cascade Rk. II">}}|72|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="9919" name="Vinelash Cascade Rk. III">}}|72|Unknown|Katta Castrum|Master Patales
+{{<spell id="9866" name="Viridifloral Shield">}}|72|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="10735" name="Annihilate the Unnatural">}}|73|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10736" name="Annihilate the Unnatural Rk. II">}}|73|Unknown|Katta Castrum|Trader Othena
+{{<spell id="10737" name="Annihilate the Unnatural Rk. III">}}|73|Unknown|Katta Castrum|Master Patales
+{{<spell id="9721" name="Resist Corruption">}}|73|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9869" name="Skin to Vines">}}|73|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9878" name="Swarm of Fireants">}}|73|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9881" name="Viridicoat">}}|73|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9887" name="Winter's Flame">}}|73|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9920" name="Chant of the Napaea">}}|74|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="9905" name="Direwood Guard">}}|74|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9911" name="Equinox Burn">}}|74|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9845" name="Hoar Frost">}}|74|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="9846" name="Hoar Frost Rk. II">}}|74|Unknown|Katta Castrum|Trader Othena
+{{<spell id="9847" name="Hoar Frost Rk. III">}}|74|Unknown|Katta Castrum|Master Patales
+{{<spell id="9902" name="Sunscorch">}}|74|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9776" name="Tectonic Quake">}}|74|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9941" name="Adrenaline Surge">}}|75|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9929" name="Blessing of the Direwild">}}|75|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="15887" name="Circle of Loping Plains">}}|75|PoP|Plane of Knowledge|Leneaon Cloudsong
+{{<spell id="9926" name="Legacy of Viridiflora">}}|75|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="11770" name="Lunarlight">}}|75|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11771" name="Lunarlight Rk. II">}}|75|Unknown|Katta Castrum|Trader Othena
+{{<spell id="11772" name="Lunarlight Rk. III">}}|75|Unknown|Katta Castrum|Master Patales
+{{<spell id="9830" name="Nature's Blazing Wrath">}}|75|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="9932" name="Rime Crystals">}}|75|PoP|Plane of Knowledge|Rang Kelliam
+{{<spell id="15888" name="Ring of Loping Plains">}}|75|PoP|Plane of Knowledge|Leneaon Cloudsong
+{{<spell id="9947" name="Second Life">}}|75|PoP|Plane of Knowledge|Ezna Connoy
+{{<spell id="15886" name="Zephyr: Loping Plains">}}|75|PoP|Plane of Knowledge|Leneaon Cloudsong
+{{<spell id="14430" name="Beast's Bewitching">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14460" name="Fernspike">}}|76|PoP|Plane of Knowledge|Wanderer Thermon
+{{<spell id="14461" name="Fernspike Rk. II">}}|76|Unknown|The Steam Factory|Karri
+{{<spell id="14462" name="Fernspike Rk. III">}}|76|Unknown|The Steam Factory|Little Bo
+{{<spell id="14367" name="Nature's Calm">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15235" name="Spirit of the Stalwart">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14355" name="Tempest of the Stormborn">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14361" name="Torrential Hail">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14352" name="Torrid Sunray">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14379" name="Chillvapor Breath">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14388" name="Ironwood Skin">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14391" name="Puravida">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14479" name="Reaping Inferno">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14476" name="Sharp Eyes">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14382" name="Viridifloral Bulwark">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14454" name="Annihilate the Aberrant">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14222" name="Forbear Corruption">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14394" name="Horde of Fireants">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14385" name="Skin to Mulch">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14485" name="Solarsliver">}}|78|PoP|Plane of Knowledge|Wanderer Thermon
+{{<spell id="14486" name="Solarsliver Rk. II">}}|78|Unknown|Hills of Shade|Hardrin
+{{<spell id="14491" name="Survival of the Fittest">}}|78|PoP|Plane of Knowledge|Wanderer Thermon
+{{<spell id="14492" name="Survival of the Fittest Rk. II">}}|78|Unknown|Loping Plains|Derak Fangbreaker
+{{<spell id="14493" name="Survival of the Fittest Rk. III">}}|78|Unknown|Loping Plains|Brett of the Watch
+{{<spell id="14397" name="Viridithorn Coat">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14400" name="Winter's Blaze">}}|78|PoP|Plane of Knowledge|Wanderer Thermon
+{{<spell id="14401" name="Winter's Blaze Rk. II">}}|78|Unknown|Dragonscale Hills|Tonas
+{{<spell id="14427" name="Chant of the Darkvine">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14418" name="Equinox Brand">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14364" name="Gelid Frost">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14467" name="Scales of the Reptile">}}|79|PoP|Plane of Knowledge|Wanderer Thermon
+{{<spell id="14468" name="Scales of the Reptile Rk. II">}}|79|Unknown|Loping Plains|Derak Fangbreaker
+{{<spell id="14469" name="Scales of the Reptile Rk. III">}}|79|Unknown|Loping Plains|Brett of the Watch
+{{<spell id="14409" name="Sunsear">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="15280" name="Talisman of the Stalwart">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14267" name="Tectonic Upheaval">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14445" name="Adrenaline Swell">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14436" name="Blessing of the Ironwood">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="21984" name="Circle of Brell's Rest">}}|80|PoP|Plane of Knowledge|Marie Fay
+{{<spell id="20539" name="Circle of Plane of Time">}}|80|PoP|Plane of Knowledge|Wanderer Thermon
+{{<spell id="14464" name="Crescentbloom">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14439" name="Hoar Crystals">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14433" name="Legacy of Viridithorns">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14442" name="Mask of the Shadowcat">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14358" name="Nature's Burning Wrath">}}|80|PoP|Plane of Knowledge|Wanderer Thermon
+{{<spell id="14359" name="Nature's Burning Wrath Rk. II">}}|80|Unknown|The Steam Factory|Karri
+{{<spell id="14360" name="Nature's Burning Wrath Rk. III">}}|80|Unknown|The Steam Factory|Little Bo
+{{<spell id="14451" name="Preincarnation">}}|80|PoP|Plane of Knowledge|Mystic Somas
+{{<spell id="21986" name="Ring of Brell's Rest">}}|80|PoP|Plane of Knowledge|Marie Fay
+{{<spell id="20540" name="Ring of Plane of Time">}}|80|PoP|Plane of Knowledge|Wanderer Thermon
+{{<spell id="21989" name="Zephyr: Brell's Rest">}}|80|PoP|Plane of Knowledge|Marie Fay
+{{<spell id="20538" name="Zephyr: Plane of Time">}}|80|PoP|Plane of Knowledge|Wanderer Thermon
+{{<spell id="18470" name="Beast's Befriending">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18540" name="Carve Whistle">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18401" name="Cascading Hail">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18407" name="Nature's Peace">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19397" name="Spirit of the Resolute">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18395" name="Squall of the Stormborn">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18392" name="Withering Sunray">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18422" name="Brierbloom Bulwark">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18419" name="Coldwhisper Breath">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18431" name="Granvida">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18519" name="Harvesting Inferno">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18428" name="Heartwood Skin">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18534" name="Promised Reknit">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18549" name="Wild Growth">}}|82|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18437" name="Brierbloom Coat">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18434" name="Horde of the Hive">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18525" name="Morning's Glory">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18243" name="Repel Corruption">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18425" name="Skin to Flora">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18404" name="Blanched Frost">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18508" name="Carapace of the Reptile Rk. II">}}|84|Unknown|Korafax, Home of the Riders|Herald of Druzzil Ro
+{{<spell id="18467" name="Chant of the Burynai">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18389" name="Purified Blood">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18458" name="Summer Solstice">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18449" name="Sunsinge">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19442" name="Talisman of the Resolute">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18288" name="Tectonic Tumult">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18485" name="Adrenaline Burst">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18476" name="Blessing of the Heartwood">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="17883" name="Circle of the Grounds">}}|85|Unknown|The Feerrott|Kaelynn Stearns
+{{<spell id="18479" name="Glaciating Crystals">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18473" name="Legacy of Brierbloom">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18504" name="Lunulation">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18482" name="Mask of the Raptor">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="17882" name="Ring of the Grounds">}}|85|Unknown|The Feerrott|Kaelynn Stearns
+{{<spell id="17884" name="Zephyr: the Grounds">}}|85|Unknown|The Feerrott|Kaelynn Stearns
+{{<spell id="25719" name="Beast's Beguiling">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25722" name="Cyclonic Hail">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25725" name="Grasp of Ro">}}|86|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25731" name="Mammoth's Force">}}|86|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25734" name="Nature's Harmony">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25741" name="Scorching Sunray">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25744" name="Shear of the Stormborn">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25701" name="Spirit of the Relentless">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25737" name="Thornspur">}}|86|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25759" name="Benevida">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25753" name="Bonebriar Bulwark">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25747" name="Bracing Breath">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25768" name="Eyes of the Winter Hawk">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25762" name="Promised Replenishment">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25756" name="Timbercore Skin">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25704" name="Untamed Growth">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25771" name="Wildfire Aura">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25707" name="Annihilate the Divergent">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25783" name="Bonebriar Coat">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25786" name="Daybreak">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25792" name="Frostfell Aura">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25780" name="Horde of Scoriae">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25068" name="Reject Corruption">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25801" name="Remote Sunflare">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25807" name="Skin to Leaves">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25810" name="Survival of the Propitious">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25813" name="Winter's Pyre">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25822" name="Argent Frost">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25710" name="Chant of the Tae Ew">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25828" name="Gelid Moonbeam">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25831" name="Polyporous Assault">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25071" name="Purged Blood">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25837" name="Shell of the Reptile">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25852" name="Summer Prominence">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25849" name="Sunbrand">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25846" name="Sunrise Blessing">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25713" name="Talisman of the Relentless">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25074" name="Tectonic Shock">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25874" name="Adrenaline Blast">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25855" name="Arboreal Absolution">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25868" name="Argent Crystals">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25865" name="Blessing of the Timbercore">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25862" name="Legacy of Bonebriar">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25880" name="Lunamelioration">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25871" name="Mask of the Arboreal">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25892" name="Nature's Incinerating Wrath">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25883" name="Rejuvilation">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25886" name="Surge of Bonebriars">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="28812" name="Beast's Behest">}}|91|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28837" name="Blazing Sunray">}}|91|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28815" name="Crashing Hail">}}|91|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28840" name="Cyclone of the Stormborn">}}|91|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28827" name="Fawnwalker's Breeze">}}|91|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28824" name="Heliacal Flare">}}|91|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28830" name="Nature's Tranquility">}}|91|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28796" name="Spirit of the Indomitable">}}|91|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="28843" name="Encompassing Breath">}}|92|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28858" name="Lunar Chill">}}|92|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28864" name="Promised Revitalization">}}|92|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28855" name="Sanavida">}}|92|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28849" name="Spineburr Bulwark">}}|92|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28852" name="Stonebark Skin">}}|92|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28799" name="Unfettered Growth">}}|92|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="28870" name="Wildblaze Aura">}}|92|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="28888" name="Frostcloak Aura">}}|93|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="28879" name="Horde of Vespids">}}|93|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28085" name="Rescind Corruption">}}|93|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28903" name="Skin to Foliage">}}|93|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28882" name="Spineburr Coat">}}|93|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28806" name="Chant of the Izon">}}|94|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="28927" name="Myconid Assault">}}|94|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="28088" name="Perfected Blood">}}|94|Unknown|Argath, Bastion of Illdaera|Ephinia
+{{<spell id="28809" name="Talisman of the Indomitable">}}|94|Unknown|Argath, Bastion of Illdaera|Stup

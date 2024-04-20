@@ -311,3 +311,171 @@ Name|Lvl|Era|Zone|NPC
 {{<spell id="7684" name="Focus Elaborate Spellcaster's Empowering Essence">}}|70|PoP|Plane of Knowledge|Channeler Alyrianne
 {{<spell id="8520" name="Grave Pact">}}|70|PoP|Plane of Knowledge|Heretic Ceikon
 {{<spell id="8522" name="Mind Flay">}}|70|PoP|Plane of Knowledge|Heretic Ceikon
+{{<spell id="5439" name="Word of Chaos">}}|70|PoP|Plane of Knowledge|Heretic Ceikon
+{{<spell id="10494" name="Drain Life">}}|71|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10488" name="Drink of Vitae">}}|71|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10042" name="Exhumer's Call">}}|71|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="10479" name="Severan's Rot">}}|71|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10476" name="Shield of Darkness">}}|71|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="11792" name="Umbra Orb">}}|71|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10470" name="Venin">}}|71|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="11798" name="Bonestitch Fetish">}}|72|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11800" name="Bonestitch Fetish Rk. III">}}|72|Unknown|Katta Castrum|Master Ellestellian
+{{<spell id="10507" name="Curse of Mortality">}}|72|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10510" name="Dyn`leth's Grasp">}}|72|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="9990" name="Form of Restless Spirits">}}|72|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10506" name="Riza`farr's Shadow">}}|72|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10516" name="Scent of Twilight">}}|72|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10503" name="Sigil of the Unnatural">}}|72|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10522" name="Bloodcurdling Shriek">}}|73|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10537" name="Chilling Renewal">}}|73|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="11810" name="Pyre of the Fallen">}}|73|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11812" name="Pyre of the Fallen Rk. III">}}|73|Unknown|Katta Castrum|Master Ellestellian
+{{<spell id="10534" name="Rimebone Shackles">}}|73|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10528" name="Spectral Guard">}}|73|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10531" name="Wraithskin">}}|73|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10741" name="Aegis of Calliav">}}|74|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10543" name="Ashengate Pyre">}}|74|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10519" name="Coruscating Darkness">}}|74|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="7697" name="Focus Mass Elaborate Spellcaster's Empowering Essence">}}|74|PoP|Plane of Knowledge|Illusionist Acored
+{{<spell id="11804" name="Mind Dissection">}}|74|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10558" name="Otherside">}}|74|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10555" name="Vakk`dra's Sickly Mists">}}|74|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10546" name="Wilting Foliage">}}|74|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10565" name="Annihilate Undead">}}|75|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10482" name="Demand for Blood">}}|75|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="7685" name="Focus Ornate Spellcaster's Empowering Essence">}}|75|PoP|Plane of Knowledge|Illusionist Acored
+{{<spell id="9991" name="Form of Rotting Flesh">}}|75|PoP|Plane of Knowledge|Heretic Niraf
+{{<spell id="11789" name="Kedgefish Venom">}}|75|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11791" name="Kedgefish Venom Rk. III">}}|75|Unknown|Katta Castrum|Master Ellestellian
+{{<spell id="10561" name="Putrescent Servant">}}|75|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="10562" name="Vakk`dra's Command">}}|75|PoP|Plane of Knowledge|Outcast Sayrus
+{{<spell id="14830" name="Bulwark of Shadows">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14833" name="Eranon's Decay">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14910" name="Phantasmal Orb">}}|76|PoP|Plane of Knowledge|Heretic Niraf
+{{<spell id="14823" name="Procure Corpse">}}|76|PoP|Plane of Knowledge|Reaver Praden
+{{<spell id="14824" name="Ruinous Venin">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14846" name="Siphon Essence">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14856" name="Anathema of Life">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14915" name="Bonestitch Charm">}}|77|PoP|Plane of Knowledge|Heretic Niraf
+{{<spell id="14916" name="Bonestitch Charm Rk. II">}}|77|Unknown|Loping Plains|Derak Fangbreaker
+{{<spell id="14917" name="Bonestitch Charm Rk. III">}}|77|Unknown|Loping Plains|Brett of the Watch
+{{<spell id="14933" name="Putrefaction">}}|77|PoP|Plane of Knowledge|Heretic Niraf
+{{<spell id="14934" name="Putrefaction Rk. II">}}|77|Unknown|Dragonscale Hills|Vesiss
+{{<spell id="14855" name="Relamar's Shade">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14865" name="Scent of Afterlight">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14852" name="Sigil of the Aberrant">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14859" name="Visziaj's Grasp">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14886" name="Pyre of the Lifeless">}}|78|PoP|Plane of Knowledge|Heretic Niraf
+{{<spell id="14887" name="Pyre of the Lifeless Rk. II">}}|78|Unknown|Dragonscale Hills|Automated Vending Unit II
+{{<spell id="14888" name="Pyre of the Lifeless Rk. III">}}|78|Unknown|Dragonscale Hills|Ak`anon Supplier Mark LXXXVIII
+{{<spell id="14880" name="Riftbone Manacles">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14877" name="Shadowskin">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14874" name="Spectral Ward">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14871" name="Spine-Chilling Shriek">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14883" name="Wintry Revival">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14904" name="Aegis of Kildrukaun">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14868" name="Auroral Darkness">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="7698" name="Focus Mass Ornate Spellcaster's Empowering Essence">}}|79|PoP|Plane of Knowledge|Illusionist Warek
+{{<spell id="14921" name="Mental Vivisection">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14927" name="Reaver's Pyre">}}|79|PoP|Plane of Knowledge|Heretic Niraf
+{{<spell id="14928" name="Reaver's Pyre Rk. II">}}|79|Unknown|Dragonscale Hills|Aring
+{{<spell id="14894" name="Spectralside">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14891" name="Visziaj's Pallid Haze">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="7686" name="Focus Runed Spellcaster's Empowering Essence">}}|80|PoP|Plane of Knowledge|Illusionist Warek
+{{<spell id="14897" name="Noxious Servant">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14936" name="Searing Shadow">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14930" name="Splort">}}|80|PoP|Plane of Knowledge|Heretic Niraf
+{{<spell id="14932" name="Splort Rk. III">}}|80|Unknown|Hills of Shade|Shelsy Shadestepper
+{{<spell id="14836" name="Supplication of Blood">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14907" name="Venonscale Venom">}}|80|PoP|Plane of Knowledge|Heretic Niraf
+{{<spell id="14908" name="Venonscale Venom Rk. II">}}|80|Unknown|The Steam Factory|Karri
+{{<spell id="14909" name="Venonscale Venom Rk. III">}}|80|Unknown|The Steam Factory|Little Bo
+{{<spell id="14898" name="Visziaj's Command">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="18951" name="Drain Essence">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19016" name="Finsternacht Orb Rk. II">}}|81|Unknown|Korafax, Home of the Riders|Herald of Druzzil Ro
+{{<spell id="18938" name="Megrima's Decay">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18928" name="Reaper's Call">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18558" name="Shield of the Void">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18929" name="Withering Venin">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18960" name="Bloodreaper's Shade">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18964" name="Fellid's Grasp">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18961" name="Mortal Coil">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19038" name="Putrescence">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18970" name="Scent of Gloom">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18976" name="Bone-Rattling Shriek">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18982" name="Corpseskin">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18988" name="Icy Stitches">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18985" name="Voidwhisper Manacles">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18973" name="Clawing Darkness">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18996" name="Fellid's Pallid Haze">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19044" name="Ignite Energy">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19026" name="Mind Decomposition">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18999" name="Netherside">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18941" name="Exigency for Blood">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19003" name="Fellid's Command">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19035" name="Splart">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19002" name="Unliving Murderer">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="26336" name="Blighted Venin">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26350" name="Burlabis' Swift Venom">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26339" name="Divert Essence">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26347" name="Folasar's Decay">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25555" name="Reaper's Beckon">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26333" name="Shield of Dreams">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="26353" name="Arachne's Grasp">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26359" name="Aziad's Shade">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26360" name="Bonestitch Manikin">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26366" name="Cascading Deathshield">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26381" name="Demise">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26384" name="Fetidity">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26387" name="Ninavero's Swift Deconstruction">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26390" name="Scent of Doom">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26393" name="Sigil of the Moribund">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26396" name="Bestow Unlife">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26402" name="Dismay">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26405" name="Gelid Mending">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26408" name="Grimskin">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26417" name="Pyre of the Bereft">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26411" name="Soulbound Manacles">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26420" name="Sphere of Blight">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26414" name="Tenak's Flashblaze">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26426" name="Arachne's Pallid Haze">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26429" name="Darkside">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26432" name="Necrotic Boils">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26438" name="Pyre of Nos">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26441" name="Rilfed's Swift Sickness">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26444" name="Scapegoat">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26456" name="Tenuous Darkness">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26462" name="Thought Flay">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26459" name="Thoughtburn">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26468" name="Arachne's Command">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26471" name="Argendev's Venom">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26474" name="Blistering Shadow">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26477" name="Call Skeleton Crush">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26480" name="Compel for Blood">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26486" name="Energize Ally">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26492" name="Ninavero's Swift Lifedraw">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26498" name="Raised Assassin">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26499" name="Scorch Bones">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26505" name="Splirt">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="29451" name="Bleed Essence">}}|91|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="29448" name="Decaying Venin">}}|91|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="29462" name="Grip of Zargo">}}|91|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="29465" name="Hyboram's Swift Venom">}}|91|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="28632" name="Reaper's Decree">}}|91|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="29445" name="Shield of Bronze">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29459" name="Ulork's Decay">}}|91|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="29478" name="Bonemeld Fetish">}}|92|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29499" name="Doom">}}|92|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="29505" name="Hral's Swift Deconstruction">}}|92|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="29471" name="Ivrikdal's Grasp">}}|92|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="29502" name="Mortification">}}|92|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="29508" name="Scent of Nightfall">}}|92|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="29477" name="Vak`Ridel's Shade">}}|92|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29541" name="Brimtav's Flashblaze">}}|93|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="29532" name="Chilled Mending">}}|93|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="29529" name="Dread">}}|93|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="29535" name="Ghoulskin">}}|93|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="29538" name="Shadeslither Manacles">}}|93|Unknown|Argath, Bastion of Illdaera|Shelif
+{{<spell id="29547" name="Sphere of Withering">}}|93|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29604" name="Call Skeleton Host">}}|95|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner

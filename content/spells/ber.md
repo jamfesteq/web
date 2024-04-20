@@ -66,3 +66,65 @@ Name|Lvl|Era|Zone|NPC
 {{<spell id="6729" name="Destroyer's Volley">}}|69|PoP|Plane of Knowledge|Kurlond Axebringer
 {{<spell id="8477" name="Bloodlust Aura">}}|70|PoP|Plane of Knowledge|Kurlond Axebringer
 {{<spell id="8476" name="Bloodthirst">}}|70|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="6199" name="Vengeful Flurry Discipline">}}|70|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="10907" name="Axe of the Annihilator">}}|71|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="10908" name="Tendon Cleave">}}|71|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="11913" name="Second Wind">}}|72|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="11914" name="Second Wind Rk. II">}}|72|Unknown|Katta Castrum|Trader Gulleus
+{{<spell id="11915" name="Second Wind Rk. III">}}|72|Unknown|Katta Castrum|Master Renalto
+{{<spell id="10914" name="Unsettling Scream">}}|72|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="10917" name="Temple Blow">}}|73|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="11928" name="Annihilator's Volley">}}|74|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="11929" name="Annihilator's Volley Rk. II">}}|74|Unknown|Katta Castrum|Trader Gulleus
+{{<spell id="10920" name="Jarring Strike">}}|74|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="10923" name="Berserking Discipline">}}|75|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="14176" name="Axe of the Decimator">}}|76|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="14177" name="Tendon Sever">}}|76|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="14180" name="Agitating Scream">}}|77|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="14192" name="Third Wind">}}|77|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="14183" name="Temple Strike">}}|78|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="14195" name="Decimator's Volley">}}|79|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="14196" name="Decimator's Volley Rk. II">}}|79|Unknown|Dragonscale Hills|Automated Vending Unit II
+{{<spell id="14197" name="Decimator's Volley Rk. III">}}|79|Unknown|Dragonscale Hills|Ak`anon Supplier Mark LXXXVIII
+{{<spell id="14186" name="Jarring Smash">}}|79|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="14198" name="Battle Frenzy">}}|80|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="14199" name="Battle Frenzy Rk. II">}}|80|Unknown|Loping Plains|Derak Fangbreaker
+{{<spell id="14200" name="Battle Frenzy Rk. III">}}|80|Unknown|Loping Plains|Brett of the Watch
+{{<spell id="18197" name="Axe of the Eradicator">}}|81|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="16918" name="Overpowering Frenzy">}}|81|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="18198" name="Tendon Shear">}}|81|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="18201" name="Distressing Scream">}}|82|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="18213" name="Fourth Wind">}}|82|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="18210" name="Blood Hatchet">}}|83|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="18204" name="Temple Bash">}}|83|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="19753" name="Vigorous Axe Throw">}}|83|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="18216" name="Eradicator's Volley">}}|84|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="18207" name="Jarring Clash">}}|84|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="19741" name="Axe of Rallos">}}|85|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="18219" name="Combat Frenzy">}}|85|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="18220" name="Combat Frenzy Rk. II">}}|85|Unknown|Korafax, Home of the Riders|Herald of Druzzil Ro
+{{<spell id="22506" name="Shared Bloodlust">}}|85|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27256" name="Axe of the Savage">}}|86|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27257" name="Cleaving Acrimony Discipline">}}|86|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27260" name="Overwhelming Frenzy">}}|86|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="25000" name="Respite">}}|86|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27263" name="Tendon Lacerate">}}|86|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27266" name="Distracting Scream">}}|87|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="25003" name="Fifth Wind">}}|87|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27269" name="Slap in the Face">}}|87|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27272" name="Blood Axe">}}|88|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27278" name="Energetic Axe Throw">}}|88|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27281" name="Temple Chop">}}|88|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27284" name="Avenging Flurry Discipline">}}|89|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27290" name="Jarring Slam">}}|89|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27287" name="Savage Volley">}}|89|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27293" name="Axe of Graster">}}|90|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27308" name="Fighting Frenzy">}}|90|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27317" name="Shared Brutality">}}|90|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="30402" name="Axe of the Sunderer">}}|91|Unknown|Argath, Bastion of Illdaera|Danibi
+{{<spell id="30409" name="Conquering Frenzy">}}|91|Unknown|Argath, Bastion of Illdaera|Danibi
+{{<spell id="30412" name="Tendon Slash">}}|91|Unknown|Argath, Bastion of Illdaera|Danibi
+{{<spell id="30415" name="Perturbing Scream">}}|92|Unknown|Argath, Bastion of Illdaera|Danibi
+{{<spell id="28003" name="Sixth Wind">}}|92|Unknown|Argath, Bastion of Illdaera|Danibi
+{{<spell id="30421" name="Blood Blade">}}|93|Unknown|Argath, Bastion of Illdaera|Danibi
+{{<spell id="30427" name="Spirited Axe Throw">}}|93|Unknown|Argath, Bastion of Illdaera|Danibi

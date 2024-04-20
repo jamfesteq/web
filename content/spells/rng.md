@@ -155,3 +155,115 @@ Name|Lvl|Era|Zone|NPC
 {{<spell id="8491" name="Elddar's Grasp">}}|70|PoP|Plane of Knowledge|Pathfinder Naend
 {{<spell id="5315" name="Onyx Skin">}}|70|PoP|Plane of Knowledge|Pathfinder Naend
 {{<spell id="8490" name="Scorched Earth">}}|70|PoP|Plane of Knowledge|Pathfinder Naend
+{{<spell id="5317" name="Ward of the Hunter">}}|70|PoP|Plane of Knowledge|Pathfinder Naend
+{{<spell id="10089" name="Cloud of Wasps">}}|71|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="10110" name="Drifting Fog">}}|71|PoP|Plane of Knowledge|The Quiet Wanderer
+{{<spell id="11845" name="Nature's Entropy">}}|71|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11846" name="Nature's Entropy Rk. II">}}|71|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="11847" name="Nature's Entropy Rk. III">}}|71|Unknown|Katta Castrum|Master Ulyssus
+{{<spell id="10080" name="Shield of Needles">}}|71|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="10092" name="Sunderock Springwater">}}|71|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="10104" name="Icefall Chill">}}|72|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="10098" name="Strength of the Forest Stalker">}}|72|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="10077" name="Potameid Salve">}}|73|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="10113" name="Snarl of the Predator">}}|73|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="9917" name="Vinelash Cascade">}}|73|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="9918" name="Vinelash Cascade Rk. II">}}|73|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="9919" name="Vinelash Cascade Rk. III">}}|73|Unknown|Katta Castrum|Master Patales
+{{<spell id="10116" name="Volcanic Ash">}}|73|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="10140" name="Eyes of the Owl">}}|74|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="10128" name="Obsidian Skin">}}|74|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="10122" name="Summer's Dew">}}|74|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="10146" name="Consumed by the Hunt">}}|75|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="10119" name="Heartshot">}}|75|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="10131" name="Protection of the Minohten">}}|75|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="10134" name="Thundering Blades">}}|75|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10135" name="Thundering Blades Rk. II">}}|75|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="10136" name="Thundering Blades Rk. III">}}|75|Unknown|Katta Castrum|Master Ulyssus
+{{<spell id="15026" name="Dragonscale Aquifer">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15035" name="Drifting Haze">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="21399" name="Eradicate Disease">}}|76|PoP|Plane of Knowledge|Mystic Ryrin
+{{<spell id="21398" name="Eradicate Poison">}}|76|PoP|Plane of Knowledge|Mystic Ryrin
+{{<spell id="15023" name="Horde of Hornets">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15017" name="Shield of Spurs">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15079" name="Skylight Sagacity">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="15076" name="Cloak of Scales">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="15021" name="Jolting Snapkicks Rk. II">}}|77|Unknown|The Steam Factory|Karri
+{{<spell id="15022" name="Jolting Snapkicks Rk. III">}}|77|Unknown|The Steam Factory|Little Bo
+{{<spell id="15085" name="Jolting Strikes">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="15032" name="Rimefall Bite">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="15029" name="Strength of the Gladewalker">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="15082" name="Deadfall">}}|78|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="15083" name="Deadfall Rk. II">}}|78|Unknown|Dragonscale Hills|Aring
+{{<spell id="15041" name="Galvanic Ash">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="15038" name="Gnarl of the Predator">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="15014" name="Potameid Balm">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="15094" name="Arc of Arrows">}}|79|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="15095" name="Arc of Arrows Rk. II">}}|79|Unknown|Loping Plains|Derak Fangbreaker
+{{<spell id="15096" name="Arc of Arrows Rk. III">}}|79|Unknown|Loping Plains|Brett of the Watch
+{{<spell id="15068" name="Eyes of the Peregrine">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="15056" name="Ravenscale">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="15047" name="Summer's Viridity">}}|79|PoP|Plane of Knowledge|Pathfinder Arelat
+{{<spell id="15092" name="Aimshot Discipline Rk. II">}}|80|Unknown|Dragonscale Hills|Automated Vending Unit II
+{{<spell id="15093" name="Aimshot Discipline Rk. III">}}|80|Unknown|Dragonscale Hills|Ak`anon Supplier Mark LXXXVIII
+{{<spell id="15062" name="Deafening Blades">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="15044" name="Heartsting">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="15059" name="Protection of the Kirkoten">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="19155" name="Beetle Swarm">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18540" name="Carve Whistle">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19167" name="Drifting Mist">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19158" name="Oceangreen Aquifer">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19149" name="Shield of Dryspines">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="19208" name="Cloak of Feathers">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19218" name="Jolting Swings Rk. II">}}|82|Unknown|Korafax, Home of the Riders|Herald of Druzzil Ro
+{{<spell id="19161" name="Strength of the Tracker">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19164" name="Windwhip Bite">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="19146" name="Burynai Balm">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19173" name="Cataclysm Ash">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19214" name="Heartpierce">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19238" name="Spinecoat">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19170" name="Yowl of the Predator">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="19226" name="Barrage of Arrows">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19200" name="Eyes of the Nocturnal">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19188" name="Mottlescale">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="19194" name="Crackling Blades">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19235" name="Enraging Shot">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="21683" name="Flusterbolt">}}|85|Unknown|Ashengate, Reliquary of the Scale|Kalim`Kar the Gold
+{{<spell id="19176" name="Heartshear">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="19191" name="Protection of the Paw">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="25417" name="Drifting Cloud">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25420" name="Purefont">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25000" name="Respite">}}|86|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="25423" name="Scarab Swarm">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25426" name="Shield of Nettlespikes">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25444" name="Biting Wind">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25429" name="Cloak of Quills">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25441" name="Strength of the Thicket Stalker">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25459" name="Burning Ash">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25462" name="Heartrend">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25456" name="Lucid Balm">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25471" name="Quillcoat">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25468" name="Roar of the Predator">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25474" name="Stalker's Vigor">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="25486" name="Eyes of the Wolf">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="25492" name="Mottlecoat">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25513" name="Crackling Edges">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25540" name="Focused Tempest of Arrows">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25519" name="Heartslice">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25528" name="Infuriating Shot">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="25531" name="Invigorated by the Hunt">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25537" name="Tempest of Arrows">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="28479" name="Drifting Veil">}}|91|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28482" name="Grasping Nettlecoat">}}|91|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28494" name="Purespring">}}|91|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28500" name="Shield of Bramblespikes">}}|91|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28488" name="Veil of Alaris">}}|91|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28497" name="Vespid Swarm">}}|91|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28503" name="Cloak of Burrs">}}|92|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28521" name="Rime-laced Wind">}}|92|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28518" name="Strength of the Gladetender">}}|92|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28536" name="Beastwood Ash">}}|93|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28548" name="Burrcoat">}}|93|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28545" name="Cry of the Predator">}}|93|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28551" name="Gladewalker's Vigor">}}|93|Unknown|Argath, Bastion of Illdaera|Wonav
+{{<spell id="28539" name="Heartrip">}}|93|Unknown|Argath, Bastion of Illdaera|Wonav

@@ -155,3 +155,145 @@ Name|Lvl|Era|Zone|NPC
 {{<spell id="8488" name="Aura of the Muse">}}|70|PoP|Plane of Knowledge|Minstrel Silnon
 {{<spell id="5383" name="Voice of the Vampire">}}|70|PoP|Plane of Knowledge|Minstrel Silnon
 {{<spell id="5385" name="Vulka's Chant of Flame">}}|70|PoP|Plane of Knowledge|Minstrel Silnon
+{{<spell id="5387" name="Vulka's Lullaby">}}|70|PoP|Plane of Knowledge|Minstrel Silnon
+{{<spell id="10413" name="Aelfric's Last Lullaby">}}|71|PoP|Plane of Knowledge|Raistedas Curlbraids
+{{<spell id="10419" name="Erollisi's Cantata">}}|71|PoP|Plane of Knowledge|Raistedas Curlbraids
+{{<spell id="11873" name="Jonthan's Mightful Caretaker">}}|71|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11874" name="Jonthan's Mightful Caretaker Rk. II">}}|71|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="11875" name="Jonthan's Mightful Caretaker Rk. III">}}|71|Unknown|Katta Castrum|Master Ulyssus
+{{<spell id="10401" name="Whispersong of Veshma">}}|71|PoP|Plane of Knowledge|Raistedas Curlbraids
+{{<spell id="10425" name="Ervaj's Defensive Refrain">}}|72|PoP|Plane of Knowledge|Raistedas Curlbraids
+{{<spell id="10437" name="Song of the Dryads">}}|72|PoP|Plane of Knowledge|Raistedas Curlbraids
+{{<spell id="10431" name="Weshlu's Chillsong Aria">}}|72|PoP|Plane of Knowledge|Raistedas Curlbraids
+{{<spell id="11879" name="Aviak's Wondrous Warble">}}|73|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11880" name="Aviak's Wondrous Warble Rk. II">}}|73|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="11881" name="Aviak's Wondrous Warble Rk. III">}}|73|Unknown|Katta Castrum|Master Ulyssus
+{{<spell id="10443" name="Erollisi's Chorus">}}|73|PoP|Plane of Knowledge|Raistedas Curlbraids
+{{<spell id="10434" name="Fermata of Preservation">}}|73|PoP|Plane of Knowledge|Raistedas Curlbraids
+{{<spell id="10440" name="Performer's Psalm of Pyrotechnics">}}|73|PoP|Plane of Knowledge|Raistedas Curlbraids
+{{<spell id="10449" name="Beckon of the Tuffein">}}|74|PoP|Plane of Knowledge|Raistedas Curlbraids
+{{<spell id="10446" name="Minohten's Purifying Panpipes">}}|74|PoP|Plane of Knowledge|Raistedas Curlbraids
+{{<spell id="10455" name="Queen Eletyl's Screech">}}|74|PoP|Plane of Knowledge|Raistedas Curlbraids
+{{<spell id="10467" name="Denon's Dirge of Destruction">}}|75|PoP|Plane of Knowledge|Raistedas Curlbraids
+{{<spell id="11876" name="Staccato Cadence">}}|75|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11877" name="Staccato Cadence Rk. II">}}|75|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="11878" name="Staccato Cadence Rk. III">}}|75|Unknown|Katta Castrum|Master Ulyssus
+{{<spell id="10458" name="Staccato Rhythms">}}|75|PoP|Plane of Knowledge|Raistedas Curlbraids
+{{<spell id="10461" name="Veshma's Lively Crescendo">}}|75|PoP|Plane of Knowledge|Raistedas Curlbraids
+{{<spell id="14003" name="Amber's Last Lullaby">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14060" name="Aria of the Artist">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14006" name="Cantata of Restoration">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14000" name="Elddar's Dawnsong">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14063" name="Vyskudra's Chant of Disease">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14018" name="Dirge of the Darkvine">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14012" name="Garadell's Fatesong">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14075" name="Rhythm of Restoration">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14066" name="Zeixshi-Kar's Chant of Frost">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14024" name="Chorus of Restoration">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14054" name="Coldcrow's Spry Sonata">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14057" name="Erradien's Psalm of Potency">}}|78|PoP|Plane of Knowledge|Minstrel Cirsaelle
+{{<spell id="14058" name="Erradien's Psalm of Potency Rk. II">}}|78|Unknown|Dragonscale Hills|Automated Vending Unit II
+{{<spell id="14059" name="Erradien's Psalm of Potency Rk. III">}}|78|Unknown|Dragonscale Hills|Ak`anon Supplier Mark LXXXVIII
+{{<spell id="14069" name="Kildrukaun's Chant of Poison">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14021" name="Performer's Explosive Aria">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14033" name="Command of Queen Veneneu">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14027" name="Kirathas' Cleansing Clarinet">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14078" name="War March of Meldrath">}}|79|PoP|Plane of Knowledge|Minstrel Cirsaelle
+{{<spell id="14079" name="War March of Meldrath Rk. II">}}|79|Unknown|Hills of Shade|Lanika Shadestepper
+{{<spell id="14080" name="War March of Meldrath Rk. III">}}|79|Unknown|Hills of Shade|Shelsy Shadestepper
+{{<spell id="14030" name="Yowl of the Bloodmoon">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14081" name="Arcane Anthem">}}|80|PoP|Plane of Knowledge|Minstrel Cirsaelle
+{{<spell id="14087" name="Aura of the Artist">}}|80|PoP|Plane of Knowledge|Minstrel Cirsaelle
+{{<spell id="14088" name="Aura of the Artist Rk. II">}}|80|Unknown|Dragonscale Hills|Jashy
+{{<spell id="14045" name="Denon's Dirge of Devastation">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14039" name="Kaerra's Spirited Crescendo">}}|80|PoP|Plane of Knowledge|Minstrel Cirsaelle
+{{<spell id="14040" name="Kaerra's Spirited Crescendo Rk. II">}}|80|Unknown|The Steam Factory|Karri
+{{<spell id="14041" name="Kaerra's Spirited Crescendo Rk. III">}}|80|Unknown|The Steam Factory|Little Bo
+{{<spell id="14072" name="Tjudawos' Chant of Flame">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="18045" name="Aria of the Poet">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18006" name="Cantata of Rodcet">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18084" name="Requiem for the Lost">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18003" name="Serenity of Oceangreen">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18000" name="Silence of the Void">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18048" name="Trakanon's Chant of Disease">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18012" name="Dirge of the Fallen Rathe">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18009" name="Fatesong of the Gelidran">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18051" name="Gorenaire's Chant of Frost">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18060" name="Pulse of Rodcet">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18018" name="Chorus of Rodcet">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18039" name="Dance of the Dragorn">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18042" name="Druzzil's Psalm of Potency">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18054" name="Severilous' Chant of Poison">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18015" name="Talendor's Aria">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18021" name="Firiona's Blessed Clarinet">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18090" name="Mirror Melody">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18027" name="Slumber of the Mindshear">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18024" name="Voice of the Mindshear">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18063" name="War March of Brekt">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18072" name="Aura of the Poet">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18036" name="Denon's Dirge of Discord">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18057" name="Talendor's Chant of Flame">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="25956" name="Aria of Amelioration">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25962" name="Lullaby of the Lost">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25965" name="Pulse of Renewal">}}|86|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25968" name="Rumbling Barrier">}}|86|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25974" name="Shiverback's Chant of Disease">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25977" name="Silence of the Dreamer">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25980" name="Song of Recalcitrance">}}|86|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25983" name="Aura of Renewal">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25989" name="Dirge of Dreams">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="25992" name="Echo of Renewal">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="25998" name="Fatesong of Fergar">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26001" name="Fergar's Chant of Frost">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="26004" name="Sionachie's Sympathetic Psalm">}}|87|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26010" name="Alleviating Accelerando">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26013" name="Chorus of Renewal">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26016" name="Lyrin's Psalm of Potency">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26025" name="Sionachie's Spry Sonata">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26028" name="Sotor's Aria">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26031" name="Spinechiller's Chant of Poison">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26019" name="Noira's Song of Suffering">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26034" name="Slumber of Sionachie">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26037" name="Voice of Sionachie">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26040" name="War March of Dagda">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="26043" name="Arcane Chorus">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26052" name="Aura of the Composer">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26058" name="Denon's Dirge of Disruption">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26061" name="Echo of the Composer">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26067" name="Lyrin's Insult">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26070" name="Lyrin's Spiteful Lyric">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26076" name="Lyssa's Lively Crescendo">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="26082" name="Sotor's Chant of Flame">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="26085" name="Wave of Dreams">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="29057" name="Aria of Impeccability">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29060" name="Aria of the Orator">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29063" name="Lullaby of the Forlorn">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29066" name="Pulse of Lunanyn">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29078" name="Silence of the Windsong">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29069" name="Thunderous Barrier">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29075" name="Wasinai's Chant of Disease">}}|91|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29081" name="Aura of Lunanyn">}}|92|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29087" name="Echo of Lunanyn">}}|92|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29096" name="Fatesong of Illdaera">}}|92|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29099" name="Kalbrok's Chant of Frost">}}|92|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29093" name="Lapsing Lullaby">}}|92|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29102" name="Assuaging Accelerando">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29105" name="Chorus of Lunanyn">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29123" name="Daevan's Aria">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29126" name="Hiqork's Chant of Poison">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29111" name="Ryken's Reckless Renewal">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29120" name="Terasal's Spry Sonata">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29108" name="Wasinai's Psalm of Potency">}}|93|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29114" name="Hykast's Song of Suffering">}}|94|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29132" name="Oratory of Invitation">}}|94|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29129" name="Oratory of Opposition">}}|94|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29135" name="Slumber of Kolain">}}|94|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29138" name="Voice of Kolain">}}|94|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29141" name="War March of Illdaera">}}|94|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29144" name="Arcane Address">}}|95|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29153" name="Aura of the Orator">}}|95|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29180" name="Daevan's Chant of Flame">}}|95|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29159" name="Echo of the Orator">}}|95|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="29165" name="Hykast's Insult">}}|95|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29168" name="Hykast's Spiteful Lyric">}}|95|Unknown|Argath, Bastion of Illdaera|Nori
+{{<spell id="29174" name="Kolain's Lively Crescendo">}}|95|Unknown|Argath, Bastion of Illdaera|Nori

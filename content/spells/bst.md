@@ -171,3 +171,128 @@ Name|Lvl|Era|Zone|NPC
 {{<spell id="8782" name="Rake">}}|70|PoP|Plane of Knowledge|Tana Clawguard
 {{<spell id="6828" name="Sha's Legacy">}}|70|PoP|Plane of Knowledge|Primalist Loerith
 {{<spell id="8783" name="Spirit of Oroshar">}}|70|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="5538" name="Spirit of Rashara">}}|70|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="10324" name="Diregriffon's Bite">}}|71|PoP|Plane of Knowledge|Tavin of the Wild
+{{<spell id="10336" name="Focus of Amilan">}}|71|PoP|Plane of Knowledge|Tavin of the Wild
+{{<spell id="10321" name="Healing of Uluanes">}}|71|PoP|Plane of Knowledge|Tavin of the Wild
+{{<spell id="10373" name="Mammoth-Hide Guard">}}|71|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10374" name="Mammoth-Hide Guard Rk. II">}}|71|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="10375" name="Mammoth-Hide Guard Rk. III">}}|71|Unknown|Katta Castrum|Master Ulyssus
+{{<spell id="10380" name="Fever Spike">}}|72|PoP|Plane of Knowledge|Tavin of the Wild
+{{<spell id="10333" name="Minohten Mending">}}|72|PoP|Plane of Knowledge|Tavin of the Wild
+{{<spell id="10339" name="Spiritual Vim">}}|72|PoP|Plane of Knowledge|Tavin of the Wild
+{{<spell id="10386" name="Bite of the Empress">}}|73|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="10387" name="Bite of the Empress Rk. II">}}|73|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="10388" name="Bite of the Empress Rk. III">}}|73|Unknown|Katta Castrum|Master Ulyssus
+{{<spell id="10342" name="Promised Mending">}}|73|PoP|Plane of Knowledge|Tavin of the Wild
+{{<spell id="10379" name="Spirit of Uluanes">}}|73|PoP|Plane of Knowledge|Tavin of the Wild
+{{<spell id="10349" name="Unparalleled Voracity">}}|73|PoP|Plane of Knowledge|Tavin of the Wild
+{{<spell id="10364" name="Spiked Sleet">}}|74|PoP|Plane of Knowledge|Tavin of the Wild
+{{<spell id="10352" name="Spirit of Lairn">}}|74|PoP|Plane of Knowledge|Tavin of the Wild
+{{<spell id="10370" name="Spiritual Enlightenment">}}|74|PoP|Plane of Knowledge|Tavin of the Wild
+{{<spell id="11869" name="Bark at the Moon">}}|75|PoP|Plane of Knowledge|Halon Griere
+{{<spell id="11870" name="Bark at the Moon Rk. II">}}|75|Unknown|Katta Castrum|Trader Leanian
+{{<spell id="11871" name="Bark at the Moon Rk. III">}}|75|Unknown|Katta Castrum|Master Ulyssus
+{{<spell id="10383" name="Ruthless Ferocity">}}|75|PoP|Plane of Knowledge|Tavin of the Wild
+{{<spell id="10392" name="Spellbreaker's Guard">}}|75|PoP|Plane of Knowledge|Tavin of the Wild
+{{<spell id="10358" name="Steeltrap Jaws">}}|75|PoP|Plane of Knowledge|Tavin of the Wild
+{{<spell id="14135" name="Dragonscale Guard">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="21398" name="Eradicate Poison">}}|76|PoP|Plane of Knowledge|Mystic Ryrin
+{{<spell id="14096" name="Falrazim's Gnashing">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14102" name="Focus of Zott">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14093" name="Salve of Feldan">}}|76|PoP|Plane of Knowledge|Ellymil Cogswin
+{{<spell id="14164" name="Bulwark of Tri'Qaras">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14099" name="Daria's Mending">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14139" name="Fever Surge">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14105" name="Spiritual Vivacity">}}|77|PoP|Plane of Knowledge|Kedem Teague
+{{<spell id="14145" name="Bite of the Borrower">}}|78|PoP|Plane of Knowledge|Primalist Uliag
+{{<spell id="14146" name="Bite of the Borrower Rk. II">}}|78|Unknown|Loping Plains|Derak Fangbreaker
+{{<spell id="14147" name="Bite of the Borrower Rk. III">}}|78|Unknown|Loping Plains|Brett of the Watch
+{{<spell id="14114" name="Peerless Penchant">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14108" name="Promised Recovery">}}|78|PoP|Plane of Knowledge|Elementalist Onaec
+{{<spell id="14109" name="Promised Recovery Rk. II">}}|78|Unknown|Hills of Shade|Hardrin
+{{<spell id="14138" name="Spirit of Silverwing">}}|78|PoP|Plane of Knowledge|Inizen Nogglezop
+{{<spell id="14170" name="Growl of the Puma">}}|79|PoP|Plane of Knowledge|Primalist Uliag
+{{<spell id="14171" name="Growl of the Puma Rk. II">}}|79|Unknown|Hills of Shade|Lanika Shadestepper
+{{<spell id="14172" name="Growl of the Puma Rk. III">}}|79|Unknown|Hills of Shade|Shelsy Shadestepper
+{{<spell id="14129" name="Jagged Torrent">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14117" name="Spirit of Jeswin">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14132" name="Spiritual Epiphany">}}|79|PoP|Plane of Knowledge|Naene Ebonlocke
+{{<spell id="14159" name="Harrow Rk. II">}}|80|Unknown|The Steam Factory|Karri
+{{<spell id="14160" name="Harrow Rk. III">}}|80|Unknown|The Steam Factory|Little Bo
+{{<spell id="14151" name="Howl at the Moon">}}|80|PoP|Plane of Knowledge|Primalist Uliag
+{{<spell id="14152" name="Howl at the Moon Rk. II">}}|80|Unknown|Loping Plains|Derak Fangbreaker
+{{<spell id="14153" name="Howl at the Moon Rk. III">}}|80|Unknown|Loping Plains|Brett of the Watch
+{{<spell id="14123" name="Lockfang Jaws">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14148" name="Spellbreaker's Bulwark">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="14142" name="Vicious Ferocity">}}|80|PoP|Plane of Knowledge|Seyan Ebonlocke
+{{<spell id="18114" name="Focus of Yemall">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18108" name="Ikaav Blood">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18105" name="Salve of Reshan">}}|81|Unknown|Oceangreen Hills|Assistant Josephine
+{{<spell id="18111" name="Cadmael's Mending">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18188" name="Minax's Mending">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18117" name="Spiritual Verve">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18151" name="Tsetsian Endemic">}}|82|Unknown|Old Bloodfields|Herald Argoth
+{{<spell id="18121" name="Promised Rejuvenation Rk. II">}}|83|Unknown|Korafax, Home of the Riders|Herald of Druzzil Ro
+{{<spell id="18150" name="Spirit of Hoshkar">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18126" name="Unrivaled Rapidity">}}|83|Unknown|Field of Scale|Assistant Josic
+{{<spell id="18141" name="Frigid Lance">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18129" name="Spirit of Vaxztn">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18144" name="Spiritual Edification">}}|84|Unknown|Toskirakk|Assistant Josienisa
+{{<spell id="18135" name="Fellgrip Jaws">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18154" name="Savage Ferocity">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="18160" name="Spellbreaker's Aegis">}}|85|Unknown|Old Bloodfields|Assistant Josoth
+{{<spell id="27104" name="Focus of Emiq">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="27107" name="Neivr's Aggression">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="27110" name="Neivr's Protection">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="25000" name="Respite">}}|86|PoP|Plane of Knowledge|Kurlond Axebringer
+{{<spell id="27113" name="Salve of Sevna">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="27116" name="Spinechiller Blood">}}|86|Unknown|The Feerrott|Feril Brandigar
+{{<spell id="27122" name="Jorra's Mending">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="27128" name="Shiverback Endemic">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="27131" name="Spiritual Valor">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="27134" name="Wilap's Mending">}}|87|Unknown|The Feerrott|William the Tall
+{{<spell id="27146" name="Incomparable Velocity">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="26728" name="Promised Wardmending">}}|88|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="27158" name="Spectral Rampart">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="27161" name="Spirit of Averc">}}|88|Unknown|The Feerrott|Dyla
+{{<spell id="27162" name="Frozen Venin">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="27171" name="Glacial Lance">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="27174" name="Glacial Roar">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="27177" name="Growl of the Tiger">}}|89|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="27183" name="Spirit of Kron">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="27189" name="Spiritual Enhancement">}}|89|Unknown|The Feerrott|Gonop
+{{<spell id="27192" name="Callous Ferocity">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="27195" name="Deadlock Jaws">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="27201" name="Kron's Maelstrom">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="27219" name="Rush">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="27222" name="Shout at the Moon">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="27229" name="Spellbreaker's Rampart">}}|90|Unknown|The Feerrott|Kyluc
+{{<spell id="27235" name="Tuzil's Feralgia">}}|90|Unknown|The Feerrott|Rotharran Radhelm
+{{<spell id="30265" name="Binaesa Blood">}}|91|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30253" name="Focus of Klar">}}|91|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30256" name="Mea's Aggression">}}|91|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30259" name="Mea's Protection">}}|91|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30247" name="Natural Collaboration">}}|91|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30262" name="Salve of Yubai">}}|91|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30268" name="Brutal Ferocity">}}|92|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30274" name="Mending of the Izon">}}|92|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30277" name="Silbar's Endemic">}}|92|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30280" name="Spiritual Valiance">}}|92|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30283" name="Yurv's Mending">}}|92|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30307" name="Beastwood Rampart">}}|93|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30289" name="Empowering Warder">}}|93|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30295" name="Exceptional Velocity">}}|93|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="29848" name="Promised Amendment">}}|93|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30304" name="Rotsil's Bite">}}|93|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30310" name="Spirit of Kolos">}}|93|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="30326" name="Frostrift Lance">}}|94|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30329" name="Frostrift Roar">}}|94|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30317" name="Frozen Cyanin">}}|94|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30332" name="Growl of the Lion">}}|94|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30338" name="Spirit of Bale">}}|94|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30344" name="Spiritual Enrichment">}}|94|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30350" name="Bale's Maelstrom">}}|95|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30371" name="Scream at the Moon">}}|95|Unknown|Argath, Bastion of Illdaera|Prilt the Summoner
+{{<spell id="30347" name="Shared Brutal Ferocity">}}|95|Unknown|Argath, Bastion of Illdaera|Stup
+{{<spell id="30378" name="Spellbreaker's Armor">}}|95|Unknown|Argath, Bastion of Illdaera|Stup
