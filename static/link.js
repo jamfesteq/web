@@ -72,11 +72,11 @@ document.addEventListener("DOMContentLoaded", function() {
             e.preventDefault();
         });
 
-        spellLink.addEventListener("click", (e) => {
-            console.log("clicked");
-            let description = spellLink.getElementsByClassName("spell-description")[0]
+        // spellLink.addEventListener("click", (e) => {
+        //     console.log("clicked");
+        //     let description = spellLink.getElementsByClassName("spell-description")[0]
             
-            e.preventDefault();
-        });
+        //     e.preventDefault();
+        // });
     }
 });

@@ -9,154 +9,165 @@ description: Beastlord Spells.
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---
-Salve|1|Classic|Bazaar|Rowyl
-Sense Animals|2|Classic|Bazaar|Rowyl
-Endure Cold|3|Classic|Bazaar|Leon Ereek
-Cure Disease|4|Classic|Bazaar|Vidurlyn Aeminee
-Flash of Light|5|Classic|Bazaar|Likka Sowtsui
-Minor Healing|6|Classic|Bazaar|Rowyl
-Inner Fire|7|Classic|Bazaar|Tokun
-Spirit of Sharik|8|Classic|Bazaar|Tracab
-Endure Fire|9|Classic|Bazaar|Leon Ereek
-Sharik's Replenishing|9|Classic|Bazaar|Tracab
-Scale Skin|10|Classic|Bazaar|Tokun
-Fleeting Fury|11|Classic|Bazaar|Tokun
-Yekan's Quickening|11|Classic|Bazaar|Tracab
-Blast of Frost|12|Classic|Bazaar|Tracab
-Cure Poison|13|Classic|Bazaar|Tokun
-Spirit of Lightning|13|Classic|Bazaar|Tracab
-Sicken|14|Classic|Bazaar|Starn Bearjumper
-Strengthen|14|Classic|Bazaar|Tokun
-Keshuval's Rejuvenation|15|Classic|Bazaar|Tracab
-Spirit of Khaliz|15|Classic|Bazaar|Tracab
-Serpent Sight|16|Classic|Bazaar|Danilla Delucic
-Spirit of Bear|17|Classic|Bazaar|Hoart
-Summon Drink|17|Classic|Bazaar|Likka Sowtsui
-Endure Poison|18|Classic|Bazaar|Leon Ereek
-Spirit of the Blizzard|18|Classic|Bazaar|Tracab
-Tainted Breath|19|Classic|Bazaar|Starn Bearjumper
-Tiny Companion|19|Classic|Bazaar|Rushka Deklamoor
-Drowsy|20|Classic|Bazaar|Tokun
-Light Healing|20|Classic|Bazaar|Rowyl
-Spirit of Keshuval|21|Classic|Bazaar|Tracab
-Endure Disease|22|Classic|Bazaar|Leon Ereek
-Shrink|23|Classic|Bazaar|Hoart
-Spirit of Wolf|24|Classic|Bazaar|Rowyl
-Enduring Breath|25|Classic|Bazaar|Hoart
-Spirit Strike|26|Classic|Bazaar|Hoart
-Turtle Skin|26|Classic|Bazaar|Hoart
-Herikol's Soothing|27|Classic|Bazaar|Tracab
-Spirit of Inferno|28|Classic|Bazaar|Tracab
-Spirit Strength|28|Classic|Bazaar|Barsk
-Bond of the Wild|29|PoP|Plane of Knowledge|Primalist Nydalith
-Spirit Sight|29|Classic|Bazaar|Gadallion
-Summon Food|29|Classic|Bazaar|Leon Ereek
-Spirit of Herikol|30|Classic|Bazaar|Tracab
-Summon Companion|31|Classic|Bazaar|Rushka Deklamoor
-Levitate|32|Classic|Bazaar|Hoart
-Ice Spear|33|Classic|Bazaar|Primalist Worenon
-Endure Magic|34|Classic|Bazaar|Tessia Sowtsui
-Cancel Magic|35|Classic|Bazaar|Leon Ereek
-Envenomed Breath|35|Classic|Bazaar|Starn Bearjumper
-Healing|36|Classic|Bazaar|Barsk
-Yekan's Recovery|36|Classic|Bazaar|Tracab
-Spirit of Ox|37|Classic|Bazaar|Barsk
-Spirit of Monkey|38|Classic|Bazaar|Barsk
-Spirit of the Scorpion|38|Classic|Bazaar|Tracab
-Spirit of the Shrew|39|Classic|Bazaar|Taeri Kuqq
-Spirit of Yekan|39|Classic|Bazaar|Tracab
-Malaria|40|Classic|Bazaar|Primalist Worenon
-Raging Strength|41|Classic|Bazaar|Cralk
-Spiritual Light|41|Classic|Bazaar|Jales Gaelshorad
-Spiritual Brawn|42|Classic|Bazaar|Jales Gaelshorad
-Invisibility|43|Classic|Bazaar|Telor Beteria
-Listless Power|44|Classic|Bazaar|Cralk
-Pack Shrew|44|Classic|Bazaar|Gizula
-Counteract Disease|45|Classic|Bazaar|Dallisen Xalladyr
-Spirit of Kashek|46|Classic|Bazaar|Tracab
-Spirit of Vermin|46|Classic|Bazaar|Tracab
-Frenzy|47|Classic|Bazaar|Barsk
-Frost Shard|47|Classic|Bazaar|Primalist Worenon
-Omakin's Alacrity|47|PoP|Plane of Knowledge|Hejsua Skalkon
-Protect|48|Classic|Bazaar|Barsk
-Vigor of Zehkes|49|Classic|Bazaar|Tracab
-Ward of Calliav|49|Classic|Bazaar|Gizula
-Sha's Lethargy|50|Classic|Bazaar|Glubtak
-Muzzle of Mardu|51|PoP|Plane of Knowledge|Elementalist Padan
-Resist Disease|51|Classic|Bazaar|Senst Ereek
-Resistant Discipline|51|Classic|East Commonlands|Celni Pawfoot
-Spirit of Wind|51|PoP|Plane of Knowledge|Tracab
-Ultravision|51|Classic|Bazaar|Gadallion
-Aid of Khurenz|52|PoP|Plane of Knowledge|Hejsua Skalkon
-Health|52|Classic|Bazaar|Cralk
-Spiritual Radiance|52|PoP|Plane of Knowledge|Jales Gaelshorad
-Venom of the Snake|52|Classic|Bazaar|Dallisen Xalladyr
-Deftness|53|Classic|Bazaar|Bolace
-Spirit of the Storm|53|PoP|Plane of Knowledge|Glubtak
-Talisman of Tnarg|53|Classic|Bazaar|Cralk
-Fearless Discipline|54|Classic|East Commonlands|Celni Pawfoot
-Furious Strength|54|Classic|Bazaar|Bolace
-Ice Shard|54|PoP|Plane of Knowledge|Primalist Nydalith
-Resist Poison|54|Classic|Bazaar|Starn Bearjumper
-Spirit of Omakin|54|PoP|Plane of Knowledge|Hejsua Skalkon
-Spirit of Snow|54|PoP|Plane of Knowledge|Primalist Nydalith
-Chloroplast|55|Classic|Bazaar|Ellona
-Protective Spirit Discipline|55|Classic|East Commonlands|Celni Pawfoot
-Sha's Restoration|55|PoP|Plane of Knowledge|Hejsua Skalkon
-Incapacitate|56|Classic|Bazaar|Tizzy C`Luzz
-Shifting Shield|56|Classic|Bazaar|Cralk
-Spirit of Flame|56|PoP|Plane of Knowledge|Primalist Nydalith
-Spirit of Zehkes|56|PoP|Plane of Knowledge|Hejsua Skalkon
-Dexterity|57|Classic|Bazaar|Chamt
-Greater Healing|57|Classic|Bazaar|Cralk
-Stamina|57|Classic|Bazaar|Bolace
-Guard of Calliav|58|PoP|Plane of Knowledge|Gizula
-Nullify Magic|58|Classic|Bazaar|Senst Ereek
-Spirit of Khurenz|58|PoP|Plane of Knowledge|Hejsua Skalkon
-Talisman of Altuna|58|Classic|Bazaar|Bolace
-Blizzard Blast|59|Classic|Bazaar|Bolace
-Sha's Ferocity|59|PoP|Plane of Knowledge|Hejsua Skalkon
-Spiritual Purity|59|PoP|Plane of Knowledge|Hejsua Skalkon
-Alacrity|60|Classic|Bazaar|Estra Nancer
-Bestial Fury Discipline|60|Classic|East Commonlands|Celni Pawfoot
-Savagery|60|PoP|Plane of Knowledge|Primalist Nydalith
-Sha's Advantage|60|PoP|Plane of Knowledge|Primalist Nydalith
-Spirit of Khati Sha|60|PoP|Plane of Knowledge|Hejsua Skalkon
-Spiritual Strength|60|PoP|Plane of Knowledge|Hejsua Skalkon
-Annul Magic|61|Kunark|Firiona Vie, Overthere|Lithriss Frizen
-Counteract Poison|61|Classic|Bazaar|Starn Bearjumper
-Growl of the Leopard|61|Unknown|The Lavastorm Mountains|Xeib Darkskies
-Healing of Sorsha|61|PoP|Plane of Knowledge|Primalist Loerith
-Infusion of Spirit|61|Classic|Bazaar|Mystic Goharkor
-Scorpion Venom|61|PoP|Plane of Knowledge|Primalist Loerith
-Talisman of Shadoo|61|PoP|Plane of Knowledge|Mystic Ryrin
-Chloroblast|62|Classic|East Commonlands|Rushka Deklamoor
-Spirit of Arag|62|PoP|Plane of Knowledge|Primalist Loerith
-Spiritual Vigor|62|PoP|Plane of Knowledge|Primalist Loerith
-Talisman of Kragg|62|Kunark|Firiona Vie, Overthere|Shelae Wolfkin
-Abolish Disease|63|Classic|Bazaar|Starn Bearjumper
-Arag's Celerity|63|PoP|Plane of Knowledge|Primalist Loerith
-Celerity|63|Classic|Bazaar|Kizya D`Dbth
-Frost Spear|63|PoP|Plane of Knowledge|Primalist Loerith
-Spirit of Rellic|63|PoP|Plane of Knowledge|Primalist Loerith
-Talisman of Jasinth|63|Classic|Bazaar|Mystic Goharkor
-Protection of Calliav|64|Classic|East Commonlands|Taeri Kuqq
-Regrowth|64|Kunark|Firiona Vie, Overthere|Arial Fern
-Spirit of Sorsha|64|PoP|Plane of Knowledge|Primalist Loerith
-Spiritual Dominion|64|PoP|Plane of Knowledge|Primalist Loerith
-Acumen|65|PoP|Plane of Knowledge|Mystic Ryrin
-Ferocity|65|PoP|Plane of Knowledge|Primalist Loerith
-Plague|65|Classic|Bazaar|Starn Bearjumper
-Sha's Revenge|65|PoP|Plane of Knowledge|Primalist Loerith
-Trushar's Frost|65|PoP|Plane of Knowledge|Primalist Loerith
-Trushar's Mending|65|PoP|Plane of Knowledge|Primalist Loerith
-Turepta Blood|65|PoP|Plane of Knowledge|Primalist Loerith
-Healing of Mikkily|66|PoP|Plane of Knowledge|Primalist Loerith
-Bestial Empathy|68|PoP|Plane of Knowledge|Primalist Loerith
-Growl of the Beast|68|PoP|Plane of Knowledge|Primalist Loerith
-Spirit of Irionu|68|PoP|Plane of Knowledge|Primalist Loerith
-Empathic Fury|69|PoP|Plane of Knowledge|Tana Clawguard
-Feral Vigor|69|PoP|Plane of Knowledge|Primalist Loerith
-Glacier Spear|69|PoP|Plane of Knowledge|Primalist Loerith
-Spiritual Ascendance|69|PoP|Plane of Knowledge|Primalist Loerith
-Sha's Legacy|70|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="5011" name="Salve">}}|1|PoP|Plane of Knowledge|Rowyl
+{{<spell id="238" name="Sense Animals">}}|2|PoP|Plane of Knowledge|Rowyl
+{{<spell id="225" name="Endure Cold">}}|3|PoP|Shadow Haven, Plane of Knowledge|Leon Ereek
+{{<spell id="213" name="Cure Disease">}}|4|PoP|Plane of Knowledge|Vidurlyn Aeminee
+{{<spell id="201" name="Flash of Light">}}|5|PoP|Plane of Knowledge|Likka Sowtsui
+{{<spell id="200" name="Minor Healing">}}|6|PoP|Plane of Knowledge|Rowyl
+{{<spell id="267" name="Inner Fire">}}|7|PoP|Plane of Knowledge|Tokun
+{{<spell id="2612" name="Spirit of Sharik">}}|8|PoP|Plane of Knowledge|Tracab
+{{<spell id="224" name="Endure Fire">}}|9|PoP|Plane of Knowledge|Leon Ereek
+{{<spell id="2611" name="Sharik's Replenishing">}}|9|PoP|Plane of Knowledge|Tracab
+{{<spell id="274" name="Scale Skin">}}|10|PoP|Plane of Knowledge|Tokun
+{{<spell id="271" name="Fleeting Fury">}}|11|PoP|Plane of Knowledge|Tokun
+{{<spell id="2068" name="Blast of Frost">}}|12|PoP|Plane of Knowledge|Tracab
+{{<spell id="203" name="Cure Poison">}}|13|PoP|Plane of Knowledge|Tokun
+{{<spell id="2635" name="Spirit of Lightning">}}|13|PoP|Plane of Knowledge|Tracab
+{{<spell id="75" name="Sicken">}}|14|PoP|Plane of Knowledge|Starn Bearjumper
+{{<spell id="40" name="Strengthen">}}|14|PoP|Plane of Knowledge|Tokun
+{{<spell id="2613" name="Keshuval's Rejuvenation">}}|15|PoP|Plane of Knowledge|Tracab
+{{<spell id="2633" name="Spirit of Khaliz">}}|15|PoP|Plane of Knowledge|Tracab
+{{<spell id="276" name="Serpent Sight">}}|16|PoP|Plane of Knowledge|Danilla Delucic
+{{<spell id="279" name="Spirit of Bear">}}|17|PoP|Plane of Knowledge|Hoart
+{{<spell id="211" name="Summon Drink">}}|17|PoP|Plane of Knowledge|Likka Sowtsui
+{{<spell id="227" name="Endure Poison">}}|18|PoP|Plane of Knowledge|Leon Ereek
+{{<spell id="2636" name="Spirit of the Blizzard">}}|18|PoP|Plane of Knowledge|Tracab
+{{<spell id="277" name="Tainted Breath">}}|19|PoP|Plane of Knowledge|Starn Bearjumper
+{{<spell id="3583" name="Tiny Companion">}}|19|Classic|East Commonlands|Rushka Deklamoor
+{{<spell id="270" name="Drowsy">}}|20|PoP|Plane of Knowledge|Tokun
+{{<spell id="17" name="Light Healing">}}|20|PoP|Plane of Knowledge|Rowyl
+{{<spell id="2614" name="Spirit of Keshuval">}}|21|PoP|Plane of Knowledge|Tracab
+{{<spell id="226" name="Endure Disease">}}|22|PoP|Plane of Knowledge|Leon Ereek
+{{<spell id="345" name="Shrink">}}|23|PoP|Plane of Knowledge|Hoart
+{{<spell id="278" name="Spirit of Wolf">}}|24|PoP|Plane of Knowledge|Rowyl
+{{<spell id="86" name="Enduring Breath">}}|25|PoP|Plane of Knowledge|Hoart
+{{<spell id="282" name="Spirit Strike">}}|26|PoP|Plane of Knowledge|Hoart
+{{<spell id="283" name="Turtle Skin">}}|26|PoP|Plane of Knowledge|Hoart
+{{<spell id="2615" name="Herikol's Soothing">}}|27|PoP|Plane of Knowledge|Tracab
+{{<spell id="2637" name="Spirit of Inferno">}}|28|PoP|Plane of Knowledge|Tracab
+{{<spell id="147" name="Spirit Strength">}}|28|PoP|Plane of Knowledge|Barsk
+{{<spell id="79" name="Spirit Sight">}}|29|PoP|Plane of Knowledge|Gadallion
+{{<spell id="50" name="Summon Food">}}|29|PoP|Plane of Knowledge|Leon Ereek
+{{<spell id="2616" name="Spirit of Herikol">}}|30|PoP|Plane of Knowledge|Tracab
+{{<spell id="1285" name="Summon Companion">}}|31|Classic|East Commonlands|Rushka Deklamoor
+{{<spell id="261" name="Levitate">}}|32|PoP|Plane of Knowledge|Hoart
+{{<spell id="3568" name="Ice Spear">}}|33|PoP|Plane of Knowledge|Primalist Worenon
+{{<spell id="228" name="Endure Magic">}}|34|PoP|Plane of Knowledge|Tessia Sowtsui
+{{<spell id="48" name="Cancel Magic">}}|35|Classic|Bazaar|Leon Ereek
+{{<spell id="434" name="Envenomed Breath">}}|35|PoP|Plane of Knowledge|Starn Bearjumper
+{{<spell id="12" name="Healing">}}|36|PoP|Plane of Knowledge|Barsk
+{{<spell id="2617" name="Yekan's Recovery">}}|36|PoP|Plane of Knowledge|Tracab
+{{<spell id="149" name="Spirit of Ox">}}|37|PoP|Plane of Knowledge|Barsk
+{{<spell id="2619" name="Yekan's Quickening">}}|37|PoP|Plane of Knowledge|Tracab
+{{<spell id="146" name="Spirit of Monkey">}}|38|PoP|Plane of Knowledge|Barsk
+{{<spell id="2638" name="Spirit of the Scorpion">}}|38|PoP|Plane of Knowledge|Tracab
+{{<spell id="4054" name="Spirit of the Shrew">}}|39|Classic|East Commonlands|Taeri Kuqq
+{{<spell id="2618" name="Spirit of Yekan">}}|39|PoP|Plane of Knowledge|Tracab
+{{<spell id="3689" name="Malaria">}}|40|PoP|Plane of Knowledge|Primalist Worenon
+{{<spell id="151" name="Raging Strength">}}|41|PoP|Plane of Knowledge|Cralk
+{{<spell id="2176" name="Spiritual Light">}}|41|PoP|Plane of Knowledge|Jales Gaelshorad
+{{<spell id="2178" name="Spiritual Brawn">}}|42|PoP|Plane of Knowledge|Jales Gaelshorad
+{{<spell id="42" name="Invisibility">}}|43|Classic|Bazaar|Telor Beteria
+{{<spell id="162" name="Listless Power">}}|44|PoP|Plane of Knowledge|Cralk
+{{<spell id="4055" name="Pack Shrew">}}|44|PoP|Plane of Knowledge|Gizula
+{{<spell id="96" name="Counteract Disease">}}|45|Kunark|Firiona Vie|Dallisen Xalladyr
+{{<spell id="2621" name="Spirit of Kashek">}}|46|PoP|Plane of Knowledge|Tracab
+{{<spell id="2639" name="Spirit of Vermin">}}|46|PoP|Plane of Knowledge|Tracab
+{{<spell id="308" name="Frenzy">}}|47|PoP|Plane of Knowledge|Barsk
+{{<spell id="3569" name="Frost Shard">}}|47|PoP|Plane of Knowledge|Primalist Worenon
+{{<spell id="649" name="Protect">}}|48|PoP|Plane of Knowledge|Barsk
+{{<spell id="2620" name="Vigor of Zehkes">}}|49|PoP|Plane of Knowledge|Tracab
+{{<spell id="4079" name="Ward of Calliav">}}|49|Classic|East Commonlands|Gizula
+{{<spell id="2634" name="Sha's Lethargy">}}|50|PoP|Plane of Knowledge|Glubtak
+{{<spell id="63" name="Resist Disease">}}|51|PoP|Plane of Knowledge|Senst Ereek
+{{<spell id="4585" name="Resistant Discipline">}}|51|Classic|East Commonlands|Celni Pawfoot
+{{<spell id="2640" name="Spirit of Wind">}}|51|PoP|Plane of Knowledge|Tracab
+{{<spell id="46" name="Ultravision">}}|51|PoP|Plane of Knowledge|Gadallion
+{{<spell id="2622" name="Aid of Khurenz">}}|52|PoP|Plane of Knowledge|Hejsua Skalkon
+{{<spell id="3690" name="Bond of the Wild">}}|52|PoP|Plane of Knowledge|Primalist Nydalith
+{{<spell id="161" name="Health">}}|52|PoP|Plane of Knowledge|Cralk
+{{<spell id="2177" name="Spiritual Radiance">}}|52|PoP|Plane of Knowledge|Jales Gaelshorad
+{{<spell id="435" name="Venom of the Snake">}}|52|PoP|Plane of Knowledge|Dallisen Xalladyr
+{{<spell id="152" name="Deftness">}}|53|PoP|Plane of Knowledge|Bolace
+{{<spell id="2641" name="Spirit of the Storm">}}|53|PoP|Plane of Knowledge|Glubtak
+{{<spell id="167" name="Talisman of Tnarg">}}|53|PoP|Plane of Knowledge|Cralk
+{{<spell id="4587" name="Fearless Discipline">}}|54|Classic|East Commonlands|Celni Pawfoot
+{{<spell id="153" name="Furious Strength">}}|54|PoP|Plane of Knowledge|Bolace
+{{<spell id="3570" name="Ice Shard">}}|54|PoP|Plane of Knowledge|Primalist Nydalith
+{{<spell id="62" name="Resist Poison">}}|54|PoP|Plane of Knowledge|Starn Bearjumper
+{{<spell id="2623" name="Spirit of Omakin">}}|54|PoP|Plane of Knowledge|Hejsua Skalkon
+{{<spell id="2890" name="Spirit of Snow">}}|54|PoP|Plane of Knowledge|Primalist Nydalith
+{{<spell id="145" name="Chloroplast">}}|55|Kunark|Firiona Vie|Ellona
+{{<spell id="2625" name="Omakin's Alacrity">}}|55|PoP|Plane of Knowledge|Hejsua Skalkon
+{{<spell id="4671" name="Protective Spirit Discipline">}}|55|Classic|East Commonlands|Celni Pawfoot
+{{<spell id="2624" name="Sha's Restoration">}}|55|PoP|Plane of Knowledge|Hejsua Skalkon
+{{<spell id="163" name="Incapacitate">}}|56|PoP|Plane of Knowledge|Tizzy C`Luzz
+{{<spell id="431" name="Shifting Shield">}}|56|PoP|Plane of Knowledge|Cralk
+{{<spell id="2888" name="Spirit of Flame">}}|56|PoP|Plane of Knowledge|Primalist Nydalith
+{{<spell id="2626" name="Spirit of Zehkes">}}|56|PoP|Plane of Knowledge|Hejsua Skalkon
+{{<spell id="157" name="Dexterity">}}|57|PoP|Plane of Knowledge|Chamt
+{{<spell id="15" name="Greater Healing">}}|57|Kunark|Firiona Vie|Cralk
+{{<spell id="158" name="Stamina">}}|57|PoP|Plane of Knowledge|Bolace
+{{<spell id="4080" name="Guard of Calliav">}}|58|PoP|Plane of Knowledge|Gizula
+{{<spell id="49" name="Nullify Magic">}}|58|Kunark|Firiona Vie|Senst Ereek
+{{<spell id="2627" name="Spirit of Khurenz">}}|58|PoP|Plane of Knowledge|Hejsua Skalkon
+{{<spell id="168" name="Talisman of Altuna">}}|58|PoP|Plane of Knowledge|Bolace
+{{<spell id="510" name="Blizzard Blast">}}|59|PoP|Plane of Knowledge|Bolace
+{{<spell id="2628" name="Sha's Ferocity">}}|59|PoP|Plane of Knowledge|Hejsua Skalkon
+{{<spell id="2629" name="Spiritual Purity">}}|59|PoP|Plane of Knowledge|Hejsua Skalkon
+{{<spell id="170" name="Alacrity">}}|60|PoP|Plane of Knowledge|Estra Nancer
+{{<spell id="4678" name="Bestial Fury Discipline">}}|60|Classic|East Commonlands|Celni Pawfoot
+{{<spell id="2941" name="Savagery">}}|60|PoP|Plane of Knowledge|Primalist Nydalith
+{{<spell id="2942" name="Sha's Advantage">}}|60|PoP|Plane of Knowledge|Primalist Nydalith
+{{<spell id="2631" name="Spirit of Khati Sha">}}|60|PoP|Plane of Knowledge|Hejsua Skalkon
+{{<spell id="2630" name="Spiritual Strength">}}|60|PoP|Plane of Knowledge|Hejsua Skalkon
+{{<spell id="1526" name="Annul Magic">}}|61|Kunark|Firiona Vie, Overthere|Lithriss Frizen
+{{<spell id="95" name="Counteract Poison">}}|61|PoP|Plane of Knowledge|Starn Bearjumper
+{{<spell id="6740" name="Growl of the Leopard">}}|61|PoP|Plane of Knowledge|Xeib Darkskies
+{{<spell id="3455" name="Healing of Sorsha">}}|61|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="3454" name="Infusion of Spirit">}}|61|PoP|Plane of Knowledge|Mystic Goharkor
+{{<spell id="3492" name="Scorpion Venom">}}|61|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="1571" name="Talisman of Shadoo">}}|61|PoP|Plane of Knowledge|Mystic Ryrin
+{{<spell id="1290" name="Chloroblast">}}|62|Classic|East Commonlands|Rushka Deklamoor
+{{<spell id="3457" name="Spirit of Arag">}}|62|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="3456" name="Spiritual Vigor">}}|62|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="1585" name="Talisman of Kragg">}}|62|Kunark|Firiona Vie, Overthere|Shelae Wolfkin
+{{<spell id="98" name="Abolish Disease">}}|63|PoP|Plane of Knowledge|Starn Bearjumper
+{{<spell id="3458" name="Arag's Celerity">}}|63|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="171" name="Celerity">}}|63|Classic|East Commonlands|Kizya D`Dbth
+{{<spell id="3493" name="Frost Spear">}}|63|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="3459" name="Spirit of Rellic">}}|63|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="1570" name="Talisman of Jasinth">}}|63|PoP|Plane of Knowledge|Mystic Goharkor
+{{<spell id="4081" name="Protection of Calliav">}}|64|Classic|East Commonlands|Taeri Kuqq
+{{<spell id="1568" name="Regrowth">}}|64|Kunark|Firiona Vie, Overthere|Arial Fern
+{{<spell id="3461" name="Spirit of Sorsha">}}|64|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="3460" name="Spiritual Dominion">}}|64|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="1575" name="Acumen">}}|65|PoP|Plane of Knowledge|Mystic Ryrin
+{{<spell id="3463" name="Ferocity">}}|65|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="32" name="Plague">}}|65|Kunark|Overthere|Starn Bearjumper
+{{<spell id="3462" name="Sha's Revenge">}}|65|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="4876" name="Trushar's Frost">}}|65|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="4875" name="Trushar's Mending">}}|65|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="4874" name="Turepta Blood">}}|65|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="5527" name="Chimera Blood">}}|66|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="21399" name="Eradicate Disease">}}|66|PoP|Plane of Knowledge|Mystic Ryrin
+{{<spell id="5526" name="Healing of Mikkily">}}|66|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="5529" name="Focus of Alladnu">}}|67|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="5528" name="Muada's Mending">}}|67|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="5530" name="Spiritual Vitality">}}|67|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="8021" name="Bestial Empathy">}}|68|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="5533" name="Growl of the Beast">}}|68|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="5531" name="Spirit of Alladnu">}}|68|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="5534" name="Spirit of Irionu">}}|68|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="8233" name="Empathic Fury">}}|69|PoP|Plane of Knowledge|Tana Clawguard
+{{<spell id="5539" name="Feral Guard">}}|69|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="5536" name="Feral Vigor">}}|69|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="5535" name="Glacier Spear">}}|69|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="6672" name="Growl of the Panther">}}|69|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="5537" name="Spiritual Ascendance">}}|69|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="5542" name="Ferocity of Irionu">}}|70|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="5540" name="Festering Malady">}}|70|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="8782" name="Rake">}}|70|PoP|Plane of Knowledge|Tana Clawguard
+{{<spell id="6828" name="Sha's Legacy">}}|70|PoP|Plane of Knowledge|Primalist Loerith
+{{<spell id="8783" name="Spirit of Oroshar">}}|70|PoP|Plane of Knowledge|Primalist Loerith

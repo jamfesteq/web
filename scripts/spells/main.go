@@ -40,7 +40,7 @@ func main() {
 func run() error {
 	var err error
 	var db *sqlx.DB
-	db, err = sqlx.Open("mysql", fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?parseTime=true", "root", "mariadb", "127.0.0.1", "3306", "peq"))
+	db, err = sqlx.Open("mysql", fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?parseTime=true", "peq", "peqpass", "127.0.0.1", "3306", "peq"))
 	if err != nil {
 		return fmt.Errorf("sql.Open: %w", err)
 	}
@@ -160,7 +160,7 @@ func run() error {
 					if era == "" {
 						era = "Unknown"
 					}
-					out += fmt.Sprintf("%s|%d|%s|%s|%s\n", spellBest.SpellName, spellBest.SpellLevel, era, strings.Join(zones, ", "), strings.ReplaceAll(strings.ReplaceAll(spellBest.NpcName, "_", " "), "#", ""))
+					out += fmt.Sprintf("{{<spell id=\"%d\" name=\"%s\">}}|%d|%s|%s|%s\n", spellBest.SpellID, spellBest.SpellName, spellBest.SpellLevel, era, strings.Join(zones, ", "), strings.ReplaceAll(strings.ReplaceAll(spellBest.NpcName, "_", " "), "#", ""))
 				}
 				isBazaar = false
 				isFV = false
