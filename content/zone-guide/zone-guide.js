@@ -1069,23 +1069,312 @@ w.addBiZoneLine('vexthal', 'umbral');
 //akheva
 w.addBiZoneLine('maiden', 'akheva');
 
-//w.addBiZoneLine('iceclad', 'frozenshadow');
-//w.addBiZoneLine('iceclad', 'eastwastes');
-//w.addBiZoneLine('eastwastes', 'greatdivide');
-//w.addBiZoneLine('greatdivide', 'thurgadina');
-//w.addBiZoneLine('thurgadina', 'thurgadinb');
-//w.addBiZoneLine('greatdivide', 'velketor');
-//w.addBiZoneLine('greatdivide', 'mischiefplane');
-//w.addBiZoneLine('eastwastes', 'kael');
-//w.addBiZoneLine('kael', 'wakening');
-//w.addBiZoneLine('wakening', 'growthplane');
-//w.addBiZoneLine('wakening', 'skyshrine');
-//w.addBiZoneLine('skyshrine', 'cobaltscar');
-//w.addBiZoneLine('cobaltscar', 'sirens');
-//w.addBiZoneLine('sirens', 'westwastes');
-//w.addBiZoneLine('westwastes', 'necropolis');
-//w.addBiZoneLine('westwastes', 'templeveeshan');
-//w.addBiZoneLine('eastwastes', 'crystal');
+//PLANES OF POWER
+w.addBiZoneLine('felwithea', 'felwitheb', 2);
+//codecay
+w.addBiZoneLine('podisease', 'codecay', 2);
+w.addBiZoneLine('potimeb', 'codecay', 2);
+w.addBiZoneLine('potranquility', 'codecay', 2);
+//pojustice
+w.addZoneLine('potranquility', 'pojustice');
+//ponightmare
+w.addZoneLine('nightmareb', 'ponightmare'); // 4
+w.addZoneLine('potranquility', 'ponightmare');
+//podisease
+w.addZoneLine('potranquility', 'podisease');
+w.addZoneLine('codecay', 'podisease');
+//poinnovation
+w.addZoneLine('potranquility', 'poinnovation');
+w.addZoneLine('poinnovation', 'potimea', 2, '	Entrance To Plane of Time A');
+//potorment
+w.addZoneLine('potimeb', 'potorment');
+w.addZoneLine('potranquility', 'potorment');
+//povalor
+w.addZoneLine('hohonora', 'povalor');
+w.addZoneLine('potranquility', 'povalor');
+//bothunder
+w.addZoneLine('potranquility', 'bothunder');
+w.addZoneLine('postorms', 'bothunder');
+//postorms
+w.addZoneLine('potranquility', 'postorms');
+w.addZoneLine('bothunder', 'postorms');
+//hohonora
+w.addZoneLine('potranquility', 'hohonora');
+w.addZoneLine('povalor', 'hohonora');
+w.addZoneLine('hohonorb', 'hohonora');
+//solrotower
+w.addZoneLine('pofire', 'solrotower');
+w.addZoneLine('potranquility', 'solrotower');
+//potactics
+w.addZoneLine('potranquility', 'potactics');
+w.addZoneLine('potimeb', 'potactics');
+//poair
+w.addZoneLine('potranquility', 'poair');
+//powater
+w.addZoneLine('potranquility', 'powater');
+//pofire
+w.addZoneLine('potranquility', 'pofire');
+w.addZoneLine('solrotower', 'pofire');
+//poeartha
+w.addZoneLine('potranquility', 'poeartha');
+w.addZoneLine('poearthb', 'poeartha');
+//potimea
+w.addZoneLine('guildhall', 'potimea', 2, 'Exit From Guild Hall');
+w.addZoneLine('poinnovation', 'potimea', 2, 'Exit From Plane of Innovation');
+w.addZoneLine('potranquility', 'potimea');
+w.addZoneLine('potimeb', 'potimea');
+//hohonorb
+w.addZoneLine('hohonora', 'hohonorb'); // 4
+//nightmareb
+//poearthb
+//potimeb
+//potranquility
+w.addBiZoneLine('poknowledge', 'potranquility'); 
+w.addBiZoneLine('hohonora', 'potranquility'); 
+w.addBiZoneLine('bothunder', 'potranquility'); 
+w.addBiZoneLine('hohonora', 'potranquility');
+w.addBiZoneLine('podisease', 'potranquility'); 
+w.addBiZoneLine('poinnovation', 'potranquility'); 
+w.addBiZoneLine('pojustice', 'potranquility'); 
+w.addBiZoneLine('ponightmare', 'potranquility'); 
+w.addBiZoneLine('poknowledge', 'potranquility'); 
+w.addBiZoneLine('postorms', 'potranquility'); 
+w.addBiZoneLine('potimea', 'potranquility'); 
+w.addBiZoneLine('potorment', 'potranquility');  
+w.addBiZoneLine('povalor', 'potranquility'); 
+w.addBiZoneLine('powar', 'potranquility'); 
+w.addBiZoneLine('powater', 'potranquility'); 
+w.addBiZoneLine('solrotower', 'potranquility'); 
+w.addBiZoneLine('poeartha', 'potranquility'); 
+w.addBiZoneLine('poair', 'potranquility'); 
+w.addBiZoneLine('pofire', 'potranquility');
+w.addBiZoneLine('codecay', 'potranquility');
+w.addBiZoneLine('hohonorb', 'potranquility');
+//poknowledge
+w.addBiZoneLine('arena', 'poknowledge'); 
+w.addBiZoneLine('bazaar', 'poknowledge'); 
+w.addBiZoneLine('butcher', 'poknowledge'); 
+w.addBiZoneLine('everfrost', 'poknowledge'); 
+w.addBiZoneLine('feerrott', 'poknowledge'); 
+w.addZoneLine('feerrott2', 'poknowledge', 2, 'Exit From Feerrott, the Dream');
+w.addBiZoneLine('fieldofbone', 'poknowledge'); 
+w.addBiZoneLine('firiona', 'poknowledge'); 
+w.addBiZoneLine('freportw', 'poknowledge'); 
+w.addBiZoneLine('gfaydark', 'poknowledge'); 
+w.addBiZoneLine('greatdivide', 'poknowledge'); 
+w.addBiZoneLine('guildlobby', 'poknowledge'); 
+w.addBiZoneLine('gunthak', 'poknowledge'); 
+w.addBiZoneLine('innothule', 'poknowledge'); 
+w.addBiZoneLine('innothuleb', 'poknowledge'); 
+w.addBiZoneLine('misty', 'poknowledge'); 
+w.addBiZoneLine('mistythicket', 'poknowledge'); 
+w.addBiZoneLine('nektulos', 'poknowledge'); 
+w.addBiZoneLine('nexus', 'poknowledge'); 
+w.addBiZoneLine('overthere', 'poknowledge'); 
+w.addBiZoneLine('tox', 'poknowledge'); 
+w.addBiZoneLine('weddingchapel', 'poknowledge'); 
+w.addBiZoneLine('weddingchapeldark', 'poknowledge'); 
+w.addBiZoneLine('qeynos2', 'poknowledge'); 
+w.addBiZoneLine('relic', 'poknowledge'); 
+w.addBiZoneLine('shadeweaver', 'poknowledge'); 
+w.addBiZoneLine('solrotower', 'pofire'); 
+w.addBiZoneLine('steamfont', 'poknowledge'); 
+w.addBiZoneLine('moors', 'poknowledge'); 
+w.addBiZoneLine('draniksscar', 'poknowledge'); 
+w.addBiZoneLine('gunthak', 'poknowledge'); 
+w.addBiZoneLine('potimea', 'poknowledge'); 
+w.addBiZoneLine('potranquility', 'poknowledge'); 
+w.addBiZoneLine('rathemtn', 'poknowledge'); 
+w.addBiZoneLine('tutoriala', 'poknowledge'); 
+
+//LEGACY OF YKESHA
+//gunthak
+w.addBiZoneLine('poknowledge', 'gunthak');
+w.addBiZoneLine('dulak', 'gunthak');
+w.addBiZoneLine('nadox', 'gunthak');
+w.addBiZoneLine('stonebrunt', 'gunthak');
+//dulak
+w.addBiZoneLine('gunthak', 'dulak');
+w.addBiZoneLine('torgiran', 'dulak');
+//torgiran
+w.addBiZoneLine('nadox', 'torgiran');
+w.addBiZoneLine('dulak', 'torgiran');
+//nadox
+w.addBiZoneLine('torgiran', 'gunthak');
+w.addBiZoneLine('gunthak', 'gunthak');
+w.addBiZoneLine('hatesfury', 'gunthak');
+//hatesfury
+w.addBiZoneLine('nadox', 'hatesfury');
+
+
+//LOST DUNGEONS OF NORRATH
+//The Cauldron of Lost Souls	guka	229
+//The Bloodied Quarries	ruja	230
+//The Sunken Library	taka	231
+//The Silent Gallery	mira	232
+//The Forlorn Caverns	mmca	233
+//The Drowning Crypt	gukb	234
+//The Halls of War	rujb	235
+//The Shifting Tower	takb	236
+//The Maw of the Menagerie	mirb	237
+//The Dreary Grotto	mmcb	238
+//The Ancient Aqueducts	gukc	239
+//The Wind Bridges	rujc	240
+//The Fading Temple	takc	241
+//The Spider Den	mirc	242
+//The Asylum of Invoked Stone	mmcc	243
+//The Mushroom Grove	gukd	244
+//The Gladiator Pits	rujd	245
+//The Royal Observatory	takd	246
+//The Hushed Banquet	mird	247
+//The Chambers of Eternal Affliction	mmcd	248
+//The Foreboding Prison	guke	249
+//The Drudge Hollows	ruje	250
+//The River of Recollection	take	251
+//The Frosted Halls	mire	252
+//The Sepulcher of the Damned	mmce	253
+//The Chapel of the Witnesses	gukf	254
+//The Fortified Lair of the Taskmasters	rujf	255
+//The Sandfall Corridors	takf	256
+//The Forgotten Wastes	mirf	257
+//The Ritualistic Summoning Grounds	mmcf	258
+//The Root Garden	gukg	259
+//The Hidden Vale	rujg	260
+//The Balancing Chamber	takg	261
+//The Heart of the Menagerie	mirg	262
+//The Cesspits of Putrescence	mmcg	263
+//The Accursed Sanctuary	gukh	264
+//The Blazing Forge	rujh	265
+//The Sweeping Tides	takh	266
+//The Morbid Laboratory	mirh	267
+//The Aisles of Blood	mmch	268
+//The Arena of Chance	ruji	269
+//The Antiquated Palace	taki	270
+//The Theater of Imprisoned Horrors	miri	271
+//The Halls of Sanguinary Rites	mmci	272
+//The Barracks of War	rujj	273
+//The Prismatic Corridors	takj	274
+//The Grand Library	mirj	275
+//The Infernal Sanctuary	mmcj	276
+
+//GATES OF DISCORD
+//abysmal
+w.addBiZoneLine('natimbi', 'abysmal');
+w.addBiZoneLine('nedaria', 'abysmal');
+//natimbi
+w.addBiZoneLine('abysmal', 'natimbi');
+w.addBiZoneLine('kodtaz', 'natimbi');
+w.addBiZoneLine('nedaria', 'natimbi');
+w.addBiZoneLine('qinimi', 'natimbi');
+w.addBiZoneLine('qvic', 'natimbi');
+//qinimi
+w.addBiZoneLine('barindu', 'qinimi');
+w.addBiZoneLine('ferubi', 'qinimi');
+w.addBiZoneLine('natimbi', 'qinimi');
+w.addBiZoneLine('riwwi', 'qinimi');
+//riwwi
+w.addBiZoneLine('barindu', 'riwwi');
+w.addBiZoneLine('ferubi', 'riwwi');
+w.addBiZoneLine('qinimi', 'riwwi');
+//barindu
+w.addBiZoneLine('ferubi', 'barindu');
+w.addBiZoneLine('qinimi', 'barindu');
+w.addBiZoneLine('riwwi', 'barindu');
+w.addBiZoneLine('tipt', 'barindu');
+w.addBiZoneLine('vxed', 'barindu');
+//ferubi
+w.addBiZoneLine('barindu', 'ferubi');
+w.addBiZoneLine('qinimi', 'ferubi');
+w.addBiZoneLine('riwwi', 'ferubi');
+//snpool
+//snlair
+//snplant
+//sncrematory
+//tipt
+w.addBiZoneLine('barindu', 'tipt');
+//vxed
+w.addBiZoneLine('barindu', 'vxed');
+//yxtta
+w.addBiZoneLine('kodtaz', 'yxtta');
+w.addBiZoneLine('qvic', 'yxtta');
+w.addBiZoneLine('uqua', 'yxtta');
+//uqua
+w.addBiZoneLine('yxtta', 'uqua');
+//kodtaz
+w.addBiZoneLine('natimbi', 'kodtaz');
+w.addBiZoneLine('qvic', 'kodtaz');
+w.addBiZoneLine('yxtta', 'kodtaz');
+//ikkinz
+//qvic
+w.addBiZoneLine('inktuta', 'qvic');
+w.addBiZoneLine('kodtaz', 'qvic');
+w.addBiZoneLine('natimbi', 'qvic');
+w.addBiZoneLine('txevu', 'qvic');
+w.addBiZoneLine('yxtta', 'qvic');
+//inktuta
+w.addBiZoneLine('qvic', 'inktuta');
+//txevu
+w.addBiZoneLine('qvic', 'txevu');
+w.addBiZoneLine('tacvi', 'txevu');
+//tacvi
+w.addBiZoneLine('txevu', 'tacvi');
+//qvicb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Guild Lobby
+w.addBiZoneLine('guildhall', 'guildlobby');
+w.addBiZoneLine('nedaria', 'guildlobby');
+w.addBiZoneLine('neighborhood', 'guildlobby');
+//Guild Hall
+w.addBiZoneLine('guildlobby', 'guildhall');
+w.addBiZoneLine('guildlobby', 'arcstone', 2, 'Entrance To Arcstone, Isle of Spirits');
+w.addBiZoneLine('guildlobby', 'argath', 2, 'Entrance To Argath, Bastion of Illdaera');
+w.addBiZoneLine('guildlobby', 'barindu', 2, 'Entrance To Barindu, Hanging Gardens');
+w.addBiZoneLine('guildlobby', 'brellsrest', 2, 'Entrance To Brells Rest');
+w.addBiZoneLine('guildlobby', 'cobaltscar', 2, 'Entrance To Cobalt Scar');
+w.addBiZoneLine('guildlobby', 'commons', 2, 'Entrance To Commonlands');
+w.addBiZoneLine('guildlobby', 'dragonscale', 2, 'Entrance To Dragonscale Hills');
+w.addBiZoneLine('guildlobby', 'dreadlands', 2, 'Entrance To Dreadlands');
+w.addBiZoneLine('guildlobby', 'feerrott2', 2, 'Entrance To Feerrott, the Dream');
+w.addBiZoneLine('guildlobby', 'mesa', 2, 'Entrance To Goru`kar Mesa');
+w.addBiZoneLine('guildlobby', 'gfaydark', 2, 'Entrance To Greater Faydark');
+w.addBiZoneLine('guildlobby', 'iceclad', 2, 'Entrance To Iceclad Ocean');
+w.addBiZoneLine('guildlobby', 'kattacastrum', 2, 'Entrance To Katta Castrum');
+w.addBiZoneLine('guildlobby', 'lavastorm', 2, 'Entrance To Lavastorm Mountains');
+w.addBiZoneLine('guildlobby', 'lavastorm', 2, 'Entrance To Lavastorm Mountains');
+w.addBiZoneLine('guildlobby', 'pohate', 2, 'Entrance To Plane of Hate');
+w.addBiZoneLine('guildlobby', 'posky', 2, 'Entrance To Plane of Sky');
+w.addBiZoneLine('guildlobby', 'potimea', 2, 'Entrance To Plane of Time');
+w.addBiZoneLine('guildlobby', 'shardslanding', 2, 'Entrance To Shards Landing');
+w.addBiZoneLine('guildlobby', 'stonebrunt', 2, 'Entrance To Stonebrunt Mountains');
+w.addBiZoneLine('guildlobby', 'tox', 2, 'Entrance To Toxxulia Forest');
+w.addBiZoneLine('guildlobby', 'twilight', 2, 'Entrance To Twilight Sea');
+w.addBiZoneLine('guildlobby', 'eastkorlach', 2, 'Entrance To Undershore');
+w.addBiZoneLine('guildlobby', 'wallofslaughter', 2, 'Entrance To Wall of Slaughter');
+
 
 
 w.addZoneLine('airplane', 'ecommons', 2, 'jump off island to');
