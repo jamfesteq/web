@@ -782,32 +782,295 @@ w.addBiZoneLine('gfaydark', 'felwithea', 2);
 w.addBiZoneLine('felwithea', 'felwitheb', 2);
 w.addBiZoneLine('oasis', 'timorous');
 
-w.addBiZoneLine('timorous', 'overthere');
-w.addBiZoneLine('overthere', 'skyfire');
-w.addBiZoneLine('skyfire', 'veeshan');
+//KUNARK
+//burningwood
+w.addBiZoneLine('chardok', 'burningwood');
+w.addBiZoneLine('dreadlands', 'burningwood');
+w.addBiZoneLine('frontiermtns', 'burningwood');
 w.addBiZoneLine('skyfire', 'burningwood');
-w.addBiZoneLine('burningwood', 'chardok');
+//chardok
 w.addBiZoneLine('chardok', 'chardokb');
+w.addBiZoneLine('chardok', 'scorchedwoods');
+//citymist
+w.addBiZoneLine('emeraldjungle', 'citymist');
+//dalnir
+w.addBiZoneLine('warslikswood', 'dalnir');
+//dreadlands
 w.addBiZoneLine('burningwood', 'dreadlands');
+w.addBiZoneLine('firiona', 'dreadlands');
+w.addBiZoneLine('frontiermtns', 'dreadlands');
+w.addBiZoneLine('karnor', 'dreadlands');
+w.addBiZoneLine('nexus', 'dreadlands');
+w.addZoneLine('guildhall', 'dreadlands', 2, 'take the teleporter');
+//cabeast
+w.addBiZoneLine('fieldofbone', 'cabeast');
+w.addBiZoneLine('swampofnohope', 'cabeast');
+w.addBiZoneLine('cabwest', 'cabeast');
+//emeraldjungle
+w.addBiZoneLine('fieldofbone', 'emeraldjungle');
+w.addBiZoneLine('trakanon', 'emeraldjungle');
+//fieldofbone
+w.addBiZoneLine('emeraldjungle', 'fieldofbone');
+w.addBiZoneLine('kaesora', 'fieldofbone');
+w.addBiZoneLine('kurn', 'fieldofbone');
+//firiona
+w.addBiZoneLine('lakeofillomen', 'firiona');
+w.addBiZoneLine('poknowledge', 'firiona');
+w.addBiZoneLine('swampofnohope', 'firiona');
+w.addBiZoneLine('timorous', 'firiona');
+//frontiermtns
+w.addBiZoneLine('timorous', 'frontiermtns');
+w.addBiZoneLine('dreadlands', 'frontiermtns');
+w.addBiZoneLine('lakeofillomen', 'frontiermtns');
+w.addBiZoneLine('nurga', 'frontiermtns');
+w.addBiZoneLine('drogab', 'frontiermtns');
+w.addBiZoneLine('overthere', 'frontiermtns');
+//charasis
+w.addBiZoneLine('overthere', 'charasis');
+//lakeofillomen
+w.addBiZoneLine('firiona', 'lakeofillomen');
+w.addBiZoneLine('veksar', 'lakeofillomen');
+w.addBiZoneLine('warslikswood', 'lakeofillomen');
+//veksar
+//warslikswood
+//nurga
+w.addBiZoneLine('droga', 'nurga');
+//droga
+//trakanon
+w.addBiZoneLine('trakanon', 'sebilis');
+//sebilis
+//skyfire
+w.addBiZoneLine('overthere', 'skyfire');
+w.addBiZoneLine('veeshan', 'skyfire');
+//veeshan
+//overthere
+w.addBiZoneLine('frontiermtnsb', 'overthere');
+w.addBiZoneLine('poknowledge', 'overthere');
+w.addBiZoneLine('skyfire', 'overthere');
+w.addBiZoneLine('timorous', 'overthere');
+w.addBiZoneLine('warslikswood', 'overthere');
+//swampofnohope
+w.addBiZoneLine('fieldofbone', 'swampofnohope');
+w.addBiZoneLine('trakanon', 'swampofnohope');
+//timorous
+w.addBiZoneLine('oasis', 'timorous');
+w.addBiZoneLine('butcher', 'timorous');
+//cabwest
+w.addBiZoneLine('cabwest', 'cabwest');
+w.addBiZoneLine('timorous', 'cabwest');
 
-w.addBiZoneLine('oasis', 'iceclad');
+
+//VELIOUS
+//iceclad
+w.addBiZoneLine('eastwastes', 'iceclad');
+w.addBiZoneLine('guildhall', 'iceclad');
+w.addBiZoneLine('northro', 'iceclad');
+w.addBiZoneLine('frozenshadow', 'iceclad');
+//frozenshadow
 w.addBiZoneLine('iceclad', 'frozenshadow');
-w.addBiZoneLine('iceclad', 'eastwastes');
-w.addBiZoneLine('eastwastes', 'greatdivide');
-w.addBiZoneLine('greatdivide', 'thurgadina');
-w.addBiZoneLine('thurgadina', 'thurgadinb');
+//velketor
 w.addBiZoneLine('greatdivide', 'velketor');
-w.addBiZoneLine('greatdivide', 'mischiefplane');
+//kael
+w.addZoneLine('skyshrine', 'kael', 2, 'exit from skyshrine');
 w.addBiZoneLine('eastwastes', 'kael');
-w.addBiZoneLine('kael', 'wakening');
-w.addBiZoneLine('wakening', 'growthplane');
+w.addBiZoneLine('wakening', 'kael');
+//skyshrine
+w.addBiZoneLine('cobaltscar', 'skyshrine');
+w.addZoneLine('skyshrine', 'kale', 2, 'entrance to kael');
 w.addBiZoneLine('wakening', 'skyshrine');
+//thurgadina
+w.addBiZoneLine('greatdivide', 'thurgadina');
+w.addBiZoneLine('thhurgadinb', 'thurgadina');
+//eastwastes
+w.addBiZoneLine('crystal', 'eastwastes');
+w.addBiZoneLine('greatdivide', 'eastwastes');
+w.addBiZoneLine('iceclad', 'eastwastes');
+w.addBiZoneLine('kael', 'eastwastes');
+w.addBiZoneLine('sleeper', 'eastwastes');
+//cobaltscar
+w.addBiZoneLine('guildhall', 'cobaltscar');
+w.addBiZoneLine('mischiefplane', 'cobaltscar');
+w.addBiZoneLine('sirens', 'cobaltscar');
 w.addBiZoneLine('skyshrine', 'cobaltscar');
-w.addBiZoneLine('cobaltscar', 'sirens');
+//greatdivide
+w.addBiZoneLine('eastwastes', 'greatdivide');
+w.addBiZoneLine('thurgadinb', 'greatdivide');
+w.addBiZoneLine('poknowledge', 'greatdivide');
+w.addBiZoneLine('mischiefplane', 'greatdivide');
+w.addBiZoneLine('nexus', 'greatdivide');
+w.addBiZoneLine('thurgadina', 'greatdivide');
+w.addBiZoneLine('velketor', 'greatdivide');
+//wakening
+w.addBiZoneLine('kael', 'wakening');
+w.addBiZoneLine('skyshrine', 'wakening');
+w.addZoneLine('wakening', 'growthplane', 2, 'entrance to growth');
+//westwastes
+w.addBiZoneLine('necropolis', 'westwastes');
 w.addBiZoneLine('sirens', 'westwastes');
-w.addBiZoneLine('westwastes', 'necropolis');
-w.addBiZoneLine('westwastes', 'templeveeshan');
+w.addBiZoneLine('templeveeshan', 'westwastes');
+//crystal
 w.addBiZoneLine('eastwastes', 'crystal');
+//necropolis
+w.addBiZoneLine('breedinggrounds', 'necropolis');
+w.addBiZoneLine('westwastes', 'necropolis');
+//templeveeshan
+w.addBiZoneLine('templeveeshan', 'mischiefplane');
+w.addBiZoneLine('templeveeshan', 'westwastes');
+//sirens
+w.addBiZoneLine('westwastes', 'sirens');
+w.addBiZoneLine('cobaltscar', 'sirens');
+//mischiefplane
+w.addZoneLine('mischiefplane', 'cobaltscar', 2, 'entrance to mischief');
+w.addZoneLine('mischiefplane', 'greatdivide', 2, 'entrance to mischief');
+w.addZoneLine('mischiefplane', 'templeveeshan', 2, 'entrance to mischief');
+//growthplane
+w.addBiZoneLine('wakening', 'growthplane');
+//sleeper
+w.addBiZoneLine('eastwastes', 'sleeper');
+//thurgadinb
+w.addBiZoneLine('greatdivide', 'thurgadinb');
+w.addBiZoneLine('thurgadina', 'thurgadinb');
+//stonebrunt
+w.addZoneLine('guildhall', 'stonebrunt', 2, 'exit from guild hall');
+w.addBiZoneLine('gunthak', 'stonebrunt');
+w.addBiZoneLine('warrens', 'stonebrunt');
+//warrens
+w.addBiZoneLine('warrens', 'paineel');
+w.addBiZoneLine('warrens', 'stonebrunt');
+
+//LUCLIN
+//bazaar
+w.addBiZoneLine('poknowledge', 'bazaar');
+w.addBiZoneLine('shadowhaven', 'bazaar');
+w.addBiZoneLine('nexus', 'bazaar');
+//shadowhaven
+w.addBiZoneLine('echo', 'shadowhaven');
+w.addBiZoneLine('paludal', 'shadowhaven');
+w.addBiZoneLine('bazaar', 'shadowhaven');
+w.addBiZoneLine('nexus', 'shadowhaven');
+//nexus
+w.addBiZoneLine('dreadlands', 'nexus');
+w.addBiZoneLine('greatdivide', 'nexus');
+w.addBiZoneLine('gfaydark', 'nexus');
+w.addBiZoneLine('netherbian', 'nexus');
+w.addBiZoneLine('northkarana', 'nexus');
+w.addBiZoneLine('poknowledge', 'nexus');
+w.addBiZoneLine('shadowhaven', 'nexus');
+w.addBiZoneLine('bazaar', 'nexus');
+w.addBiZoneLine('tox', 'nexus');
+w.addZoneLine('lceanium', 'ecommons', 2, 'exit from Lceanium');
+w.addZoneLine('maiden', 'ecommons', 2, 'exit from Maiden');
+//echo
+w.addBiZoneLine('fungusgrove', 'echo');
+w.addBiZoneLine('shadowhaven', 'echo');
+w.addBiZoneLine('thedeep', 'echo');
+//acrylia
+w.addBiZoneLine('grimling', 'acrylia');
+//sharvahl
+w.addBiZoneLine('draniksscar', 'sharvahl');
+w.addBiZoneLine('hollowshade', 'sharvahl');
+w.addBiZoneLine('shadeweaver', 'sharvahl');
+//paludal
+w.addBiZoneLine('hollowshade', 'paludal');
+w.addBiZoneLine('shadeweaver', 'paludal');
+w.addBiZoneLine('shadowhaven', 'paludal');
+//fungusgrove
+w.addBiZoneLine('echo', 'fungusgrove');
+w.addBiZoneLine('twilight', 'fungusgrove');
+//vexthal
+w.addBiZoneLine('poshadow', 'vexthal');
+w.addBiZoneLine('umbral', 'vexthal');
+//sseru
+w.addBiZoneLine('dawnshroud', 'sseru');
+w.addBiZoneLine('mseru', 'sseru');
+//katta
+w.addBiZoneLine('tenebrous', 'katta');
+w.addBiZoneLine('twilight', 'katta');
+//netherbian
+w.addBiZoneLine('dawnshroud', 'netherbian');
+w.addBiZoneLine('mseru', 'netherbian');
+w.addBiZoneLine('nexus', 'netherbian');
+//ssratemple
+w.addBiZoneLine('thedeep', 'ssratemple');
+w.addBiZoneLine('thegrey', 'ssratemple');
+//griegsend
+w.addBiZoneLine('dawnshroud', 'griegsend');
+w.addBiZoneLine('scarlet', 'griegsend');
+//thedeep
+w.addBiZoneLine('echo', 'thedeep');
+w.addBiZoneLine('ssratemple', 'thedeep');
+//shadeweaver
+w.addBiZoneLine('paludal', 'shadeweaver');
+w.addBiZoneLine('poknowledge', 'shadeweaver');
+w.addBiZoneLine('sharvahl', 'shadeweaver');
+//hollowshade
+w.addBiZoneLine('grimling', 'hollowshade');
+w.addBiZoneLine('paludal', 'hollowshade');
+w.addBiZoneLine('sharvahl', 'hollowshade');
+//grimling
+w.addBiZoneLine('acrylia', 'grimling');
+w.addBiZoneLine('hollowshade', 'grimling');
+w.addBiZoneLine('tenebrous', 'grimling');
+//mseru
+w.addBiZoneLine('letalis', 'mseru');
+w.addBiZoneLine('netherbian', 'mseru');
+w.addBiZoneLine('sseru', 'mseru');
+//jaggedpine
+w.addBiZoneLine('blackburrow', 'jaggedpine');
+w.addBiZoneLine('nedaria', 'jaggedpine');
+w.addBiZoneLine('qrg', 'jaggedpine');
+//letalis
+w.addBiZoneLine('mseru', 'letalis');
+w.addBiZoneLine('thegrey', 'letalis');
+//twilight
+w.addBiZoneLine('fungusgrove', 'twilight');
+w.addBiZoneLine('katta', 'twilight');
+w.addBiZoneLine('scarlet', 'twilight');
+w.addZoneLine('guildhall', 'twilight', 2, 'exit from guild hall');
+//thegrey
+w.addBiZoneLine('chelsithreborn', 'thegrey');
+w.addBiZoneLine('letalis', 'thegrey');
+w.addBiZoneLine('scarlet', 'thegreys');
+w.addBiZoneLine('ssratemple', 'thegrey');
+//tenebrous
+w.addBiZoneLine('grimling', 'tenebrous');
+w.addBiZoneLine('katta', 'tenebrous');
+//maiden
+w.addBiZoneLine('akheva', 'maiden');
+w.addBiZoneLine('dawnshroud', 'maiden');
+w.addBiZoneLine('umbral', 'maiden');
+//dawnshroud
+w.addBiZoneLine('griegsend', 'dawnshroud');
+w.addBiZoneLine('maiden', 'dawnshroud');
+w.addBiZoneLine('netherbian', 'dawnshroud');
+w.addBiZoneLine('sseru', 'dawnshroud');
+//scarlet
+w.addBiZoneLine('griegsend', 'scarlet');
+w.addBiZoneLine('thegrey', 'scarlet');
+w.addBiZoneLine('twilight', 'scarlet');
+//umbral
+w.addBiZoneLine('maiden', 'umbral');
+w.addBiZoneLine('vexthal', 'umbral');
+//akheva
+w.addBiZoneLine('maiden', 'akheva');
+
+//w.addBiZoneLine('iceclad', 'frozenshadow');
+//w.addBiZoneLine('iceclad', 'eastwastes');
+//w.addBiZoneLine('eastwastes', 'greatdivide');
+//w.addBiZoneLine('greatdivide', 'thurgadina');
+//w.addBiZoneLine('thurgadina', 'thurgadinb');
+//w.addBiZoneLine('greatdivide', 'velketor');
+//w.addBiZoneLine('greatdivide', 'mischiefplane');
+//w.addBiZoneLine('eastwastes', 'kael');
+//w.addBiZoneLine('kael', 'wakening');
+//w.addBiZoneLine('wakening', 'growthplane');
+//w.addBiZoneLine('wakening', 'skyshrine');
+//w.addBiZoneLine('skyshrine', 'cobaltscar');
+//w.addBiZoneLine('cobaltscar', 'sirens');
+//w.addBiZoneLine('sirens', 'westwastes');
+//w.addBiZoneLine('westwastes', 'necropolis');
+//w.addBiZoneLine('westwastes', 'templeveeshan');
+//w.addBiZoneLine('eastwastes', 'crystal');
 
 
 w.addZoneLine('airplane', 'ecommons', 2, 'jump off island to');
@@ -853,12 +1116,12 @@ searchForm.addEventListener("submit", (e) => {
       return;
     }
 
-    out = "To get from <b>"+w.fullNames[from.value]+"</b> to <b>"+w.fullNames[to.value]+"</b>:<br>";
+    out = nav.length+" Test To get from <b>"+w.fullNames[from.value]+"</b> to <b>"+w.fullNames[to.value]+"</b>:<br>";
     out += "<ol>"
  
     let src = ""
     let adj = ""
-    if (nav.length < 2) { 
+    if (nav.length == 0) { 
       out += "</ol>"
       out += "No route found to get from <b>"+w.fullNames[from.value]+"</b> to <b>"+w.fullNames[to.value]+"</b>!";
       document.getElementById("results").innerHTML = out;
