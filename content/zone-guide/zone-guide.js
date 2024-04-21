@@ -6,7 +6,7 @@ class World {
     this.fullNames = {};
     this.notes = {};
   }
-
+ 
 
   addZone(shortName, fullName) {
     if (!this.adjacencyList[shortName]) {
@@ -16,11 +16,26 @@ class World {
   }
 
   addZoneLine(source, destination, weight, note = '') {
+    let src = this.adjacencyList[source];
+    if (!src) {
+      console.log('source not found', source);
+      return;
+    }
     this.adjacencyList[source].push({ node: destination, weight, note });
     this.notes[source + destination] = note;
   }
 
-  addBiZoneLine(source, destination, weight, note = '') {
+  addBiZoneLine(source, destination, weight = 1, note = '') {
+    let src = this.adjacencyList[source];
+    if (!src) {
+      console.log('source not found', source);
+      return;
+    }
+    let dest = this.adjacencyList[destination];
+    if (!dest) {
+      console.log('destination not found', destination);
+      return;
+    }
     this.adjacencyList[source].push({ node: destination, weight, note });
     this.adjacencyList[destination].push({ node: source, weight, note });
     this.notes[source + destination] = note;
@@ -207,7 +222,6 @@ w.addZone("shadowrest", "Shadowrest"); // Classic
 //w.addZone("tutoriala", "The Mines of Gloomingdeep (A)"); // Classic
 //w.addZone("tutorialb", "The Mines of Gloomingdeep (B)"); // Classic
 //w.addZone("clz", "Loading (C)"); // Classic
-//w.addZone("poknowledge", "Plane of Knowledge"); // Classic
 w.addZone("soldungc", "The Caverns of Exile"); // Classic
 //w.addZone("guildlobby", "The Guild Lobby"); // Classic
 //w.addZone("barter", "The Barter Hall"); // Classic
@@ -310,6 +324,7 @@ w.addZone("dawnshroud", "Dawnshroud Peaks"); // Luclin
 w.addZone("scarlet", "The Scarlet Desert"); // Luclin
 w.addZone("umbral", "The Umbral Plains"); // Luclin
 w.addZone("akheva", "Akheva Ruins"); // Luclin
+w.addZone("poknowledge", "Plane of Knowledge"); // Planes of Power
 w.addZone("codecay", "Ruins of Lxanvom"); // Planes of Power
 w.addZone("pojustice", "Plane of Justice"); // Planes of Power
 w.addZone("potranquility", "Plane of Tranquility"); // Planes of Power
@@ -790,7 +805,7 @@ w.addBiZoneLine('frontiermtns', 'burningwood');
 w.addBiZoneLine('skyfire', 'burningwood');
 //chardok
 w.addBiZoneLine('chardok', 'chardokb');
-w.addBiZoneLine('chardok', 'scorchedwoods');
+//w.addBiZoneLine("chardok", "scorchedwoods");
 //citymist
 w.addBiZoneLine('emeraldjungle', 'citymist');
 //dalnir
@@ -823,7 +838,7 @@ w.addBiZoneLine('timorous', 'frontiermtns');
 w.addBiZoneLine('dreadlands', 'frontiermtns');
 w.addBiZoneLine('lakeofillomen', 'frontiermtns');
 w.addBiZoneLine('nurga', 'frontiermtns');
-w.addBiZoneLine('drogab', 'frontiermtns');
+w.addBiZoneLine('droga', 'frontiermtns');
 w.addBiZoneLine('overthere', 'frontiermtns');
 //charasis
 w.addBiZoneLine('overthere', 'charasis');
@@ -844,7 +859,7 @@ w.addBiZoneLine('overthere', 'skyfire');
 w.addBiZoneLine('veeshan', 'skyfire');
 //veeshan
 //overthere
-w.addBiZoneLine('frontiermtnsb', 'overthere');
+w.addBiZoneLine('frontiermtns', 'overthere');
 w.addBiZoneLine('poknowledge', 'overthere');
 w.addBiZoneLine('skyfire', 'overthere');
 w.addBiZoneLine('timorous', 'overthere');
@@ -864,7 +879,7 @@ w.addBiZoneLine('timorous', 'cabwest');
 //iceclad
 w.addBiZoneLine('eastwastes', 'iceclad');
 w.addBiZoneLine('guildhall', 'iceclad');
-w.addBiZoneLine('northro', 'iceclad');
+w.addBiZoneLine('nro', 'iceclad');
 w.addBiZoneLine('frozenshadow', 'iceclad');
 //frozenshadow
 w.addBiZoneLine('iceclad', 'frozenshadow');
@@ -880,7 +895,7 @@ w.addZoneLine('skyshrine', 'kale', 2, 'entrance to kael');
 w.addBiZoneLine('wakening', 'skyshrine');
 //thurgadina
 w.addBiZoneLine('greatdivide', 'thurgadina');
-w.addBiZoneLine('thhurgadinb', 'thurgadina');
+w.addBiZoneLine('thurgadinb', 'thurgadina');
 //eastwastes
 w.addBiZoneLine('crystal', 'eastwastes');
 w.addBiZoneLine('greatdivide', 'eastwastes');
@@ -958,8 +973,8 @@ w.addBiZoneLine('poknowledge', 'nexus');
 w.addBiZoneLine('shadowhaven', 'nexus');
 w.addBiZoneLine('bazaar', 'nexus');
 w.addBiZoneLine('tox', 'nexus');
-w.addZoneLine('lceanium', 'ecommons', 2, 'exit from Lceanium');
-w.addZoneLine('maiden', 'ecommons', 2, 'exit from Maiden');
+//w.addZoneLine('lceanium', 'ecommons', 2, 'exit from Lceanium');
+//w.addZoneLine('maiden', 'ecommons', 2, 'exit from Maiden');
 //echo
 w.addBiZoneLine('fungusgrove', 'echo');
 w.addBiZoneLine('shadowhaven', 'echo');
@@ -1030,7 +1045,7 @@ w.addZoneLine('guildhall', 'twilight', 2, 'exit from guild hall');
 //thegrey
 w.addBiZoneLine('chelsithreborn', 'thegrey');
 w.addBiZoneLine('letalis', 'thegrey');
-w.addBiZoneLine('scarlet', 'thegreys');
+w.addBiZoneLine('scarlet', 'thegrey');
 w.addBiZoneLine('ssratemple', 'thegrey');
 //tenebrous
 w.addBiZoneLine('grimling', 'tenebrous');
@@ -1111,17 +1126,13 @@ searchForm.addEventListener("submit", (e) => {
     let nav = w.findShortestPath(from.value, to.value);
     let out = ""
     out += "<ol>";
-    if (nav.length === 0) {
-      document.getElementById("results").innerHTML = "No route to from <b>"+w.fullNames[from.value]+"</b> to <b>"+w.fullNames[to.value]+"</b> found.";
-      return;
-    }
-
-    out = nav.length+" Test To get from <b>"+w.fullNames[from.value]+"</b> to <b>"+w.fullNames[to.value]+"</b>:<br>";
+    
+    out = " To get from <b>"+w.fullNames[from.value]+"</b> to <b>"+w.fullNames[to.value]+"</b>:<br>";
     out += "<ol>"
  
     let src = ""
     let adj = ""
-    if (nav.length == 0) { 
+    if (nav.length <2 ) { 
       out += "</ol>"
       out += "No route found to get from <b>"+w.fullNames[from.value]+"</b> to <b>"+w.fullNames[to.value]+"</b>!";
       document.getElementById("results").innerHTML = out;
