@@ -853,12 +853,12 @@ searchForm.addEventListener("submit", (e) => {
       return;
     }
 
-    out = nav.length+" Test To get from <b>"+w.fullNames[from.value]+"</b> to <b>"+w.fullNames[to.value]+"</b>:<br>";
+    out = "To get from <b>"+w.fullNames[from.value]+"</b> to <b>"+w.fullNames[to.value]+"</b>:<br>";
     out += "<ol>"
  
     let src = ""
     let adj = ""
-    if (nav.length == 0) { 
+    if (nav.length < 2) { 
       out += "</ol>"
       out += "No route found to get from <b>"+w.fullNames[from.value]+"</b> to <b>"+w.fullNames[to.value]+"</b>!";
       document.getElementById("results").innerHTML = out;

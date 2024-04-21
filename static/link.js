@@ -53,7 +53,6 @@ document.addEventListener("DOMContentLoaded", function() {
         spellLink.appendChild(description);
 
         spellLink.addEventListener("mouseover", (e) => {
-            console.log("hovered in");
             let description = spellLink.getElementsByClassName("spell-description")[0]
             if (description == null) {
                 return;
@@ -63,7 +62,6 @@ document.addEventListener("DOMContentLoaded", function() {
         });
 
         spellLink.addEventListener("mouseout", (e) => {
-            console.log("hovered out");
             let description = spellLink.getElementsByClassName("spell-description")[0]
             if (description == null) {
                 return;
