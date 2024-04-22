@@ -1,4 +1,7 @@
-let isBazaarAllowed = true;
+let areWizardPortsEnabled = true;
+let areDruidPortsEnabled = true;
+let areGuildLobbyPortsEnabled = true;
+let isGuildLobbyAAEnabled = true;
 let currentExpansion = 19;
 
 class World {
@@ -28,7 +31,10 @@ class World {
       return;
     }
     this.adjacencyList[source].push({ node: destination, weight, note });
-    this.notes[source + destination] = note;
+    let notes = this.notes[source + destination];
+    if (notes == undefined) {
+      this.notes[source + destination] = note;
+    }
   }
 
   addBiZoneLine(source, destination, weight = 1, note = '') {
@@ -86,9 +92,22 @@ class World {
           let nextNode = this.adjacencyList[smallest][neighbor];
 
           let note = this.notes[smallest + nextNode.node];
-          if (note == 'use Bazaar Portal AA to' && !isBazaarAllowed) {
+          if (note == 'use wizard port to' && !areWizardPortsEnabled) {
             continue;
           }
+
+          if (note == 'use druid port to' && !areDruidPortsEnabled) {
+            continue;
+          }
+
+          if (note.includes('stone to zone') && !areGuildLobbyPortsEnabled) {
+            continue;
+          }
+
+          if (note == 'use lobby AA to' && !isGuildLobbyAAEnabled) {
+            continue;
+          }
+
 
 
           // Calculate new distance to neighboring node
@@ -1384,16 +1403,23 @@ w.addZoneLine('guildhall', 'wallofslaughter', 2, 'give XYZ stone to zone to');
 
 w.addZoneLine('airplane', 'ecommons', 2, 'jump off island to');
 
+
 const adjacencyListKeys = Object.keys(w.adjacencyList);
 for (let zone of adjacencyListKeys) {
-  if (zone ==  'bazaar') continue;
-  w.addZoneLine(zone, 'bazaar', 2, 'use Bazaar Portal AA to');
+  ['sro', 'nro'].forEach(function(dstZone) {
+    w.addZoneLine(zone, dstZone, 2, 'use wizard port to');
+  });
+  ['sro', 'misty', 'mistythicket'].forEach(function(dstZone) {
+    w.addZoneLine(zone, dstZone, 2, 'use druid port to');
+  });
+  ['guildlobby'].forEach(function(dstZone) {
+    w.addZoneLine(zone, dstZone, 2, 'use lobby AA to');
+  });
 }
 
-['akanon', 'blackburrow', 'burningwood', 'cabeast', 'cauldron', 'cauldron', 'cazicthule', 'citymist', 'commons', 'dreadlands', 'erudnext', 'erudsxing', 'felwithea', 'fieldofbone', 'firiona', 'freportw', 'gfaydark', 'grobb', 'halas', 'hateplaneb', 'highpasshold', 'hole', 'kaladima', 'lakeofillomen', 'lavastorm', 'mistmoore', 'neriakb', 'northkarana', 'oasis', 'oggok', 'oot', 'overthere', 'paineel', 'permafrost', 'qeynos2', 'qrg', 'rathemtn', 'rivervale', 'soldungb', 'southkarana', 'trakanon', ].forEach(function(zone) {
-  if (zone ==  'bazaar') return;
-  w.addZoneLine('bazaar', zone, 2, 'use Tearel to teleport to');
-});
+// ['sro', 'nro'].forEach(function(zone) {
+//   w.addZoneLine('bazaar', zone, 2, 'use Tearel to teleport to');
+// });
 
 
 let searchForm = document.getElementById("searchForm");
@@ -1402,8 +1428,19 @@ searchForm.addEventListener("submit", (e) => {
     e.preventDefault();
     let from = document.getElementById("from");
     let to = document.getElementById("to");
-    let isBazaarChk = document.getElementById("isBazaarPortalAllowed");
-    isBazaarAllowed = isBazaarChk.checked;
+    let areWizardPortsEnabledChk = document.getElementById("areWizardPortsEnabled");
+    areWizardPortsEnabled = areWizardPortsEnabledChk.checked;
+
+    let areDruidPortsEnabledChk = document.getElementById("areDruidPortsEnabled");
+    areDruidPortsEnabled = areDruidPortsEnabledChk.checked;
+    console.log(areDruidPortsEnabled);
+    
+    let areGuildLobbyPortsEnabledChk = document.getElementById("areGuildLobbyPortsEnabled");
+    areGuildLobbyPortsEnabled = areGuildLobbyPortsEnabledChk.checked;
+    
+    let isGuildLobbyAAEnabledChk = document.getElementById("isGuildLobbyAAEnabled");
+    isGuildLobbyAAEnabled = isGuildLobbyAAEnabledChk.checked;
+
 
     if (from.value === "" || to.value === "" || from.value === undefined || to.value === undefined) {
       document.getElementById("results").innerHTML = "Please select a starting and ending zone.";
