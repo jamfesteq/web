@@ -1,4 +1,5 @@
 let isBazaarAllowed = true;
+let currentExpansion = 19;
 
 class World {
   constructor() {
@@ -7,8 +8,13 @@ class World {
     this.notes = {};
   }
  
-
-  addZone(shortName, fullName) {
+  addZone(shortName, fullName, minExpansion = -1, maxExpansion = -1) {
+    if (minExpansion != -1 && minExpansion >= currentExpansion) {
+      return;
+    }
+    if (maxExpansion != -1 && maxExpansion < currentExpansion) {
+      return;
+    }
     if (!this.adjacencyList[shortName]) {
       this.adjacencyList[shortName] = [];
       this.fullNames[shortName] = fullName;
@@ -128,607 +134,607 @@ class PriorityQueue {
 }
 
 const w = new World();
-w.addZone("qeynos", "South Qeynos"); // Classic
-w.addZone("qeynos2", "North Qeynos"); // Classic
-w.addZone("qrg", "Surefall Glade"); // Classic
-w.addZone("qeytoqrg", "Qeynos Hills"); // Classic
-w.addZone("highkeep", "HighKeep"); // Classic
-w.addZone("freportn", "North Freeport"); // Classic
-w.addZone("freportw", "West Freeport"); // Classic
-w.addZone("freporte", "East Freeport"); // Classic
-w.addZone("runnyeye", "Clan RunnyEye"); // Classic
-w.addZone("qey2hh1", "West Karana"); // Classic
-w.addZone("northkarana", "North Karana"); // Classic
-w.addZone("southkarana", "South Karana"); // Classic
-w.addZone("eastkarana", "East Karana"); // Classic
-w.addZone("beholder", "Gorge of King Xorbb"); // Classic
-w.addZone("blackburrow", "BlackBurrow"); // Classic
-w.addZone("paw", "Infected Paw"); // Classic
-w.addZone("rivervale", "Rivervale"); // Classic
-w.addZone("kithicor", "Kithicor Forest (A)"); // Classic
-w.addZone("commons", "West Commonlands"); // Classic
-w.addZone("ecommons", "East Commonlands"); // Classic
-w.addZone("erudnint", "Erudin Palace"); // Classic
-w.addZone("erudnext", "Erudin"); // Classic
-w.addZone("nektulos", "Nektulos Forest"); // Classic
-w.addZone("cshome", "Sunset Home"); // Classic
-w.addZone("lavastorm", "Lavastorm Mountains"); // Classic
-w.addZone("nektropos", "Nektropos"); // Classic
-w.addZone("halas", "Halas"); // Classic
-w.addZone("everfrost", "Everfrost Peaks"); // Classic
-w.addZone("soldunga", "Solusek's Eye"); // Classic
-w.addZone("soldungb", "Nagafen's Lair"); // Classic
-w.addZone("misty", "Misty Thicket"); // Classic
-w.addZone("nro", "North Ro"); // Classic
-w.addZone("sro",  "South Ro"); // Classic
-//w.addZone("southro", "South Ro (A)"); // Classic v2
-w.addZone("befallen", "Befallen"); // Classic
-w.addZone("oasis", "Oasis of Marr"); // Classic
-w.addZone("tox", "Toxxulia Forest"); // Classic
-w.addZone("hole", "The Ruins of Old Paineel"); // Classic
-w.addZone("neriaka", "Neriak Foreign Quarter"); // Classic
-w.addZone("neriakb", "Neriak Commons"); // Classic
-w.addZone("neriakc", "Neriak Third Gate"); // Classic
-w.addZone("neriakd", "Neriak Palace"); // Classic
-w.addZone("najena", "Najena"); // Classic
-w.addZone("qcat", "Qeynos Catacombs"); // Classic
-w.addZone("innothule", "Innothule Swamp"); // Classic
-w.addZone("feerrott", "The Feerrott"); // Classic
-w.addZone("cazicthule", "Cazic-Thule"); // Classic
-w.addZone("oggok", "Oggok"); // Classic
-w.addZone("rathemtn", "Mountains of Rathe"); // Classic
-w.addZone("lakerathe", "Lake Rathetear"); // Classic
-w.addZone("grobb", "Grobb"); // Classic
-w.addZone("aviak", "Aviak Village"); // Classic
-w.addZone("gfaydark", "The Greater Faydark"); // Classic
-w.addZone("akanon", "Ak'Anon"); // Classic
-w.addZone("steamfont", "Steamfont Mountains"); // Classic
-w.addZone("lfaydark", "The Lesser Faydark"); // Classic
-w.addZone("crushbone", "Clan Crushbone"); // Classic
-w.addZone("mistmoore", "Castle Mistmoore"); // Classic
-w.addZone("kaladima", "North Kaladim"); // Classic
-w.addZone("felwithea", "Felwithe"); // Classic
-w.addZone("felwitheb", "FelwitheB"); // Classic
-w.addZone("unrest", "Estate of Unrest"); // Classic
-w.addZone("kedge", "Kedge Keep"); // Classic
-w.addZone("guktop", "Upper Guk"); // Classic
-w.addZone("gukbottom", "Lower Guk"); // Classic
-w.addZone("kaladimb", "South Kaladim"); // Classic
-w.addZone("butcher", "Butcherblock Mountains"); // Classic
-w.addZone("oot", "Ocean of Tears"); // Classic
-w.addZone("cauldron", "Dagnor's Cauldron"); // Classic
-w.addZone("airplane", "Plane of Sky"); // Classic
-w.addZone("fearplane", "Plane of Fear"); // Classic
-w.addZone("permafrost", "Permafrost Keep"); // Classic
-w.addZone("kerraridge", "Kerra Isle"); // Classic
-w.addZone("paineel", "Paineel"); // Classic
-//w.addZone("hateplane", "The Plane of Hate"); // Classic
-w.addZone("arena", "The Arena"); // Classic
-w.addZone("soltemple", "Temple of Solusek Ro"); // Classic
-w.addZone("erudsxing", "Erud's Crossing"); // Classic
-w.addZone("stonebrunt", "Stonebrunt Mountains"); // Classic
-w.addZone("warrens", "The Warrens"); // Classic
-w.addZone("erudsxing2", "Marauder's Mire"); // Classic
-w.addZone("bazaar", "The Bazaar"); // Classic
-//w.addZone("bazaar2", "The Bazaar (2)"); // Classic
-//w.addZone("arena2", "The Arena"); // Classic
-w.addZone("jaggedpine", "The Jaggedpine Forest"); // Classic
-w.addZone("nedaria", "Nedaria's Landing"); // Classic
-//w.addZone("tutorial", "Tutorial Zone"); // Classic
-//w.addZone("load", "Loading (A)"); // Classic
-//w.addZone("load2", "Loading (B)"); // Classic
-w.addZone("hateplaneb", "The Plane of Hate"); // Classic
-w.addZone("shadowrest", "Shadowrest"); // Classic
-//w.addZone("tutoriala", "The Mines of Gloomingdeep (A)"); // Classic
-//w.addZone("tutorialb", "The Mines of Gloomingdeep (B)"); // Classic
-//w.addZone("clz", "Loading (C)"); // Classic
-w.addZone("soldungc", "The Caverns of Exile"); // Classic
-//w.addZone("guildlobby", "The Guild Lobby"); // Classic
-//w.addZone("barter", "The Barter Hall"); // Classic
-//w.addZone("takishruins", "Ruins of Takish-Hiz"); // Classic
-//w.addZone("freeporteast", "East Freeport"); // Classic v2
-//w.addZone("freeportwest", "West Freeport"); // Classic v2
-//w.addZone("freeportsewers", "Freeport Sewers"); // Classic v2
-//w.addZone("northro", "North Ro (B)"); // Classic v2
-//w.addZone("southro", "South Ro (B)"); // Classic v2
-w.addZone("highpasshold", "Highpass Hold"); // Classic v2
-//w.addZone("commonlands", "Commonlands"); // Classic v2
-//w.addZone("oceanoftears", "Ocean Of Tears"); // Classic v2
-//w.addZone("kithforest", "Kithicor Forest (B)"); // Classic v2
-//w.addZone("befallenb", "Befallen (B)"); // Classic v2
-//w.addZone("highpasskeep", "Highpass Keep"); // Classic v2
-//w.addZone("innothuleb", "Innothule Swamp (B)"); // Classic v2
-//w.addZone("toxxulia", "Toxxulia Forest"); // Classic v2
-//w.addZone("mistythicket", "Misty Thicket (B)"); // Classic v2
-w.addZone("steamfontmts", "Steamfont Mountains"); // Classic
-w.addZone("dragonscalea", "Tinmizer's Wunderwerks"); // Classic
-w.addZone("crafthalls", "Ngreth's Den"); // Classic
-w.addZone("weddingchapel", "Wedding Chapel"); // Classic
-w.addZone("weddingchapeldark", "Wedding Chapel"); // Classic
-w.addZone("dragoncrypt", "Lair of the Fallen"); // Classic
-w.addZone("arttest", "Art Testing Domain"); // Classic
-w.addZone("fhalls", "The Forgotten Halls"); // Classic
-w.addZone("apprentice", "Designer Apprentice"); // Classic
+w.addZone("qeynos", "South Qeynos", 0); // Classic
+w.addZone("qeynos2", "North Qeynos", 0); // Classic
+w.addZone("qrg", "Surefall Glade", 0); // Classic
+w.addZone("qeytoqrg", "Qeynos Hills", 0); // Classic
+w.addZone("highkeep", "HighKeep", 0); // Classic
+w.addZone("freportn", "North Freeport", 0); // Classic
+w.addZone("freportw", "West Freeport", 0); // Classic
+w.addZone("freporte", "East Freeport", 0); // Classic
+w.addZone("runnyeye", "Clan RunnyEye", 0); // Classic
+w.addZone("qey2hh1", "West Karana", 0); // Classic
+w.addZone("northkarana", "North Karana", 0); // Classic
+w.addZone("southkarana", "South Karana", 0); // Classic
+w.addZone("eastkarana", "East Karana", 0); // Classic
+w.addZone("beholder", "Gorge of King Xorbb", 0); // Classic
+w.addZone("blackburrow", "BlackBurrow", 0); // Classic
+w.addZone("paw", "Infected Paw", 0); // Classic
+w.addZone("rivervale", "Rivervale", 0); // Classic
+w.addZone("kithicor", "Kithicor Forest (A), 0"); // Classic
+w.addZone("commons", "West Commonlands", 0); // Classic
+w.addZone("ecommons", "East Commonlands", 0); // Classic
+w.addZone("erudnint", "Erudin Palace", 0); // Classic
+w.addZone("erudnext", "Erudin", 0); // Classic
+w.addZone("nektulos", "Nektulos Forest", 0); // Classic
+w.addZone("cshome", "Sunset Home", 0); // Classic
+w.addZone("lavastorm", "Lavastorm Mountains", 0); // Classic
+w.addZone("nektropos", "Nektropos", 0); // Classic
+w.addZone("halas", "Halas", 0); // Classic
+w.addZone("everfrost", "Everfrost Peaks", 0); // Classic
+w.addZone("soldunga", "Solusek's Eye", 0); // Classic
+w.addZone("soldungb", "Nagafen's Lair", 0); // Classic
+w.addZone("misty", "Misty Thicket", 0); // Classic
+w.addZone("nro", "North Ro", 0); // Classic
+w.addZone("sro",  "South Ro", 0); // Classic
+w.addZone("befallen", "Befallen", 0); // Classic
+w.addZone("oasis", "Oasis of Marr", 0); // Classic
+w.addZone("tox", "Toxxulia Forest", 0); // Classic
+w.addZone("hole", "The Ruins of Old Paineel", 0); // Classic
+w.addZone("neriaka", "Neriak Foreign Quarter", 0); // Classic
+w.addZone("neriakb", "Neriak Commons", 0); // Classic
+w.addZone("neriakc", "Neriak Third Gate", 0); // Classic
+w.addZone("neriakd", "Neriak Palace", 0); // Classic
+w.addZone("najena", "Najena", 0); // Classic
+w.addZone("qcat", "Qeynos Catacombs", 0); // Classic
+w.addZone("innothule", "Innothule Swamp", 0); // Classic
+w.addZone("feerrott", "The Feerrott", 0); // Classic
+w.addZone("cazicthule", "Cazic-Thule", 0); // Classic
+w.addZone("oggok", "Oggok", 0); // Classic
+w.addZone("rathemtn", "Mountains of Rathe", 0); // Classic
+w.addZone("lakerathe", "Lake Rathetear", 0); // Classic
+w.addZone("grobb", "Grobb", 0); // Classic
+w.addZone("aviak", "Aviak Village", 0); // Classic
+w.addZone("gfaydark", "The Greater Faydark", 0); // Classic
+w.addZone("akanon", "Ak'Anon", 0); // Classic
+w.addZone("steamfont", "Steamfont Mountains", 0); // Classic
+w.addZone("lfaydark", "The Lesser Faydark", 0); // Classic
+w.addZone("crushbone", "Clan Crushbone", 0); // Classic
+w.addZone("mistmoore", "Castle Mistmoore", 0); // Classic
+w.addZone("kaladima", "North Kaladim", 0); // Classic
+w.addZone("felwithea", "Felwithe", 0); // Classic
+w.addZone("felwitheb", "FelwitheB", 0); // Classic
+w.addZone("unrest", "Estate of Unrest", 0); // Classic
+w.addZone("kedge", "Kedge Keep", 0); // Classic
+w.addZone("guktop", "Upper Guk", 0); // Classic
+w.addZone("gukbottom", "Lower Guk", 0); // Classic
+w.addZone("kaladimb", "South Kaladim", 0); // Classic
+w.addZone("butcher", "Butcherblock Mountains", 0); // Classic
+w.addZone("oot", "Ocean of Tears", 0); // Classic
+w.addZone("cauldron", "Dagnor's Cauldron", 0); // Classic
+w.addZone("airplane", "Plane of Sky", 0); // Classic
+w.addZone("fearplane", "Plane of Fear", 0); // Classic
+w.addZone("permafrost", "Permafrost Keep", 0); // Classic
+w.addZone("kerraridge", "Kerra Isle", 0); // Classic
+w.addZone("paineel", "Paineel", 0); // Classic
+//w.addZone("hateplane", "The Plane of Hate", 0); // Classic
+w.addZone("arena", "The Arena", 0); // Classic
+w.addZone("soltemple", "Temple of Solusek Ro", 0); // Classic
+w.addZone("erudsxing", "Erud's Crossing", 0); // Classic
+w.addZone("stonebrunt", "Stonebrunt Mountains", 0); // Classic
+w.addZone("warrens", "The Warrens", 0); // Classic
+w.addZone("erudsxing2", "Marauder's Mire", 0); // Classic
+w.addZone("bazaar", "The Bazaar", 0); // Classic
+//w.addZone("bazaar2", "The Bazaar (2), 0"); // Classic
+//w.addZone("arena2", "The Arena", 0); // Classic
+w.addZone("jaggedpine", "The Jaggedpine Forest", 0); // Classic
+w.addZone("nedaria", "Nedaria's Landing", 0); // Classic
+//w.addZone("tutorial", "Tutorial Zone", 0); // Classic
+//w.addZone("load", "Loading (A), 0"); // Classic
+//w.addZone("load2", "Loading (B), 0"); // Classic
+w.addZone("hateplaneb", "The Plane of Hate", 0); // Classic
+w.addZone("shadowrest", "Shadowrest", 0); // Classic
+//w.addZone("clz", "Loading (C), 0"); // Classic
+w.addZone("soldungc", "The Caverns of Exile", 0); // Classic
+//w.addZone("barter", "The Barter Hall", 0); // Classic
+//w.addZone("takishruins", "Ruins of Takish-Hiz", 0); // Classic
+//w.addZone("freeporteast", "East Freeport", 11); // PoR
+//w.addZone("freeportwest", "West Freeport", 11); // PoR
+//w.addZone("freeportsewers", "Freeport Sewers", 11); // PoR
+//w.addZone("northro", "North Ro (B), 11"); // PoR
+//w.addZone("southro", "South Ro (B), 11"); // PoR
+w.addZone("highpasshold", "Highpass Hold", 11); // PoR
+w.addZone("steamfontmts", "Steamfont Mountains", 0); // Classic
+w.addZone("dragonscalea", "Tinmizer's Wunderwerks", 0); // Classic
+w.addZone("crafthalls", "Ngreth's Den", 0); // Classic
+w.addZone("weddingchapel", "Wedding Chapel", 0); // Classic
+w.addZone("weddingchapeldark", "Wedding Chapel", 0); // Classic
+w.addZone("dragoncrypt", "Lair of the Fallen", 0); // Classic
+w.addZone("arttest", "Art Testing Domain", 0); // Classic
+w.addZone("fhalls", "The Forgotten Halls", 0); // Classic
+w.addZone("apprentice", "Designer Apprentice", 0); // Classic
 
-w.addZone("fieldofbone", "The Field of Bone"); // Kunark
-w.addZone("warslikswood", "Warsliks Wood"); // Kunark
-w.addZone("droga", "Temple of Droga"); // Kunark
-w.addZone("cabwest", "West Cabilis"); // Kunark
-w.addZone("swampofnohope", "Swamp of No Hope"); // Kunark
-w.addZone("firiona", "Firiona Vie"); // Kunark
-w.addZone("lakeofillomen", "Lake of Ill Omen"); // Kunark
-w.addZone("dreadlands", "Dreadlands"); // Kunark
-w.addZone("burningwood", "Burning Woods"); // Kunark
-w.addZone("kaesora", "Kaesora"); // Kunark
-w.addZone("sebilis", "Old Sebilis"); // Kunark
-w.addZone("citymist", "City of Mist"); // Kunark
-w.addZone("skyfire", "Skyfire Mountains"); // Kunark
-w.addZone("frontiermtns", "Frontier Mountains"); // Kunark
-w.addZone("overthere", "The Overthere"); // Kunark
-w.addZone("emeraldjungle", "The Emerald Jungle"); // Kunark
-w.addZone("trakanon", "Trakanon's Teeth"); // Kunark
-w.addZone("timorous", "Timorous Deep"); // Kunark
-w.addZone("kurn", "Kurn's Tower"); // Kunark
-w.addZone("karnor", "Karnor's Castle"); // Kunark
-w.addZone("chardok", "Chardok"); // Kunark
-w.addZone("dalnir", "Dalnir"); // Kunark
-w.addZone("charasis", "Howling Stones"); // Kunark
-w.addZone("cabeast", "East Cabilis"); // Kunark
-w.addZone("nurga", "Mines of Nurga"); // Kunark
-w.addZone("veeshan", "Veeshan's Peak"); // Kunark
-w.addZone("veksar", "Veksar"); // Kunark
-w.addZone("chardokb", "The Halls of Betrayal"); // Kunark
-w.addZone("iceclad", "Iceclad Ocean"); // Scars of Velious
-w.addZone("frozenshadow", "Tower of Frozen Shadow"); // Scars of Velious
-w.addZone("velketor", "Velketor's Labyrinth"); // Scars of Velious
-w.addZone("kael", "Kael Drakkal"); // Scars of Velious
-w.addZone("skyshrine", "Skyshrine"); // Scars of Velious
-w.addZone("thurgadina", "Thurgadin"); // Scars of Velious
-w.addZone("eastwastes", "Eastern Wastes"); // Scars of Velious
-w.addZone("cobaltscar", "Cobalt Scar"); // Scars of Velious
-w.addZone("greatdivide", "Great Divide"); // Scars of Velious
-w.addZone("wakening", "The Wakening Land"); // Scars of Velious
-w.addZone("westwastes", "Western Wastes"); // Scars of Velious
-w.addZone("crystal", "Crystal Caverns"); // Scars of Velious
-w.addZone("necropolis", "Dragon Necropolis"); // Scars of Velious
-w.addZone("templeveeshan", "Temple of Veeshan"); // Scars of Velious
-w.addZone("sirens", "Siren's Grotto"); // Scars of Velious
-w.addZone("mischiefplane", "Plane of Mischief"); // Scars of Velious
-w.addZone("growthplane", "Plane of Growth"); // Scars of Velious
-w.addZone("sleeper", "Sleeper's Tomb"); // Scars of Velious
-w.addZone("thurgadinb", "Icewell Keep"); // Scars of Velious
-w.addZone("shadowhaven", "Shadow Haven"); // Luclin
-w.addZone("nexus", "The Nexus"); // Luclin
-w.addZone("echo", "Echo Caverns"); // Luclin
-w.addZone("acrylia", "Acrylia Caverns"); // Luclin
-w.addZone("sharvahl", "Shar Vahl"); // Luclin
-w.addZone("paludal", "Paludal Caverns"); // Luclin
-w.addZone("fungusgrove", "Fungus Grove"); // Luclin
-w.addZone("vexthal", "Vex Thal"); // Luclin
-w.addZone("sseru", "Sanctus Seru"); // Luclin
-w.addZone("katta", "Katta Castellum"); // Luclin
-w.addZone("netherbian", "Netherbian Lair"); // Luclin
-w.addZone("ssratemple", "Ssraeshza Temple"); // Luclin
-w.addZone("griegsend", "Grieg's End"); // Luclin
-w.addZone("thedeep", "The Deep"); // Luclin
-w.addZone("shadeweaver", "Shadeweaver's Thicket"); // Luclin
-w.addZone("hollowshade", "Hollowshade Moor"); // Luclin
-w.addZone("grimling", "Grimling Forest"); // Luclin
-w.addZone("mseru", "Marus Seru"); // Luclin
-w.addZone("letalis", "Mons Letalis"); // Luclin
-w.addZone("twilight", "The Twilight Sea"); // Luclin
-w.addZone("thegrey", "The Grey"); // Luclin
-w.addZone("tenebrous", "The Tenebrous Mountains"); // Luclin
-w.addZone("maiden", "The Maiden's Eye"); // Luclin
-w.addZone("dawnshroud", "Dawnshroud Peaks"); // Luclin
-w.addZone("scarlet", "The Scarlet Desert"); // Luclin
-w.addZone("umbral", "The Umbral Plains"); // Luclin
-w.addZone("akheva", "Akheva Ruins"); // Luclin
-w.addZone("poknowledge", "Plane of Knowledge"); // Planes of Power
-w.addZone("codecay", "Ruins of Lxanvom"); // Planes of Power
-w.addZone("pojustice", "Plane of Justice"); // Planes of Power
-w.addZone("potranquility", "Plane of Tranquility"); // Planes of Power
-w.addZone("ponightmare", "Plane of Nightmare"); // Planes of Power
-w.addZone("podisease", "Plane of Disease"); // Planes of Power
-w.addZone("poinnovation", "Plane of Innovation"); // Planes of Power
-w.addZone("potorment", "Plane of Torment"); // Planes of Power
-w.addZone("povalor", "Plane of Valor"); // Planes of Power
-w.addZone("bothunder", "Torden, The Bastion of Thunder"); // Planes of Power
-w.addZone("postorms", "Plane of Storms"); // Planes of Power
-w.addZone("hohonora", "Halls of Honor"); // Planes of Power
-w.addZone("solrotower", "Solusek Ro's Tower"); // Planes of Power
-w.addZone("powar", "Plane of War"); // Planes of Power
-w.addZone("potactics", "Drunder, Fortress of Zek"); // Planes of Power
-w.addZone("poair", "Eryslai, the Kingdom of Wind"); // Planes of Power
-w.addZone("powater", "Reef of Coirnav"); // Planes of Power
-w.addZone("pofire", "Doomfire, The Burning Lands"); // Planes of Power
-w.addZone("poeartha", "Vegarlson, The Earthen Badlands"); // Planes of Power
-w.addZone("potimea", "Plane of Time (A)"); // Planes of Power
-w.addZone("hohonorb", "Temple of Marr (A)"); // Planes of Power
-w.addZone("nightmareb", "Lair of Terris Thule"); // Planes of Power
-w.addZone("poearthb", "Stronghold of the Twelve"); // Planes of Power
-w.addZone("potimeb", "Plane of Time (B)"); // Planes of Power
-w.addZone("gunthak", "Gulf of Gunthak"); // LoY
-w.addZone("dulak", "Dulak's Harbor"); // LoY
-w.addZone("torgiran", "Torgiran Mines"); // LoY
-w.addZone("nadox", "Crypt of Nadox"); // LoY
-w.addZone("hatesfury", "Hate's Fury, The Scorned Maiden"); // LoY
-w.addZone("guka", "The Cauldron of Lost Souls"); // LDoN
-w.addZone("ruja", "The Bloodied Quarries"); // LDoN
-w.addZone("taka", "The Sunken Library"); // LDoN
-w.addZone("mira", "The Silent Gallery"); // LDoN
-w.addZone("mmca", "The Forlorn Caverns"); // LDoN
-w.addZone("gukb", "The Drowning Crypt"); // LDoN
-w.addZone("rujb", "The Halls of War"); // LDoN
-w.addZone("takb", "The Shifting Tower"); // LDoN
-w.addZone("mirb", "The Maw of the Menagerie"); // LDoN
-w.addZone("mmcb", "The Dreary Grotto"); // LDoN
-w.addZone("gukc", "The Ancient Aqueducts"); // LDoN
-w.addZone("rujc", "The Wind Bridges"); // LDoN
-w.addZone("takc", "The Fading Temple"); // LDoN
-w.addZone("mirc", "The Spider Den"); // LDoN
-w.addZone("mmcc", "The Asylum of Invoked Stone"); // LDoN
-w.addZone("gukd", "The Mushroom Grove"); // LDoN
-w.addZone("rujd", "The Gladiator Pits"); // LDoN
-w.addZone("takd", "The Royal Observatory"); // LDoN
-w.addZone("mird", "The Hushed Banquet"); // LDoN
-w.addZone("mmcd", "The Chambers of Eternal Affliction"); // LDoN
-w.addZone("guke", "The Foreboding Prison"); // LDoN
-w.addZone("ruje", "The Drudge Hollows"); // LDoN
-w.addZone("take", "The River of Recollection"); // LDoN
-w.addZone("mire", "The Frosted Halls"); // LDoN
-w.addZone("mmce", "The Sepulcher of the Damned"); // LDoN
-w.addZone("gukf", "The Chapel of the Witnesses"); // LDoN
-w.addZone("rujf", "The Fortified Lair of the Taskmasters"); // LDoN
-w.addZone("takf", "The Sandfall Corridors"); // LDoN
-w.addZone("mirf", "The Forgotten Wastes"); // LDoN
-w.addZone("mmcf", "The Ritualistic Summoning Grounds"); // LDoN
-w.addZone("gukg", "The Root Garden"); // LDoN
-w.addZone("rujg", "The Hidden Vale"); // LDoN
-w.addZone("takg", "The Balancing Chamber"); // LDoN
-w.addZone("mirg", "The Heart of the Menagerie"); // LDoN
-w.addZone("mmcg", "The Cesspits of Putrescence"); // LDoN
-w.addZone("gukh", "The Accursed Sanctuary"); // LDoN
-w.addZone("rujh", "The Blazing Forge"); // LDoN
-w.addZone("takh", "The Sweeping Tides"); // LDoN
-w.addZone("mirh", "The Morbid Laboratory"); // LDoN
-w.addZone("mmch", "The Aisles of Blood"); // LDoN
-w.addZone("ruji", "The Arena of Chance"); // LDoN
-w.addZone("taki", "The Antiquated Palace"); // LDoN
-w.addZone("miri", "The Theater of Imprisoned Horrors"); // LDoN
-w.addZone("mmci", "The Halls of Sanguinary Rites"); // LDoN
-w.addZone("rujj", "The Barracks of War"); // LDoN
-w.addZone("takj", "The Prismatic Corridors"); // LDoN
-w.addZone("mirj", "The Grand Library"); // LDoN
-w.addZone("mmcj", "The Infernal Sanctuary"); // LDoN
-w.addZone("abysmal", "Abysmal Sea"); // GoD
-w.addZone("natimbi", "Natimbi, The Broken Shores"); // GoD
-w.addZone("qinimi", "Qinimi, Court of Nihilia"); // GoD
-w.addZone("riwwi", "Riwwi, Coliseum of Games"); // GoD
-w.addZone("barindu", "Barindu, Hanging Gardens"); // GoD
-w.addZone("ferubi", "Ferubi, Forgotten Temple of Taelosia"); // GoD
-w.addZone("snpool", "Sewers of Nihilia, Pool of Sludge"); // GoD
-w.addZone("snlair", "Sewers of Nihilia, Lair of Trapped Ones"); // GoD
-w.addZone("snplant", "Sewers of Nihilia, Purifying Plant"); // GoD
-w.addZone("sncrematory", "Sewers of Nihilia, the Crematory"); // GoD
-w.addZone("tipt", "Tipt, Treacherous Crags"); // GoD
-w.addZone("vxed", "Vxed, The Crumbling Caverns"); // GoD
-w.addZone("yxtta", "Yxtta, Pulpit of Exiles"); // GoD
-w.addZone("uqua", "Uqua, The Ocean God Chantry"); // GoD
-w.addZone("kodtaz", "Kod'Taz, Broken Trial Grounds"); // GoD
-w.addZone("ikkinz", "Ikkinz, Chambers of Destruction"); // GoD
-w.addZone("qvic", "Qvic, Prayer Grounds of Calling"); // GoD
-w.addZone("inktuta", "Inktu`Ta, The Unmasked Chapel"); // GoD
-w.addZone("txevu", "Txevu, Lair of the Elite"); // GoD
-w.addZone("tacvi", "Tacvi, Seat of the Slaver"); // GoD
-w.addZone("qvibc", "Qvic, the Hidden Vault"); // GoD
-w.addZone("wallofslaughter", "Wall of Slaughter"); // OoW
-w.addZone("bloodfields", "The Bloodfields"); // OoW
-w.addZone("draniksscar", "Dranik's Scar"); // OoW
-w.addZone("causeway", "Nobles' Causeway"); // OoW
-w.addZone("chambersa", "Muramite Proving Grounds (A)"); // OoW
-w.addZone("chambersb", "Muramite Proving Grounds (B)"); // OoW
-w.addZone("chambersc", "Muramite Proving Grounds (C)"); // OoW
-w.addZone("chambersd", "Muramite Proving Grounds (D)"); // OoW
-w.addZone("chamberse", "Muramite Proving Grounds (E)"); // OoW
-w.addZone("chambersf", "Muramite Proving Grounds (F)"); // OoW
-w.addZone("provinggrounds", "Muramite Proving Grounds"); // OoW
-w.addZone("anguish", "Asylum of Anguish"); // OoW
-w.addZone("dranikhollowsa", "Dranik's Hollows (A)"); // OoW
-w.addZone("dranikhollowsb", "Dranik's Hollows (B)"); // OoW
-w.addZone("dranikhollowsc", "Dranik's Hollows (C)"); // OoW
-w.addZone("dranikhollowsd", "Dranik's Hollows (D)"); // OoW
-w.addZone("dranikhollowse", "Dranik's Hollows (E)"); // OoW
-w.addZone("dranikhollowsf", "Dranik's Hollows (F)"); // OoW
-w.addZone("dranikhollowsg", "Dranik's Hollows (G)"); // OoW
-w.addZone("dranikhollowsh", "Dranik's Hollows (H)"); // OoW
-w.addZone("dranikhollowsi", "Dranik's Hollows (I)"); // OoW
-w.addZone("dranikhollowsj", "Dranik's Hollows (J)"); // OoW
-w.addZone("dranikcatacombsa", "Catacombs of Dranik (A)"); // OoW
-w.addZone("dranikcatacombsb", "Catacombs of Dranik (B)"); // OoW
-w.addZone("dranikcatacombsc", "Catacombs of Dranik (C)"); // OoW
-w.addZone("draniksewersa", "Sewers of Dranik (A)"); // OoW
-w.addZone("draniksewersb", "Sewers of Dranik (B)"); // OoW
-w.addZone("draniksewersc", "Sewers of Dranik (C)"); // OoW
-w.addZone("riftseekers", "Riftseekers' Sanctum"); // OoW
-w.addZone("harbingers", "Harbingers' Spire"); // OoW
-w.addZone("dranik", "The Ruined City of Dranik"); // OoW
-w.addZone("broodlands", "The Broodlands"); // DoN
-w.addZone("stillmoona", "Stillmoon Temple"); // DoN
-w.addZone("stillmoonb", "The Ascent"); // DoN
-w.addZone("thundercrest", "Thundercrest Isles"); // DoN
-w.addZone("delvea", "Lavaspinner's Lair"); // DoN
-w.addZone("delveb", "Tirranun's Delve"); // DoN
-w.addZone("thenest", "The Accursed Nest"); // DoN
-w.addZone("guildhall", "Guild Hall"); // DoN
-w.addZone("illsalin", "Ruins of Illsalin"); // DoDH
-w.addZone("illsalina", "Imperial Bazaar"); // DoDH
-w.addZone("illsalinb", "Temple of the Korlach"); // DoDH
-w.addZone("illsalinc", "The Nargilor Pits"); // DoDH
-w.addZone("dreadspire", "Dreadspire Keep"); // DoDH
-w.addZone("drachnidhive", "The Hive"); // DoDH
-w.addZone("drachnidhivea", "Living Larder"); // DoDH
-w.addZone("drachnidhiveb", "Coven of the Skinwalkers"); // DoDH
-w.addZone("drachnidhivec", "Queen Sendaii's Lair"); // DoDH
-w.addZone("westkorlach", "Stoneroot Falls"); // DoDH
-w.addZone("westkorlacha", "Chambers of Xill"); // DoDH
-w.addZone("westkorlachb", "Caverns of the Lost"); // DoDH
-w.addZone("westkorlachc", "Lair of the Korlach"); // DoDH
-w.addZone("eastkorlach", "Undershore"); // DoDH
-w.addZone("eastkorlacha", "Snarlstone Dens"); // DoDH
-w.addZone("shadowspine", "Shadowspine"); // DoDH
-w.addZone("corathus", "Corathus Creep"); // DoDH
-w.addZone("corathusa", "Sporali Caverns"); // DoDH
-w.addZone("corathusb", "Corathus Lair"); // DoDH
-w.addZone("nektulosa", "Shadowed Grove"); // DoDH
-w.addZone("arcstone", "Arcstone"); // PoR
-w.addZone("relic", "Relic"); // PoR
-w.addZone("skylance", "Skylance"); // PoR
-w.addZone("devastation", "The Devastation"); // PoR
-w.addZone("devastationa", "The Seething Wall"); // PoR
-w.addZone("rage", "Sverag, Stronghold of Rage"); // PoR
-w.addZone("ragea", "Razorthorn, Tower of Sullon Zek"); // PoR
-w.addZone("takishruinsa", "The Root of Ro"); // PoR
-w.addZone("elddar", "The Elddar Forest"); // PoR
-w.addZone("elddara", "Tunare's Shrine"); // PoR
-w.addZone("theater", "Theater of Blood"); // PoR
-w.addZone("theatera", "Deathknell, Tower of Dissonance"); // PoR
-w.addZone("freeportacademy", "Academy of Arcane Sciences"); // PoR
-w.addZone("freeporttemple", "Temple of Marr (B)"); // PoR
-w.addZone("freeportmilitia", "Freeport Militia House"); // PoR
-w.addZone("freeportarena", "Arena"); // PoR
-w.addZone("freeportcityhall", "City Hall"); // PoR
-w.addZone("freeporttheater", "Theater"); // PoR
-w.addZone("freeporthall", "Hall of Truth"); // PoR
-w.addZone("crescent", "Crescent Reach"); // TSS
-w.addZone("moors", "Blightfire Moors"); // TSS
-w.addZone("stonehive", "Stone Hive"); // TSS
-w.addZone("mesa", "Goru`kar Mesa"); // TSS
-w.addZone("roost", "Blackfeather Roost"); // TSS
-w.addZone("steppes", "The Steppes"); // TSS
-w.addZone("icefall", "Icefall Glacier"); // TSS
-w.addZone("valdeholm", "Valdeholm"); // TSS
-w.addZone("frostcrypt", "Frostcrypt, Throne of the Shade King"); // TSS
-w.addZone("sunderock", "Sunderock Springs"); // TSS
-w.addZone("vergalid", "Vergalid Mines"); // TSS
-w.addZone("direwind", "Direwind Cliffs"); // TSS
-w.addZone("ashengate", "Ashengate, Reliquary of the Scale"); // TSS
-w.addZone("kattacastrum", "Katta Castrum"); // TBS
-w.addZone("thalassius", "Thalassius, the Coral Keep"); // TBS
-w.addZone("atiiki", "Jewel of Atiiki"); // TBS
-w.addZone("zhisza", "Zhisza, the Shissar Sanctuary"); // TBS
-w.addZone("silyssar", "Silyssar, New Chelsith"); // TBS
-w.addZone("solteris", "Solteris, the Throne of Ro"); // TBS
-w.addZone("barren", "Barren Coast"); // TBS
-w.addZone("buriedsea", "The Buried Sea"); // TBS
-w.addZone("jardelshook", "Jardel's Hook"); // TBS
-w.addZone("monkeyrock", "Monkey Rock"); // TBS
-w.addZone("suncrest", "Suncrest Isle"); // TBS
-w.addZone("deadbone", "Deadbone Reef"); // TBS
-w.addZone("blacksail", "Blacksail Folly"); // TBS
-w.addZone("maidensgrave", "Maiden's Grave"); // TBS
-w.addZone("redfeather", "Redfeather Isle"); // TBS
-w.addZone("shipmvp", "The Open Sea (A)"); // TBS
-w.addZone("shipmvu", "The Open Sea (B)"); // TBS
-w.addZone("shippvu", "The Open Sea (C)"); // TBS
-w.addZone("shipuvu", "The Open Sea (D)"); // TBS
-w.addZone("shipmvm", "The Open Sea (E)"); // TBS
-w.addZone("mechanotus", "Fortress Mechanotus"); // SoF
-w.addZone("mansion", "Meldrath's Majestic Mansion"); // SoF
-w.addZone("steamfactory", "The Steam Factory"); // SoF
-w.addZone("shipworkshop", "S.H.I.P. Workshop"); // SoF
-w.addZone("gyrospireb", "Gyrospire Beza"); // SoF
-w.addZone("gyrospirez", "Gyrospire Zeka"); // SoF
-w.addZone("dragonscale", "Dragonscale Hills"); // SoF
-w.addZone("lopingplains", "Loping Plains"); // SoF
-w.addZone("hillsofshade", "Hills of Shade"); // SoF
-w.addZone("bloodmoon", "Bloodmoon Keep"); // SoF
-w.addZone("crystallos", "Crystallos, Lair of the Awakened"); // SoF
-w.addZone("guardian", "The Mechamatic Guardian"); // SoF
-w.addZone("cryptofshade", "Crypt of Shade"); // SoF
-w.addZone("dragonscaleb", "Deepscar's Den"); // SoF
-w.addZone("oldfieldofbone", "Old Field of Scale"); // SoD
-w.addZone("oldkaesoraa", "Kaesora Library"); // SoD
-w.addZone("oldkaesorab", "Hatchery Wing"); // SoD
-w.addZone("oldkurn", "Old Kurn's Tower"); // SoD
-w.addZone("oldkithicor", "Bloody Kithicor"); // SoD
-w.addZone("oldcommons", "Old Commonlands"); // SoD
-w.addZone("oldhighpass", "Old Highpass Hold"); // SoD
-w.addZone("thevoida", "The Void (A)"); // SoD
-w.addZone("thevoidb", "The Void (B)"); // SoD
-w.addZone("thevoidc", "The Void (C)"); // SoD
-w.addZone("thevoidd", "The Void (D)"); // SoD
-w.addZone("thevoide", "The Void (E)"); // SoD
-w.addZone("thevoidf", "The Void (F)"); // SoD
-w.addZone("thevoidg", "The Void (G)"); // SoD
-w.addZone("oceangreenhills", "Oceangreen Hills"); // SoD
-w.addZone("oceangreenvillage", "Oceangreen Village"); // SoD
-w.addZone("oldblackburrow", "Old Blackburrow"); // SoD
-w.addZone("bertoxtemple", "Temple of Bertoxxulous"); // SoD
-w.addZone("discord", "Korafax, Home of the Riders"); // SoD
-w.addZone("discordtower", "Citadel of the Worldslayer"); // SoD
-w.addZone("oldbloodfield", "Old Bloodfields"); // SoD
-w.addZone("precipiceofwar", "The Precipice of War"); // SoD
-w.addZone("olddranik", "City of Dranik"); // SoD
-w.addZone("toskirakk", "Toskirakk"); // SoD
-w.addZone("korascian", "Korascian Warrens"); // SoD
-w.addZone("rathechamber", "Rathe Council Chambers"); // SoD
-w.addZone("oldfieldofboneb", "Field of Scale"); // SoD
-w.addZone("brellsrest", "Brell's Rest"); // UF
-w.addZone("fungalforest", "Fungal Forest"); // UF
-w.addZone("underquarry", "The Underquarry"); // UF
-w.addZone("coolingchamber", "The Cooling Chamber"); // UF
-w.addZone("shiningcity", "Kernagir, The Shining City"); // UF
-w.addZone("arthicrex", "Arthicrex"); // UF
-w.addZone("foundation", "The Foundation"); // UF
-w.addZone("lichencreep", "Lichen Creep"); // UF
-w.addZone("pellucid", "Pellucid Grotto"); // UF
-w.addZone("stonesnake", "Volska's Husk"); // UF
-w.addZone("brellstemple", "Brell's Temple"); // UF
-w.addZone("convorteum", "The Convorteum"); // UF
-w.addZone("brellsarena", "Brell's Arena"); // UF
-w.addZone("crafthalls", "Ngreth's Den"); // UF
-w.addZone("weddingchapel", "Wedding Chapel"); // UF
-w.addZone("dragoncrypt", "Lair of the Fallen"); // UF
-w.addZone("feerrott2", "The Feerrott (B)"); // HoT
-w.addZone("thulehouse1", "House of Thule"); // HoT
-w.addZone("thulehouse2", "House of Thule, Upper Floors"); // HoT
-w.addZone("housegarden", "The Grounds"); // HoT
-w.addZone("thulelibrary", "The Library"); // HoT
-w.addZone("well", "The Well"); // HoT
-w.addZone("fallen", "Erudin Burning"); // HoT
-w.addZone("morellcastle", "Morell's Castle"); // HoT
-w.addZone("morelltower",  "Morell's Tower"); // HoT
-w.addZone("alkabormare", "Al`Kabor's Nightmare"); // HoT
-w.addZone("miragulmare", "Miragul's Nightmare"); // HoT
-w.addZone("thuledream", "Fear Itself"); // HoT
-w.addZone("somnium", "Sanctum Somnium"); // HoT
-w.addZone("neighborhood", "Sunrise Hills"); // HoT
-w.addZone("phylactery", "Miragul's Phylactery"); // HoT
-w.addZone("argath", "Argath"); // HoT
-w.addZone("arelis", "Valley of Lunanyn"); // HoT
-w.addZone("beastdomain", "Beast's Domain"); // HoT
-w.addZone("cityofbronze", "City of Bronze"); // HoT
-w.addZone("eastsepulcher", "East Sepulcher"); // HoT
-w.addZone("sarithcity", "Sarith City"); // HoT
-w.addZone("rubak", "Rubak Oseka"); // HoT
-w.addZone("resplendent", "Resplendent Temple"); // HoT
-w.addZone("pillarsalra", "Pillars of Alra"); // HoT
-w.addZone("windsong", "Windsong"); // HoT
-w.addZone("guildhalllrg", "Palatial Guidhall"); // HoT
-w.addZone("sepulcher", "Sepulcher of Order"); // HoT
-w.addZone("westsepulcher", "West Sepulcher"); // HoT
-w.addZone("resplendent", "Resplendent Temple"); // HoT
-w.addZone("shadowedmount", "Shadowed Mount"); // HoT
-w.addZone("guildhalllrg", "Grand Guild Hall"); // HoT
-w.addZone("guildhallsml", "Greater Guild Hall"); // HoT
-w.addZone("plhogrinteriors1a1", "One Bedroom House Interior"); // HoT
-w.addZone("plhogrinteriors1a2", "One Bedroom House Interior"); // HoT
-w.addZone("plhogrinteriors3a1", "Three Bedroom House Interior"); // HoT
-w.addZone("plhogrinteriors3a2", "Three Bedroom House Interior"); // HoT
-w.addZone("plhogrinteriors3b1", "Three Bedroom House Interior"); // HoT
-w.addZone("plhogrinteriors3b2", "Three Bedroom House Interior"); // HoT
-w.addZone("plhdkeinteriors1a1", "One Bedroom House Interior"); // HoT
-w.addZone("plhdkeinteriors1a2", "One Bedroom House Interior"); // HoT
-w.addZone("plhdkeinteriors1a3", "One Bedroom House Interior"); // HoT
-w.addZone("plhdkeinteriors3a1", "Three Bedroom House Interior"); // HoT
-w.addZone("plhdkeinteriors3a2", "Three Bedroom House Interior"); // HoT
-w.addZone("plhdkeinteriors3a3", "Three Bedroom House Interior"); // HoT
-w.addZone("guildhall3", "Modest Guild Hall"); // HoT
-w.addZone("kaelshard", "Kael Drakkel: The King's Madness"); // RoF
-w.addZone("eastwastesshard", "East Wastes: Zeixshi-Kar's Awakening"); // RoF
-w.addZone("crystalshard", "The Crystal Caverns: Fragment of Fear"); // RoF
-w.addZone("shardslanding", "Shard's Landing"); // RoF
-w.addZone("xorbb", "Valley of King Xorbb"); // RoF
-w.addZone("breedinggrounds", "The Breeding Grounds"); // RoF
-w.addZone("eviltree", "Evantil, the Vile Oak"); // RoF
-w.addZone("grelleth", "Grelleth's Palace, the Chateau of Filth"); // RoF
-w.addZone("chapterhouse", "Chapterhouse of the Fallen"); // RoF
-w.addZone("phinteriortree", "Evantil's Abode"); // RoF
-w.addZone("chelsithreborn", "Chelsith Reborn"); // RoF
-w.addZone("poshadow", "Plane of Shadow"); // RoF
-w.addZone("pomischief", "The Plane of Mischief"); // RoF
-w.addZone("The Burned Woods", "burnedwoods"); // RoF
-w.addZone("heartoffear", "Heart of Fear: The Threshold"); // RoF
-w.addZone("heartoffearb", "Heart of Fear: The Rebirth"); // RoF
-w.addZone("heartoffearc", "Heart of Fear: The Epicenter"); // RoF
-// w.addZone("thevoidh", "The Void (H)"); // CoTF
-// w.addZone("ethernere", "Ethernere Tainted West Karana"); // CoTF
-// w.addZone("neriakd", "Neriak - Fourth Gate"); // CoTF
-// w.addZone("deadhills", "The Dead Hills"); // CoTF
-// w.addZone("bixiewarfront", "Bix Warfront"); // CoTF
-// w.addZone("towerofrot", "Tower of Rot"); // CoTF
-// w.addZone("arginhiz", "Argin-Hiz"); // CoTF
-// w.addZone("arxmentis", "Arx Mentis"); // TDS
-// w.addZone("brotherisland", "Brother Island"); // TDS
-// w.addZone("endlesscaverns", "Caverns of Endless Song"); // TDS
-// w.addZone("dredge", "Combine Dredge"); // TDS
-// w.addZone("degmar", "Degmar, the Lost Castle"); // TDS
-// w.addZone("kattacastrumb", "Katta Castrum, The Deluge"); // TDS
-// w.addZone("tempesttemple", "Tempest Temple"); // TDS
-// w.addZone("thuliasaur", "Thuliasaur Island"); // TDS
-// w.addZone("exalted", "Sul Vius: Demiplane of Life"); // TBM
-// w.addZone("exaltedb", "Sul Vius: Demiplane of Decay"); // TBM
-// w.addZone("cosul", "Crypt of Sul"); // TBM
-// w.addZone("codecayb", "Ruins of Lxanvom"); // TBM
-// w.addZone("pohealth", "The Plane of Health"); // TBM
-// w.addZone("chardoktwo", "Chardok"); // EoK
-// w.addZone("frontiermtnsb", "Frontier Mountains"); // EoK
-// w.addZone("korshaext", "Gates of Kor-Sha"); // EoK
-// w.addZone("korshaint", "Kor-Sha Laboratory"); // EoK
-// w.addZone("lceanium", "Lceanium"); // EoK
-// w.addZone("scorchedwoods", "Scorched Woods"); // EoK
-// w.addZone("drogab", "Temple of Droga"); // EoK
-// w.addZone("charasisb", "Sathir's Tomb"); // RoS
-// w.addZone("gorowyn", "Gorowyn"); // RoS
-// w.addZone("charasistwo", "Howling Stones"); // RoS
-// w.addZone("skyfiretwo", "Skyfire Mountains"); // RoS
-// w.addZone("overtheretwo", "The Overthere"); // RoS
-// w.addZone("veeshantwo", "Veeshan's Peak"); // RoS
-// w.addZone("esianti", "Esianti: Palace of the Winds"); // TBL
-// w.addZone("trialsofsmoke", "Plane of Smoke"); // TBL
-// w.addZone("stratos", "Stratos: Zephyr's Flight"); // TBL
-// w.addZone("empyr", "Empyr: Realms of Ash"); // TBL
-// w.addZone("aalishai", "AAlishai: Palace of Embers"); // TBL
-// w.addZone("mearatas", "Mearatas: The Stone Demesne"); // TBL
-// w.addZone("chamberoftears", "The Chamber of Tears"); // TBL
-// w.addZone("gnomemtn", "Gnome Memorial Mountain"); // TBL
-// w.addZone("eastwastestwo", "The Eastern Wastes"); // ToV
-// w.addZone("frozenshadowtwo", "The Tower of Frozen Shadow"); // ToV
-// w.addZone("crystaltwoa", "The Ry`Gorr Mines"); // ToV
-// w.addZone("greatdividetwo", "The Great Divide"); // ToV
-// w.addZone("velketortwo", "Velketor's Labyrinth"); // ToV
-// w.addZone("kaeltwo", "Kael Drakkel"); // ToV
-// w.addZone("crystaltwob", "Crystal Caverns"); // ToV
-// w.addZone("sleepertwo", "The Sleeper's Tomb"); // CoV
-// w.addZone("necropolistwo", "Dragon Necropolis"); // CoV
-// w.addZone("cobaltscartwo", "Cobalt Scar"); // CoV
-// w.addZone("westwastestwo", "The Western Wastes"); // CoV
-// w.addZone("skyshrinetwo", "Skyshrine"); // CoV
-// w.addZone("templeveeshantwo", "The Temple of Veeshan"); // CoV
-// w.addZone("maidentwo", "Maiden's Eye"); // ToL
-// w.addZone("umbraltwo", "Umbral Plains"); // ToL
-// w.addZone("akhevatwo", "Ka Vethan"); // ToL
-// w.addZone("vexthaltwo", "Vex Thal"); // ToL
-// w.addZone("shadowvalley", "Shadow Valley"); // ToL
-// w.addZone("basilica", "Basilica of Adumbration"); // ToL
-// w.addZone("bloodfalls", "Bloodfalls"); // ToL
-// w.addZone("maidenhouseint", "Coterie Chambers"); // ToL
-// w.addZone("shadowhaventwo", "Ruins of Shadow Haven"); // NoS
-// w.addZone("sharvahltwo", "Shar Vahl, Divided"); // NoS
-// w.addZone("shadeweavertwo", "Shadeweaver's Tangle"); // NoS
-// w.addZone("paludaltwo", "Paludal Caverns"); // NoS
-// w.addZone("deepshade", "Deepshade"); // NoS
-// w.addZone("firefallpass", "Firefall Pass"); // NoS
-// w.addZone("hollowshadetwo", "Hollowshade Moor"); // NoS
-// w.addZone("darklightcaverns", "Darklight Caverns"); // NoS
-// w.addZone("laurioninn", "Laurion Inn"); // LS
-// w.addZone("timorousfalls", "Timorous Falls"); // LS
-// w.addZone("ankexfen", "Ankexfen Keep"); // LS
-// w.addZone("moorsofnokk", "Moors of Nokk"); // LS
-// w.addZone("unkemptwoods", "Unkempt Woods"); // LS
-// w.addZone("herosforge", "The Hero's Forge"); // LS
-// w.addZone("pallomen", "Pal'Lomen"); // LS
+w.addZone("fieldofbone", "The Field of Bone", 1); // Kunark
+w.addZone("warslikswood", "Warsliks Wood", 1); // Kunark
+w.addZone("droga", "Temple of Droga", 1); // Kunark
+w.addZone("cabwest", "West Cabilis", 1); // Kunark
+w.addZone("swampofnohope", "Swamp of No Hope", 1); // Kunark
+w.addZone("firiona", "Firiona Vie", 1); // Kunark
+w.addZone("lakeofillomen", "Lake of Ill Omen", 1); // Kunark
+w.addZone("dreadlands", "Dreadlands", 1); // Kunark
+w.addZone("burningwood", "Burning Woods", 1); // Kunark
+w.addZone("kaesora", "Kaesora", 1); // Kunark
+w.addZone("sebilis", "Old Sebilis", 1); // Kunark
+w.addZone("citymist", "City of Mist", 1); // Kunark
+w.addZone("skyfire", "Skyfire Mountains", 1); // Kunark
+w.addZone("frontiermtns", "Frontier Mountains", 1); // Kunark
+w.addZone("overthere", "The Overthere", 1); // Kunark
+w.addZone("emeraldjungle", "The Emerald Jungle", 1); // Kunark
+w.addZone("trakanon", "Trakanon's Teeth", 1); // Kunark
+w.addZone("timorous", "Timorous Deep", 1); // Kunark
+w.addZone("kurn", "Kurn's Tower", 1); // Kunark
+w.addZone("karnor", "Karnor's Castle", 1); // Kunark
+w.addZone("chardok", "Chardok", 1); // Kunark
+w.addZone("dalnir", "Dalnir", 1); // Kunark
+w.addZone("charasis", "Howling Stones", 1); // Kunark
+w.addZone("cabeast", "East Cabilis", 1); // Kunark
+w.addZone("nurga", "Mines of Nurga", 1); // Kunark
+w.addZone("veeshan", "Veeshan's Peak", 1); // Kunark
+w.addZone("veksar", "Veksar", 1); // Kunark
+w.addZone("chardokb", "The Halls of Betrayal", 1); // Kunark
+w.addZone("iceclad", "Iceclad Ocean", 2); // Scars of Velious
+w.addZone("frozenshadow", "Tower of Frozen Shadow", 2); // Scars of Velious
+w.addZone("velketor", "Velketor's Labyrinth", 2); // Scars of Velious
+w.addZone("kael", "Kael Drakkal", 2); // Scars of Velious
+w.addZone("skyshrine", "Skyshrine", 2); // Scars of Velious
+w.addZone("thurgadina", "Thurgadin", 2); // Scars of Velious
+w.addZone("eastwastes", "Eastern Wastes", 2); // Scars of Velious
+w.addZone("cobaltscar", "Cobalt Scar", 2); // Scars of Velious
+w.addZone("greatdivide", "Great Divide", 2); // Scars of Velious
+w.addZone("wakening", "The Wakening Land", 2); // Scars of Velious
+w.addZone("westwastes", "Western Wastes", 2); // Scars of Velious
+w.addZone("crystal", "Crystal Caverns", 2); // Scars of Velious
+w.addZone("necropolis", "Dragon Necropolis", 2); // Scars of Velious
+w.addZone("templeveeshan", "Temple of Veeshan", 2); // Scars of Velious
+w.addZone("sirens", "Siren's Grotto", 2); // Scars of Velious
+w.addZone("mischiefplane", "Plane of Mischief", 2); // Scars of Velious
+w.addZone("growthplane", "Plane of Growth", 2); // Scars of Velious
+w.addZone("sleeper", "Sleeper's Tomb", 2); // Scars of Velious
+w.addZone("thurgadinb", "Icewell Keep", 2); // Scars of Velious
+w.addZone("shadowhaven", "Shadow Haven", 3); // Luclin
+w.addZone("nexus", "The Nexus", 3); // Luclin
+w.addZone("echo", "Echo Caverns", 3); // Luclin
+w.addZone("acrylia", "Acrylia Caverns", 3); // Luclin
+w.addZone("sharvahl", "Shar Vahl", 3); // Luclin
+w.addZone("paludal", "Paludal Caverns", 3); // Luclin
+w.addZone("fungusgrove", "Fungus Grove", 3); // Luclin
+w.addZone("vexthal", "Vex Thal", 3); // Luclin
+w.addZone("sseru", "Sanctus Seru", 3); // Luclin
+w.addZone("katta", "Katta Castellum", 3); // Luclin
+w.addZone("netherbian", "Netherbian Lair", 3); // Luclin
+w.addZone("ssratemple", "Ssraeshza Temple", 3); // Luclin
+w.addZone("griegsend", "Grieg's End", 3); // Luclin
+w.addZone("thedeep", "The Deep", 3); // Luclin
+w.addZone("shadeweaver", "Shadeweaver's Thicket", 3); // Luclin
+w.addZone("hollowshade", "Hollowshade Moor", 3); // Luclin
+w.addZone("grimling", "Grimling Forest", 3); // Luclin
+w.addZone("mseru", "Marus Seru", 3); // Luclin
+w.addZone("letalis", "Mons Letalis", 3); // Luclin
+w.addZone("twilight", "The Twilight Sea", 3); // Luclin
+w.addZone("thegrey", "The Grey", 3); // Luclin
+w.addZone("tenebrous", "The Tenebrous Mountains", 3); // Luclin
+w.addZone("maiden", "The Maiden's Eye", 3); // Luclin
+w.addZone("dawnshroud", "Dawnshroud Peaks", 3); // Luclin
+w.addZone("scarlet", "The Scarlet Desert", 3); // Luclin
+w.addZone("umbral", "The Umbral Plains", 3); // Luclin
+w.addZone("akheva", "Akheva Ruins", 3); // Luclin
+w.addZone("poknowledge", "Plane of Knowledge", 4); // Planes of Power
+w.addZone("codecay", "Ruins of Lxanvom", 4); // Planes of Power
+w.addZone("pojustice", "Plane of Justice", 4); // Planes of Power
+w.addZone("potranquility", "Plane of Tranquility", 4); // Planes of Power
+w.addZone("ponightmare", "Plane of Nightmare", 4); // Planes of Power
+w.addZone("podisease", "Plane of Disease", 4); // Planes of Power
+w.addZone("poinnovation", "Plane of Innovation", 4); // Planes of Power
+w.addZone("potorment", "Plane of Torment", 4); // Planes of Power
+w.addZone("povalor", "Plane of Valor", 4); // Planes of Power
+w.addZone("bothunder", "Torden, The Bastion of Thunder", 4); // Planes of Power
+w.addZone("postorms", "Plane of Storms", 4); // Planes of Power
+w.addZone("hohonora", "Halls of Honor", 4); // Planes of Power
+w.addZone("solrotower", "Solusek Ro's Tower", 4); // Planes of Power
+w.addZone("powar", "Plane of War", 4); // Planes of Power
+w.addZone("potactics", "Drunder, Fortress of Zek", 4); // Planes of Power
+w.addZone("poair", "Eryslai, the Kingdom of Wind", 4); // Planes of Power
+w.addZone("powater", "Reef of Coirnav", 4); // Planes of Power
+w.addZone("pofire", "Doomfire, The Burning Lands", 4); // Planes of Power
+w.addZone("poeartha", "Vegarlson, The Earthen Badlands", 4); // Planes of Power
+w.addZone("potimea", "Plane of Time (A), 4"); // Planes of Power
+w.addZone("hohonorb", "Temple of Marr (A), 4"); // Planes of Power
+w.addZone("nightmareb", "Lair of Terris Thule", 4); // Planes of Power
+w.addZone("poearthb", "Stronghold of the Twelve", 4); // Planes of Power
+w.addZone("potimeb", "Plane of Time (B), 4"); // Planes of Power
+w.addZone("guildlobby", "The Guild Lobby", 4); // Planes of Power
+w.addZone("gunthak", "Gulf of Gunthak", 5); // LoY
+w.addZone("dulak", "Dulak's Harbor", 5); // LoY
+w.addZone("torgiran", "Torgiran Mines", 5); // LoY
+w.addZone("nadox", "Crypt of Nadox", 5); // LoY
+w.addZone("hatesfury", "Hate's Fury, The Scorned Maiden", 5); // LoY
+w.addZone("guka", "The Cauldron of Lost Souls", 6); // LDoN
+w.addZone("ruja", "The Bloodied Quarries", 6); // LDoN
+w.addZone("taka", "The Sunken Library", 6); // LDoN
+w.addZone("mira", "The Silent Gallery", 6); // LDoN
+w.addZone("mmca", "The Forlorn Caverns", 6); // LDoN
+w.addZone("gukb", "The Drowning Crypt", 6); // LDoN
+w.addZone("rujb", "The Halls of War", 6); // LDoN
+w.addZone("takb", "The Shifting Tower", 6); // LDoN
+w.addZone("mirb", "The Maw of the Menagerie", 6); // LDoN
+w.addZone("mmcb", "The Dreary Grotto", 6); // LDoN
+w.addZone("gukc", "The Ancient Aqueducts", 6); // LDoN
+w.addZone("rujc", "The Wind Bridges", 6); // LDoN
+w.addZone("takc", "The Fading Temple", 6); // LDoN
+w.addZone("mirc", "The Spider Den", 6); // LDoN
+w.addZone("mmcc", "The Asylum of Invoked Stone", 6); // LDoN
+w.addZone("gukd", "The Mushroom Grove", 6); // LDoN
+w.addZone("rujd", "The Gladiator Pits", 6); // LDoN
+w.addZone("takd", "The Royal Observatory", 6); // LDoN
+w.addZone("mird", "The Hushed Banquet", 6); // LDoN
+w.addZone("mmcd", "The Chambers of Eternal Affliction", 6); // LDoN
+w.addZone("guke", "The Foreboding Prison", 6); // LDoN
+w.addZone("ruje", "The Drudge Hollows", 6); // LDoN
+w.addZone("take", "The River of Recollection", 6); // LDoN
+w.addZone("mire", "The Frosted Halls", 6); // LDoN
+w.addZone("mmce", "The Sepulcher of the Damned", 6); // LDoN
+w.addZone("gukf", "The Chapel of the Witnesses", 6); // LDoN
+w.addZone("rujf", "The Fortified Lair of the Taskmasters", 6); // LDoN
+w.addZone("takf", "The Sandfall Corridors", 6); // LDoN
+w.addZone("mirf", "The Forgotten Wastes", 6); // LDoN
+w.addZone("mmcf", "The Ritualistic Summoning Grounds", 6); // LDoN
+w.addZone("gukg", "The Root Garden", 6); // LDoN
+w.addZone("rujg", "The Hidden Vale", 6); // LDoN
+w.addZone("takg", "The Balancing Chamber", 6); // LDoN
+w.addZone("mirg", "The Heart of the Menagerie", 6); // LDoN
+w.addZone("mmcg", "The Cesspits of Putrescence", 6); // LDoN
+w.addZone("gukh", "The Accursed Sanctuary", 6); // LDoN
+w.addZone("rujh", "The Blazing Forge", 6); // LDoN
+w.addZone("takh", "The Sweeping Tides", 6); // LDoN
+w.addZone("mirh", "The Morbid Laboratory", 6); // LDoN
+w.addZone("mmch", "The Aisles of Blood", 6); // LDoN
+w.addZone("ruji", "The Arena of Chance", 6); // LDoN
+w.addZone("taki", "The Antiquated Palace", 6); // LDoN
+w.addZone("miri", "The Theater of Imprisoned Horrors", 6); // LDoN
+w.addZone("mmci", "The Halls of Sanguinary Rites", 6); // LDoN
+w.addZone("rujj", "The Barracks of War", 6); // LDoN
+w.addZone("takj", "The Prismatic Corridors", 6); // LDoN
+w.addZone("mirj", "The Grand Library", 6); // LDoN
+w.addZone("mmcj", "The Infernal Sanctuary", 6); // LDoN
+w.addZone("abysmal", "Abysmal Sea", 7); // GoD
+w.addZone("natimbi", "Natimbi, The Broken Shores", 7); // GoD
+w.addZone("qinimi", "Qinimi, Court of Nihilia", 7); // GoD
+w.addZone("riwwi", "Riwwi, Coliseum of Games", 7); // GoD
+w.addZone("barindu", "Barindu, Hanging Gardens", 7); // GoD
+w.addZone("ferubi", "Ferubi, Forgotten Temple of Taelosia", 7); // GoD
+w.addZone("snpool", "Sewers of Nihilia, Pool of Sludge", 7); // GoD
+w.addZone("snlair", "Sewers of Nihilia, Lair of Trapped Ones", 7); // GoD
+w.addZone("snplant", "Sewers of Nihilia, Purifying Plant", 7); // GoD
+w.addZone("sncrematory", "Sewers of Nihilia, the Crematory", 7); // GoD
+w.addZone("tipt", "Tipt, Treacherous Crags", 7); // GoD
+w.addZone("vxed", "Vxed, The Crumbling Caverns", 7); // GoD
+w.addZone("yxtta", "Yxtta, Pulpit of Exiles", 7); // GoD
+w.addZone("uqua", "Uqua, The Ocean God Chantry", 7); // GoD
+w.addZone("kodtaz", "Kod'Taz, Broken Trial Grounds", 7); // GoD
+w.addZone("ikkinz", "Ikkinz, Chambers of Destruction", 7); // GoD
+w.addZone("qvic", "Qvic, Prayer Grounds of Calling", 7); // GoD
+w.addZone("inktuta", "Inktu`Ta, The Unmasked Chapel", 7); // GoD
+w.addZone("txevu", "Txevu, Lair of the Elite", 7); // GoD
+w.addZone("tacvi", "Tacvi, Seat of the Slaver", 7); // GoD
+w.addZone("qvibc", "Qvic, the Hidden Vault", 7); // GoD
+w.addZone("wallofslaughter", "Wall of Slaughter", 8); // OoW
+w.addZone("bloodfields", "The Bloodfields", 8); // OoW
+w.addZone("draniksscar", "Dranik's Scar", 8); // OoW
+w.addZone("causeway", "Nobles' Causeway", 8); // OoW
+w.addZone("chambersa", "Muramite Proving Grounds (A)", 8); // OoW
+w.addZone("chambersb", "Muramite Proving Grounds (B)", 8); // OoW
+w.addZone("chambersc", "Muramite Proving Grounds (C)", 8); // OoW
+w.addZone("chambersd", "Muramite Proving Grounds (D)", 8); // OoW
+w.addZone("chamberse", "Muramite Proving Grounds (E)", 8); // OoW
+w.addZone("chambersf", "Muramite Proving Grounds (F)", 8); // OoW
+w.addZone("provinggrounds", "Muramite Proving Grounds", 8); // OoW
+w.addZone("anguish", "Asylum of Anguish", 8); // OoW
+w.addZone("dranikhollowsa", "Dranik's Hollows (A)", 8); // OoW
+w.addZone("dranikhollowsb", "Dranik's Hollows (B)", 8); // OoW
+w.addZone("dranikhollowsc", "Dranik's Hollows (C)", 8); // OoW
+w.addZone("dranikhollowsd", "Dranik's Hollows (D)", 8); // OoW
+w.addZone("dranikhollowse", "Dranik's Hollows (E)", 8); // OoW
+w.addZone("dranikhollowsf", "Dranik's Hollows (F)", 8); // OoW
+w.addZone("dranikhollowsg", "Dranik's Hollows (G)", 8); // OoW
+w.addZone("dranikhollowsh", "Dranik's Hollows (H)", 8); // OoW
+w.addZone("dranikhollowsi", "Dranik's Hollows (I)", 8); // OoW
+w.addZone("dranikhollowsj", "Dranik's Hollows (J)", 8); // OoW
+w.addZone("dranikcatacombsa", "Catacombs of Dranik (A)", 8); // OoW
+w.addZone("dranikcatacombsb", "Catacombs of Dranik (B)", 8); // OoW
+w.addZone("dranikcatacombsc", "Catacombs of Dranik (C)", 8); // OoW
+w.addZone("draniksewersa", "Sewers of Dranik (A)", 8); // OoW
+w.addZone("draniksewersb", "Sewers of Dranik (B)", 8); // OoW
+w.addZone("draniksewersc", "Sewers of Dranik (C)", 8); // OoW
+w.addZone("riftseekers", "Riftseekers' Sanctum", 8); // OoW
+w.addZone("harbingers", "Harbingers' Spire", 8); // OoW
+w.addZone("dranik", "The Ruined City of Dranik", 8); // OoW
+w.addZone("broodlands", "The Broodlands", 9); // DoN
+w.addZone("stillmoona", "Stillmoon Temple", 9); // DoN
+w.addZone("stillmoonb", "The Ascent", 9); // DoN
+w.addZone("thundercrest", "Thundercrest Isles", 9); // DoN
+w.addZone("delvea", "Lavaspinner's Lair", 9); // DoN
+w.addZone("delveb", "Tirranun's Delve", 9); // DoN
+w.addZone("thenest", "The Accursed Nest", 9); // DoN
+w.addZone("guildhall", "Guild Hall", 9); // DoN
+w.addZone("tutoriala", "The Mines of Gloomingdeep (A), 0"); // DoN
+w.addZone("tutorialb", "The Mines of Gloomingdeep (B), 0"); // DoN
+w.addZone("illsalin", "Ruins of Illsalin", 10); // DoDH
+w.addZone("illsalina", "Imperial Bazaar", 10); // DoDH
+w.addZone("illsalinb", "Temple of the Korlach", 10); // DoDH
+w.addZone("illsalinc", "The Nargilor Pits", 10); // DoDH
+w.addZone("dreadspire", "Dreadspire Keep", 10); // DoDH
+w.addZone("drachnidhive", "The Hive", 10); // DoDH
+w.addZone("drachnidhivea", "Living Larder", 10); // DoDH
+w.addZone("drachnidhiveb", "Coven of the Skinwalkers", 10); // DoDH
+w.addZone("drachnidhivec", "Queen Sendaii's Lair", 10); // DoDH
+w.addZone("westkorlach", "Stoneroot Falls", 10); // DoDH
+w.addZone("westkorlacha", "Chambers of Xill", 10); // DoDH
+w.addZone("westkorlachb", "Caverns of the Lost", 10); // DoDH
+w.addZone("westkorlachc", "Lair of the Korlach", 10); // DoDH
+w.addZone("eastkorlach", "Undershore", 10); // DoDH
+w.addZone("eastkorlacha", "Snarlstone Dens", 10); // DoDH
+w.addZone("shadowspine", "Shadowspine", 10); // DoDH
+w.addZone("corathus", "Corathus Creep", 10); // DoDH
+w.addZone("corathusa", "Sporali Caverns", 10); // DoDH
+w.addZone("corathusb", "Corathus Lair", 10); // DoDH
+w.addZone("nektulosa", "Shadowed Grove", 10); // DoDH
+w.addZone("arcstone", "Arcstone", 11); // PoR
+w.addZone("relic", "Relic", 11); // PoR
+w.addZone("skylance", "Skylance", 11); // PoR
+w.addZone("devastation", "The Devastation", 11); // PoR
+w.addZone("devastationa", "The Seething Wall", 11); // PoR
+w.addZone("rage", "Sverag, Stronghold of Rage", 11); // PoR
+w.addZone("ragea", "Razorthorn, Tower of Sullon Zek", 11); // PoR
+w.addZone("takishruinsa", "The Root of Ro", 11); // PoR
+w.addZone("elddar", "The Elddar Forest", 11); // PoR
+w.addZone("elddara", "Tunare's Shrine", 11); // PoR
+w.addZone("theater", "Theater of Blood", 11); // PoR
+w.addZone("theatera", "Deathknell, Tower of Dissonance", 11); // PoR
+w.addZone("freeportacademy", "Academy of Arcane Sciences", 11); // PoR
+w.addZone("freeporttemple", "Temple of Marr (B)", 11); // PoR
+w.addZone("freeportmilitia", "Freeport Militia House", 11); // PoR
+w.addZone("freeportarena", "Arena", 11); // PoR
+w.addZone("freeportcityhall", "City Hall", 11); // PoR
+w.addZone("freeporttheater", "Theater", 11); // PoR
+w.addZone("freeporthall", "Hall of Truth", 11); // PoR
+w.addZone("southro", "South Ro (A), 11"); // PoR
+w.addZone("commonlands", "Commonlands", 11); // PoR
+w.addZone("oceanoftears", "Ocean Of Tears", 11); // PoR
+w.addZone("kithforest", "Kithicor Forest (B), 11"); // PoR
+w.addZone("befallenb", "Befallen (B), 11"); // PoR
+w.addZone("highpasskeep", "Highpass Keep", 11); // PoR
+w.addZone("innothuleb", "Innothule Swamp (B), 11"); // PoR
+w.addZone("toxxulia", "Toxxulia Forest", 11); // PoR
+w.addZone("mistythicket", "Misty Thicket (B)", 11); // PoR
+w.addZone("crescent", "Crescent Reach", 12); // TSS
+w.addZone("moors", "Blightfire Moors", 12); // TSS
+w.addZone("stonehive", "Stone Hive", 12); // TSS
+w.addZone("mesa", "Goru`kar Mesa", 12); // TSS
+w.addZone("roost", "Blackfeather Roost", 12); // TSS
+w.addZone("steppes", "The Steppes", 12); // TSS
+w.addZone("icefall", "Icefall Glacier", 12); // TSS
+w.addZone("valdeholm", "Valdeholm", 12); // TSS
+w.addZone("frostcrypt", "Frostcrypt, Throne of the Shade King", 12); // TSS
+w.addZone("sunderock", "Sunderock Springs", 12); // TSS
+w.addZone("vergalid", "Vergalid Mines", 12); // TSS
+w.addZone("direwind", "Direwind Cliffs", 12); // TSS
+w.addZone("ashengate", "Ashengate, Reliquary of the Scale", 12); // TSS
+w.addZone("kattacastrum", "Katta Castrum", 13); // TBS
+w.addZone("thalassius", "Thalassius, the Coral Keep", 13); // TBS
+w.addZone("atiiki", "Jewel of Atiiki", 13); // TBS
+w.addZone("zhisza", "Zhisza, the Shissar Sanctuary", 13); // TBS
+w.addZone("silyssar", "Silyssar, New Chelsith", 13); // TBS
+w.addZone("solteris", "Solteris, the Throne of Ro", 13); // TBS
+w.addZone("barren", "Barren Coast", 13); // TBS
+w.addZone("buriedsea", "The Buried Sea", 13); // TBS
+w.addZone("jardelshook", "Jardel's Hook", 13); // TBS
+w.addZone("monkeyrock", "Monkey Rock", 13); // TBS
+w.addZone("suncrest", "Suncrest Isle", 13); // TBS
+w.addZone("deadbone", "Deadbone Reef", 13); // TBS
+w.addZone("blacksail", "Blacksail Folly", 13); // TBS
+w.addZone("maidensgrave", "Maiden's Grave", 13); // TBS
+w.addZone("redfeather", "Redfeather Isle", 13); // TBS
+w.addZone("shipmvp", "The Open Sea (A)", 13); // TBS
+w.addZone("shipmvu", "The Open Sea (B)", 13); // TBS
+w.addZone("shippvu", "The Open Sea (C)", 13); // TBS
+w.addZone("shipuvu", "The Open Sea (D)", 13); // TBS
+w.addZone("shipmvm", "The Open Sea (E)", 13); // TBS
+w.addZone("mechanotus", "Fortress Mechanotus", 14); // SoF
+w.addZone("mansion", "Meldrath's Majestic Mansion", 14); // SoF
+w.addZone("steamfactory", "The Steam Factory", 14); // SoF
+w.addZone("shipworkshop", "S.H.I.P. Workshop", 14); // SoF
+w.addZone("gyrospireb", "Gyrospire Beza", 14); // SoF
+w.addZone("gyrospirez", "Gyrospire Zeka", 14); // SoF
+w.addZone("dragonscale", "Dragonscale Hills", 14); // SoF
+w.addZone("lopingplains", "Loping Plains", 14); // SoF
+w.addZone("hillsofshade", "Hills of Shade", 14); // SoF
+w.addZone("bloodmoon", "Bloodmoon Keep", 14); // SoF
+w.addZone("crystallos", "Crystallos, Lair of the Awakened", 14); // SoF
+w.addZone("guardian", "The Mechamatic Guardian", 14); // SoF
+w.addZone("cryptofshade", "Crypt of Shade", 14); // SoF
+w.addZone("dragonscaleb", "Deepscar's Den", 14); // SoF
+w.addZone("oldfieldofbone", "Old Field of Scale", 15); // SoD
+w.addZone("oldkaesoraa", "Kaesora Library", 15); // SoD
+w.addZone("oldkaesorab", "Hatchery Wing", 15); // SoD
+w.addZone("oldkurn", "Old Kurn's Tower", 15); // SoD
+w.addZone("oldkithicor", "Bloody Kithicor", 15); // SoD
+w.addZone("oldcommons", "Old Commonlands", 15); // SoD
+w.addZone("oldhighpass", "Old Highpass Hold", 15); // SoD
+w.addZone("thevoida", "The Void (A)", 15); // SoD
+w.addZone("thevoidb", "The Void (B)", 15); // SoD
+w.addZone("thevoidc", "The Void (C)", 15); // SoD
+w.addZone("thevoidd", "The Void (D)", 15); // SoD
+w.addZone("thevoide", "The Void (E)", 15); // SoD
+w.addZone("thevoidf", "The Void (F)", 15); // SoD
+w.addZone("thevoidg", "The Void (G)", 15); // SoD
+w.addZone("oceangreenhills", "Oceangreen Hills", 15); // SoD
+w.addZone("oceangreenvillage", "Oceangreen Village", 15); // SoD
+w.addZone("oldblackburrow", "Old Blackburrow", 15); // SoD
+w.addZone("bertoxtemple", "Temple of Bertoxxulous", 15); // SoD
+w.addZone("discord", "Korafax, Home of the Riders", 15); // SoD
+w.addZone("discordtower", "Citadel of the Worldslayer", 15); // SoD
+w.addZone("oldbloodfield", "Old Bloodfields", 15); // SoD
+w.addZone("precipiceofwar", "The Precipice of War", 15); // SoD
+w.addZone("olddranik", "City of Dranik", 15); // SoD
+w.addZone("toskirakk", "Toskirakk", 15); // SoD
+w.addZone("korascian", "Korascian Warrens", 15); // SoD
+w.addZone("rathechamber", "Rathe Council Chambers", 15); // SoD
+w.addZone("oldfieldofboneb", "Field of Scale", 15); // SoD
+w.addZone("brellsrest", "Brell's Rest", 16); // UF
+w.addZone("fungalforest", "Fungal Forest", 16); // UF
+w.addZone("underquarry", "The Underquarry", 16); // UF
+w.addZone("coolingchamber", "The Cooling Chamber", 16); // UF
+w.addZone("shiningcity", "Kernagir, The Shining City", 16); // UF
+w.addZone("arthicrex", "Arthicrex", 16); // UF
+w.addZone("foundation", "The Foundation", 16); // UF
+w.addZone("lichencreep", "Lichen Creep", 16); // UF
+w.addZone("pellucid", "Pellucid Grotto", 16); // UF
+w.addZone("stonesnake", "Volska's Husk", 16); // UF
+w.addZone("brellstemple", "Brell's Temple", 16); // UF
+w.addZone("convorteum", "The Convorteum", 16); // UF
+w.addZone("brellsarena", "Brell's Arena", 16); // UF
+w.addZone("crafthalls", "Ngreth's Den", 16); // UF
+w.addZone("weddingchapel", "Wedding Chapel", 16); // UF
+w.addZone("dragoncrypt", "Lair of the Fallen", 16); // UF
+w.addZone("feerrott2", "The Feerrott (B)", 17); // HoT
+w.addZone("thulehouse1", "House of Thule", 17); // HoT
+w.addZone("thulehouse2", "House of Thule, Upper Floors", 17); // HoT
+w.addZone("housegarden", "The Grounds", 17); // HoT
+w.addZone("thulelibrary", "The Library", 17); // HoT
+w.addZone("well", "The Well", 17); // HoT
+w.addZone("fallen", "Erudin Burning", 17); // HoT
+w.addZone("morellcastle", "Morell's Castle", 17); // HoT
+w.addZone("morelltower",  "Morell's Tower", 17); // HoT
+w.addZone("alkabormare", "Al`Kabor's Nightmare", 17); // HoT
+w.addZone("miragulmare", "Miragul's Nightmare", 17); // HoT
+w.addZone("thuledream", "Fear Itself", 17); // HoT
+w.addZone("somnium", "Sanctum Somnium", 17); // HoT
+w.addZone("neighborhood", "Sunrise Hills", 17); // HoT
+w.addZone("phylactery", "Miragul's Phylactery", 17); // HoT
+w.addZone("argath", "Argath", 17); // HoT
+w.addZone("arelis", "Valley of Lunanyn", 17); // HoT
+w.addZone("beastdomain", "Beast's Domain", 17); // HoT
+w.addZone("cityofbronze", "City of Bronze", 17); // HoT
+w.addZone("eastsepulcher", "East Sepulcher", 17); // HoT
+w.addZone("sarithcity", "Sarith City", 17); // HoT
+w.addZone("rubak", "Rubak Oseka", 17); // HoT
+w.addZone("resplendent", "Resplendent Temple", 17); // HoT
+w.addZone("pillarsalra", "Pillars of Alra", 17); // HoT
+w.addZone("windsong", "Windsong", 17); // HoT
+w.addZone("guildhalllrg", "Palatial Guidhall", 17); // HoT
+w.addZone("sepulcher", "Sepulcher of Order", 17); // HoT
+w.addZone("westsepulcher", "West Sepulcher", 17); // HoT
+w.addZone("resplendent", "Resplendent Temple", 17); // HoT
+w.addZone("shadowedmount", "Shadowed Mount", 17); // HoT
+w.addZone("guildhalllrg", "Grand Guild Hall", 17); // HoT
+w.addZone("guildhallsml", "Greater Guild Hall", 17); // HoT
+w.addZone("plhogrinteriors1a1", "One Bedroom House Interior", 17); // HoT
+w.addZone("plhogrinteriors1a2", "One Bedroom House Interior", 17); // HoT
+w.addZone("plhogrinteriors3a1", "Three Bedroom House Interior", 17); // HoT
+w.addZone("plhogrinteriors3a2", "Three Bedroom House Interior", 17); // HoT
+w.addZone("plhogrinteriors3b1", "Three Bedroom House Interior", 17); // HoT
+w.addZone("plhogrinteriors3b2", "Three Bedroom House Interior", 17); // HoT
+w.addZone("plhdkeinteriors1a1", "One Bedroom House Interior", 17); // HoT
+w.addZone("plhdkeinteriors1a2", "One Bedroom House Interior", 17); // HoT
+w.addZone("plhdkeinteriors1a3", "One Bedroom House Interior", 17); // HoT
+w.addZone("plhdkeinteriors3a1", "Three Bedroom House Interior", 17); // HoT
+w.addZone("plhdkeinteriors3a2", "Three Bedroom House Interior", 17); // HoT
+w.addZone("plhdkeinteriors3a3", "Three Bedroom House Interior", 17); // HoT
+w.addZone("guildhall3", "Modest Guild Hall", 17); // HoT
+w.addZone("kaelshard", "Kael Drakkel: The King's Madness", 18); // RoF
+w.addZone("eastwastesshard", "East Wastes: Zeixshi-Kar's Awakening", 18); // RoF
+w.addZone("crystalshard", "The Crystal Caverns: Fragment of Fear", 18); // RoF
+w.addZone("shardslanding", "Shard's Landing", 18); // RoF
+w.addZone("xorbb", "Valley of King Xorbb", 18); // RoF
+w.addZone("breedinggrounds", "The Breeding Grounds", 18); // RoF
+w.addZone("eviltree", "Evantil, the Vile Oak", 18); // RoF
+w.addZone("grelleth", "Grelleth's Palace, the Chateau of Filth", 18); // RoF
+w.addZone("chapterhouse", "Chapterhouse of the Fallen", 18); // RoF
+w.addZone("phinteriortree", "Evantil's Abode", 18); // RoF
+w.addZone("chelsithreborn", "Chelsith Reborn", 18); // RoF
+w.addZone("poshadow", "Plane of Shadow", 18); // RoF
+w.addZone("pomischief", "The Plane of Mischief", 18); // RoF
+w.addZone("The Burned Woods", "burnedwoods", 18); // RoF
+w.addZone("heartoffear", "Heart of Fear: The Threshold", 18); // RoF
+w.addZone("heartoffearb", "Heart of Fear: The Rebirth", 18); // RoF
+w.addZone("heartoffearc", "Heart of Fear: The Epicenter", 18); // RoF
+w.addZone("thevoidh", "The Void (H)", 19); // CoTF
+w.addZone("ethernere", "Ethernere Tainted West Karana", 19); // CoTF
+w.addZone("neriakd", "Neriak - Fourth Gate", 19); // CoTF
+w.addZone("deadhills", "The Dead Hills", 19); // CoTF
+w.addZone("bixiewarfront", "Bix Warfront", 19); // CoTF
+w.addZone("towerofrot", "Tower of Rot", 19); // CoTF
+w.addZone("arginhiz", "Argin-Hiz", 19); // CoTF
+w.addZone("arxmentis", "Arx Mentis", 20); // TDS
+w.addZone("brotherisland", "Brother Island", 20); // TDS
+w.addZone("endlesscaverns", "Caverns of Endless Song", 20); // TDS
+w.addZone("dredge", "Combine Dredge", 20); // TDS
+w.addZone("degmar", "Degmar, the Lost Castle", 20); // TDS
+w.addZone("kattacastrumb", "Katta Castrum, The Deluge", 20); // TDS
+w.addZone("tempesttemple", "Tempest Temple", 20); // TDS
+w.addZone("thuliasaur", "Thuliasaur Island", 20); // TDS
+w.addZone("exalted", "Sul Vius: Demiplane of Life", 21); // TBM
+w.addZone("exaltedb", "Sul Vius: Demiplane of Decay", 21); // TBM
+w.addZone("cosul", "Crypt of Sul", 21); // TBM
+w.addZone("codecayb", "Ruins of Lxanvom", 21); // TBM
+w.addZone("pohealth", "The Plane of Health", 21); // TBM
+w.addZone("chardoktwo", "Chardok", 22); // EoK
+w.addZone("frontiermtnsb", "Frontier Mountains", 22); // EoK
+w.addZone("korshaext", "Gates of Kor-Sha", 22); // EoK
+w.addZone("korshaint", "Kor-Sha Laboratory", 22); // EoK
+w.addZone("lceanium", "Lceanium", 22); // EoK
+w.addZone("scorchedwoods", "Scorched Woods", 22); // EoK
+w.addZone("drogab", "Temple of Droga", 22); // EoK
+w.addZone("charasisb", "Sathir's Tomb", 23); // RoS
+w.addZone("gorowyn", "Gorowyn", 23); // RoS
+w.addZone("charasistwo", "Howling Stones", 23); // RoS
+w.addZone("skyfiretwo", "Skyfire Mountains", 23); // RoS
+w.addZone("overtheretwo", "The Overthere", 23); // RoS
+w.addZone("veeshantwo", "Veeshan's Peak", 23); // RoS
+w.addZone("esianti", "Esianti: Palace of the Winds", 24); // TBL
+w.addZone("trialsofsmoke", "Plane of Smoke", 24); // TBL
+w.addZone("stratos", "Stratos: Zephyr's Flight", 24); // TBL
+w.addZone("empyr", "Empyr: Realms of Ash", 24); // TBL
+w.addZone("aalishai", "AAlishai: Palace of Embers", 24); // TBL
+w.addZone("mearatas", "Mearatas: The Stone Demesne", 24); // TBL
+w.addZone("chamberoftears", "The Chamber of Tears", 24); // TBL
+w.addZone("gnomemtn", "Gnome Memorial Mountain", 24); // TBL
+w.addZone("eastwastestwo", "The Eastern Wastes", 25); // ToV
+w.addZone("frozenshadowtwo", "The Tower of Frozen Shadow", 25); // ToV
+w.addZone("crystaltwoa", "The Ry`Gorr Mines", 25); // ToV
+w.addZone("greatdividetwo", "The Great Divide", 25); // ToV
+w.addZone("velketortwo", "Velketor's Labyrinth", 25); // ToV
+w.addZone("kaeltwo", "Kael Drakkel", 25); // ToV
+w.addZone("crystaltwob", "Crystal Caverns", 25); // ToV
+w.addZone("sleepertwo", "The Sleeper's Tomb", 26); // CoV
+w.addZone("necropolistwo", "Dragon Necropolis", 26); // CoV
+w.addZone("cobaltscartwo", "Cobalt Scar", 26); // CoV
+w.addZone("westwastestwo", "The Western Wastes", 26); // CoV
+w.addZone("skyshrinetwo", "Skyshrine", 26); // CoV
+w.addZone("templeveeshantwo", "The Temple of Veeshan", 26); // CoV
+w.addZone("maidentwo", "Maiden's Eye", 27); // ToL
+w.addZone("umbraltwo", "Umbral Plains", 27); // ToL
+w.addZone("akhevatwo", "Ka Vethan", 27); // ToL
+w.addZone("vexthaltwo", "Vex Thal", 27); // ToL
+w.addZone("shadowvalley", "Shadow Valley", 27); // ToL
+w.addZone("basilica", "Basilica of Adumbration", 27); // ToL
+w.addZone("bloodfalls", "Bloodfalls", 27); // ToL
+w.addZone("maidenhouseint", "Coterie Chambers", 27); // ToL
+w.addZone("shadowhaventwo", "Ruins of Shadow Haven", 28); // NoS
+w.addZone("sharvahltwo", "Shar Vahl, Divided", 28); // NoS
+w.addZone("shadeweavertwo", "Shadeweaver's Tangle", 28); // NoS
+w.addZone("paludaltwo", "Paludal Caverns", 28); // NoS
+w.addZone("deepshade", "Deepshade", 28); // NoS
+w.addZone("firefallpass", "Firefall Pass", 28); // NoS
+w.addZone("hollowshadetwo", "Hollowshade Moor", 28); // NoS
+w.addZone("darklightcaverns", "Darklight Caverns", 28); // NoS
+w.addZone("laurioninn", "Laurion Inn", 29); // LS
+w.addZone("timorousfalls", "Timorous Falls", 29); // LS
+w.addZone("ankexfen", "Ankexfen Keep", 29); // LS
+w.addZone("moorsofnokk", "Moors of Nokk", 29); // LS
+w.addZone("unkemptwoods", "Unkempt Woods", 29); // LS
+w.addZone("herosforge", "The Hero's Forge", 29); // LS
+w.addZone("pallomen", "Pal'Lomen", 29); // LS
 
 w.addBiZoneLine('qeytoqrg', 'qeynos2', 2);
 w.addBiZoneLine('qeynos2', 'qeynos', 2);
@@ -878,7 +884,6 @@ w.addBiZoneLine('timorous', 'cabwest');
 //VELIOUS
 //iceclad
 w.addBiZoneLine('eastwastes', 'iceclad');
-w.addBiZoneLine('guildhall', 'iceclad');
 w.addBiZoneLine('nro', 'iceclad');
 w.addBiZoneLine('frozenshadow', 'iceclad');
 //frozenshadow
@@ -973,8 +978,8 @@ w.addBiZoneLine('poknowledge', 'nexus');
 w.addBiZoneLine('shadowhaven', 'nexus');
 w.addBiZoneLine('bazaar', 'nexus');
 w.addBiZoneLine('tox', 'nexus');
-//w.addZoneLine('lceanium', 'ecommons', 2, 'exit from Lceanium');
-//w.addZoneLine('maiden', 'ecommons', 2, 'exit from Maiden');
+w.addZoneLine('lceanium', 'ecommons', 2, 'exit from Lceanium');
+w.addZoneLine('maiden', 'ecommons', 2, 'exit from Maiden');
 //echo
 w.addBiZoneLine('fungusgrove', 'echo');
 w.addBiZoneLine('shadowhaven', 'echo');
@@ -1350,30 +1355,30 @@ w.addBiZoneLine('nedaria', 'guildlobby');
 w.addBiZoneLine('neighborhood', 'guildlobby');
 //Guild Hall
 w.addBiZoneLine('guildlobby', 'guildhall');
-w.addBiZoneLine('guildlobby', 'arcstone', 2, 'Entrance To Arcstone, Isle of Spirits');
-w.addBiZoneLine('guildlobby', 'argath', 2, 'Entrance To Argath, Bastion of Illdaera');
-w.addBiZoneLine('guildlobby', 'barindu', 2, 'Entrance To Barindu, Hanging Gardens');
-w.addBiZoneLine('guildlobby', 'brellsrest', 2, 'Entrance To Brells Rest');
-w.addBiZoneLine('guildlobby', 'cobaltscar', 2, 'Entrance To Cobalt Scar');
-w.addBiZoneLine('guildlobby', 'commons', 2, 'Entrance To Commonlands');
-w.addBiZoneLine('guildlobby', 'dragonscale', 2, 'Entrance To Dragonscale Hills');
-w.addBiZoneLine('guildlobby', 'dreadlands', 2, 'Entrance To Dreadlands');
-w.addBiZoneLine('guildlobby', 'feerrott2', 2, 'Entrance To Feerrott, the Dream');
-w.addBiZoneLine('guildlobby', 'mesa', 2, 'Entrance To Goru`kar Mesa');
-w.addBiZoneLine('guildlobby', 'gfaydark', 2, 'Entrance To Greater Faydark');
-w.addBiZoneLine('guildlobby', 'iceclad', 2, 'Entrance To Iceclad Ocean');
-w.addBiZoneLine('guildlobby', 'kattacastrum', 2, 'Entrance To Katta Castrum');
-w.addBiZoneLine('guildlobby', 'lavastorm', 2, 'Entrance To Lavastorm Mountains');
-w.addBiZoneLine('guildlobby', 'lavastorm', 2, 'Entrance To Lavastorm Mountains');
-w.addBiZoneLine('guildlobby', 'pohate', 2, 'Entrance To Plane of Hate');
-w.addBiZoneLine('guildlobby', 'posky', 2, 'Entrance To Plane of Sky');
-w.addBiZoneLine('guildlobby', 'potimea', 2, 'Entrance To Plane of Time');
-w.addBiZoneLine('guildlobby', 'shardslanding', 2, 'Entrance To Shards Landing');
-w.addBiZoneLine('guildlobby', 'stonebrunt', 2, 'Entrance To Stonebrunt Mountains');
-w.addBiZoneLine('guildlobby', 'tox', 2, 'Entrance To Toxxulia Forest');
-w.addBiZoneLine('guildlobby', 'twilight', 2, 'Entrance To Twilight Sea');
-w.addBiZoneLine('guildlobby', 'eastkorlach', 2, 'Entrance To Undershore');
-w.addBiZoneLine('guildlobby', 'wallofslaughter', 2, 'Entrance To Wall of Slaughter');
+w.addZoneLine('guildhall', 'arcstone', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'argath', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'barindu', 2, 'give XYZ stone to zone to Gardens');
+w.addZoneLine('guildhall', 'brellsrest', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'cobaltscar', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'commons', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'dragonscale', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'dreadlands', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'feerrott2', 2, 'give XYZ stone to zone to Dream');
+w.addZoneLine('guildhall', 'mesa', 2, 'give XYZ stone to zone to Mesa');
+w.addZoneLine('guildhall', 'gfaydark', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'iceclad', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'kattacastrum', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'lavastorm', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'lavastorm', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'hateplane', 2, 'give XYZ stone to zone to Hate');
+w.addZoneLine('guildhall', 'airplane', 2, 'give XYZ stone to zone to Sky');
+w.addZoneLine('guildhall', 'potimea', 2, 'give XYZ stone to zone to Time');
+w.addZoneLine('guildhall', 'shardslanding', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'stonebrunt', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'tox', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'twilight', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'eastkorlach', 2, 'give XYZ stone to zone to');
+w.addZoneLine('guildhall', 'wallofslaughter', 2, 'give XYZ stone to zone to');
 
 
 
