@@ -1,80 +1,85 @@
 
 document.addEventListener("DOMContentLoaded", function() {
-    let itemLinks = document.getElementsByClassName("item-link");
     let url = "localhost:8080"
     if (window.location.href.includes("jamfesteq.com")) {
         url = "play.jamfesteq.com"
     }
 
-    for (let i = 0; i < itemLinks.length; i++) {
-        let itemLink = itemLinks[i];
-        let description = document.createElement("div");
-        description.setAttribute("class", "item-description");
-        description.setAttribute("style", "visibility: hidden;");
-        description.innerHTML = "<img src='http://"+url+"/item/preview.png?id=" + itemLink.getAttribute("item-id") + "'>"
-        itemLink.appendChild(description);
+    let links = ['item', 'spell', 'npc'];
 
-        itemLink.addEventListener("mouseover", (e) => {
-            console.log("hovered in");
-            let description = itemLink.getElementsByClassName("item-description")[0]
-            if (description == null) {
-                return;
-            }
-            description.setAttribute("style", "visibility: visible;");
-            e.preventDefault();
-        });
 
-        itemLink.addEventListener("mouseout", (e) => {
-            console.log("hovered out");
-            let description = itemLink.getElementsByClassName("item-description")[0]
-            if (description == null) {
-                return;
+    for (let i = 0; i < links.length; i++) {
+        let linkName = links[i];
+        console.log("searching for", linkName);
+        let elementLinks = document.getElementsByClassName(linkName+"-link");
+
+        for (let j = 0; j < elementLinks.length; j++) {
+            let elementLink = elementLinks[j];
+            if (elementLink == null) {
+                continue;
             }
+            console.log("Found element", elementLink);
+            let description = document.createElement("div");
+            description.setAttribute("class", linkName+"-description");
             description.setAttribute("style", "visibility: hidden;");
-            e.preventDefault();
-        });
+            elementLink.appendChild(description);
 
-        itemLink.addEventListener("click", (e) => {
-            console.log("clicked");
-            let description = itemLink.getElementsByClassName("item-description")[0]
             
-            e.preventDefault();
-        });
-    }
-
-    let spellLinks = document.getElementsByClassName("spell-link");
-
-    for (let i = 0; i < spellLinks.length; i++) {
-        let spellLink = spellLinks[i];
-        let description = document.createElement("div");
-        description.setAttribute("class", "spell-description");
-        description.setAttribute("style", "visibility: hidden;");
-        description.innerHTML = "<img src='http://"+url+"/spell/preview.png?id=" + spellLink.getAttribute("spell-id") + "'>"
-        spellLink.appendChild(description);
-
-        spellLink.addEventListener("mouseover", (e) => {
-            let description = spellLink.getElementsByClassName("spell-description")[0]
-            if (description == null) {
-                return;
-            }
-            description.setAttribute("style", "visibility: visible;");
-            e.preventDefault();
-        });
-
-        spellLink.addEventListener("mouseout", (e) => {
-            let description = spellLink.getElementsByClassName("spell-description")[0]
-            if (description == null) {
-                return;
-            }
-            description.setAttribute("style", "visibility: hidden;");
-            e.preventDefault();
-        });
-
-        // spellLink.addEventListener("click", (e) => {
-        //     console.log("clicked");
-        //     let description = spellLink.getElementsByClassName("spell-description")[0]
             
-        //     e.preventDefault();
-        // });
+            elementLink.addEventListener("mouseover", (e) => {
+                console.log("hovered in");
+                let description = elementLink.getElementsByClassName(linkName+"-description")[0]
+                if (description == null) {
+                    return;
+                }
+
+                // check if description has img element
+                let img = description.getElementsByTagName("img")[0];
+                if (img == null) {
+                    description.innerHTML = "<img src='http://"+url+"/"+linkName+"/preview.png?id=" + elementLink.getAttribute(linkName+"-id") + "'>"
+                    elementLink.appendChild(description);
+                }
+                if (description.getAttribute("clicked") == "true") {
+                    return;
+                }
+
+
+                description.setAttribute("style", "visibility: visible;");
+                e.preventDefault();
+            });
+
+            elementLink.addEventListener("mouseout", (e) => {
+                console.log("hovered out");
+                let description = elementLink.getElementsByClassName(linkName+"-description")[0]
+                if (description == null) {
+                    return;
+                }
+                if (description.getAttribute("clicked") == "true") {
+                    return;
+                }
+                description.setAttribute("style", "visibility: hidden;");
+                e.preventDefault();
+            });
+
+            elementLink.addEventListener("click", (e) => {
+                let description = elementLink.getElementsByClassName(linkName+"-description")[0]
+                if (description == null) {
+                    return;
+                }
+                e.preventDefault();
+                let isVisible = description.style.visibility == "visible";
+                console.log("clicked", description.style.visibility);
+                if (description.hasAttribute("clicked") && isVisible) {
+                    description.removeAttribute("clicked")
+                    description.style.visibility = "hidden";
+                    console.log("hiding");
+                    return;
+                }
+                if (!isVisible) {
+                    description.style.visibility = "visible";
+                }
+                description.setAttribute("clicked", "true")
+            });
+        }
     }
 });
