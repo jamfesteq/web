@@ -1,1 +1,1 @@
-<span class="item-link" item-id='{{ .Get "id" }}'><i class="xa xa-round-bottom-flask"></i></span><a href={{ if .Get "link" }}"{{ .Get "link" }}"{{ else }}"https://play.jamfesteq.com/item/view/id={{ .Get "id" }}" target="_blank"{{ end }}>{{ .Get "name" }}</a>
+<span class="item-link" item-id='{{ .Get "id" }}'><i class="xa xa-round-bottom-flask"></i></span><a href={{ if .Get "link" }}"{{ .Get "link" }}"{{ else }}"https://play.jamfesteq.com/item/view?id={{ .Get "id" }}" target="_blank"{{ end }}>{{ .Get "name" }}</a>
