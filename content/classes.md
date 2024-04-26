@@ -10,43 +10,42 @@ images: [images/classes.png]
 
 ## Bard
 
-- Kunark 1.0 Epic: [Singing Short Sword](expansions/1-kunark/epics/brd-epic.md)
-
+- Kunark 1.0 Epic: {{<item id="20542" name="Singing Short Sword" link="/expansions/1-kunark/epics/brd-epic/">}}
 - [Bard Songs](spells/brd.md)
 
 ## Beastlord
 
-- Kunark 1.0 Epic: [Claw of the Savage Spirit](expansions/1-kunark/epics/bst-epic.md)
+- Kunark 1.0 Epic: {{<item id="8495" name="Claw of the Savage Spirit" link="/expansions/1-kunark/epics/bst-epic/">}} {{<item id="8496" name="Claw of the Savage Spirit" link="/expansions/1-kunark/epics/bst-epic/">}}
 
 - [Beastlord Spells](spells/bst.md)
 
 ## Berserker
 
-- Kunark 1.0 Epic: [Kerasian Axe of Rage](expansions/1-kunark/epics/ber-epic.md)
+- Kunark 1.0 Epic: {{<item id="68299" name="Kerasian Axe of Ire" link="/expansions/1-kunark/epics/ber-epic/">}}
 
 - [Berserker Spells](spells/ber.md)
 
 ## Cleric
 
-- Kunark 1.0 Epic: [Water Sprinkler of the Nem Ankh](expansions/1-kunark/epics/clr-epic.md)
+- Kunark 1.0 Epic: {{<item id="5532" name="Water Sprinkler of the Nem Ankh" link="/expansions/1-kunark/epics/clr-epic/">}}
 
 - [Cleric Spells](spells/clr.md)
 
 ## Druid
 
-- Kunark 1.0 Epic: [Nature Walker's Scimitar](expansions/1-kunark/epics/dru-epic.md)
+- Kunark 1.0 Epic: {{<item id="20490" name="Nature Walker's Scimitar" link="/expansions/1-kunark/epics/dru-epic/">}}
 
 - [Druid Spells](spells/dru.md)
 
 ## Enchanter
 
-- Kunark 1.0 Epic: [Staff of the Serpent](expansions/1-kunark/epics/enc-epic.md)
+- Kunark 1.0 Epic: {{<item id="10650" name="Staff of the Serpent" link="/expansions/1-kunark/epics/enc-epic/">}}
 
 - [Enchanter Spells](spells/enc.md)
 
 ## Magician
 
-- Kunark 1.0 Epic: [Orb of Master](expansions/1-kunark/epics/mag-epic.md)
+- Kunark 1.0 Epic: {{<item id="28034" name="Orb of Mastery" link="/expansions/1-kunark/epics/mag-epic/">}}
 
 - [Magician Spells](spells/mag.md)
 

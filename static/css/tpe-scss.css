@@ -880,6 +880,9 @@ div#datatable-buttons_info {
   speak: none;
   text-transform: none; }
 
+.item-link {
+  color: #58a6ff; }
+
 .item-description {
   visibility: hidden;
   position: absolute;
@@ -891,6 +894,9 @@ div#datatable-buttons_info {
   .item-description .user-select-none {
     user-select: none; }
 
+.spell-link {
+  color: #58a6ff; }
+
 .spell-description {
   visibility: hidden;
   position: absolute;
@@ -900,6 +906,20 @@ div#datatable-buttons_info {
   background-color: #192733;
   padding: none; }
   .spell-description .user-select-none {
+    user-select: none; }
+
+.npc-link {
+  color: #58a6ff; }
+
+.npc-description {
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+  color: white;
+  font-size: 12px;
+  background-color: #192733;
+  padding: none; }
+  .npc-description .user-select-none {
     user-select: none; }
 
 .item-description table {
@@ -964,6 +984,9 @@ div#datatable-buttons_info {
   speak: none;
   text-transform: none; }
 
+.item-link {
+  color: #58a6ff; }
+
 .item-description {
   visibility: hidden;
   position: absolute;
@@ -975,6 +998,9 @@ div#datatable-buttons_info {
   .item-description .user-select-none {
     user-select: none; }
 
+.spell-link {
+  color: #58a6ff; }
+
 .spell-description {
   visibility: hidden;
   position: absolute;
@@ -984,6 +1010,20 @@ div#datatable-buttons_info {
   background-color: #192733;
   padding: none; }
   .spell-description .user-select-none {
+    user-select: none; }
+
+.npc-link {
+  color: #58a6ff; }
+
+.npc-description {
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+  color: white;
+  font-size: 12px;
+  background-color: #192733;
+  padding: none; }
+  .npc-description .user-select-none {
     user-select: none; }
 
 .item-description table {

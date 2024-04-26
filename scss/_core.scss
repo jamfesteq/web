@@ -15,6 +15,10 @@ $xa-css-prefix:       xa !default;
 }
  
 
+.item-link {
+  color: #58a6ff;
+}
+
 .item-description {
   .user-select-none {
     user-select: none;
@@ -29,7 +33,31 @@ $xa-css-prefix:       xa !default;
   padding: none;
 }
 
+.spell-link {
+  color: #58a6ff;
+}
+
 .spell-description {
+  .user-select-none {
+    user-select: none;
+  }
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+  color: white;
+  font-size: 12px;
+  background-color: #192733;
+  //border-radius: 10px;
+  padding: none;
+}
+
+
+
+.npc-link {
+  color: #58a6ff;
+}
+
+.npc-description {
   .user-select-none {
     user-select: none;
   }
