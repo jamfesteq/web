@@ -1344,30 +1344,56 @@ w.addBiZoneLine('tacvi', 'txevu');
 w.addBiZoneLine('txevu', 'tacvi');
 //qvicb
 
+//OMENS OF WAR
+//wallofslaughter
+w.addBiZoneLine('anguish', 'wallofslaughter');
+w.addBiZoneLine('provinggrounds', 'wallofslaughter');
+w.addBiZoneLine('causeway', 'wallofslaughter');
+w.addZoneLine('guildhall', 'wallofslaughter', 2, 'Exit From Guild Hall');
+//bloodfields
+w.addBiZoneLine('draniksscar', 'bloodfields');
+w.addBiZoneLine('dranik', 'bloodfields');
+//draniksscar
+w.addBiZoneLine('harbingers', 'draniksscar');
+w.addBiZoneLine('causeway', 'draniksscar');
+w.addBiZoneLine('bloodfields', 'draniksscar');
+//causeway
+w.addBiZoneLine('draniksscar', 'causeway');
+w.addBiZoneLine('wallofslaughter', 'causeway');
+//provinggrounds
+w.addBiZoneLine('riftseekers', 'provinggrounds');
+w.addBiZoneLine('wallofslaughter', 'provinggrounds');
+//anguish
+w.addBiZoneLine('wallofslaughter', 'anguish');
+//riftseekers
+w.addBiZoneLine('provinggrounds', 'riftseekers');
+//harbingers
+w.addBiZoneLine('draniksscar', 'harbingers');
+//dranik
+w.addBiZoneLine('bloodfields', 'dranik');
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//DRAGONS OF NORRATH
+//broodlands
+w.addBiZoneLine('thenest', 'broodlands');
+w.addBiZoneLine('delvea', 'broodlands');
+w.addBiZoneLine('lavastorm', 'broodlands');
+w.addBiZoneLine('stillmoona', 'broodlands');
+w.addBiZoneLine('thundercrest', 'broodlands');
+//stillmoona
+w.addBiZoneLine('stillmoonb', 'stillmoona');
+w.addBiZoneLine('broodlands', 'stillmoona');
+//stillmoonb
+w.addBiZoneLine('stillmoona', 'stillmoonb');
+//thundercrest
+w.addBiZoneLine('broodlands', 'thundercrest');
+//delvea
+w.addBiZoneLine('lavastorm', 'delvea');
+w.addBiZoneLine('broodlands', 'delvea');
+w.addBiZoneLine('	delveb', 'delvea');
+//delveb
+w.addBiZoneLine('delvea', 'delveb');
+//thenest
+w.addBiZoneLine('broodlands', 'thenest');
 //Guild Lobby
 w.addBiZoneLine('guildhall', 'guildlobby');
 w.addBiZoneLine('nedaria', 'guildlobby');
@@ -1399,6 +1425,30 @@ w.addZoneLine('guildhall', 'twilight', 2, 'give XYZ stone to zone to');
 w.addZoneLine('guildhall', 'eastkorlach', 2, 'give XYZ stone to zone to');
 w.addZoneLine('guildhall', 'wallofslaughter', 2, 'give XYZ stone to zone to');
 
+//DEPTHS OF DARKHOLLOW
+//illsalin
+w.addBiZoneLine('eastkorlach', 'illsalin');
+//dreadspire
+w.addBiZoneLine('drachnidhive', 'dreadspire');
+w.addBiZoneLine('westkorlach', 'dreadspire');
+//drachnidhive
+w.addBiZoneLine('dreadspire', 'drachnidhive');
+w.addBiZoneLine('westkorlach', 'drachnidhive');
+//westkorlach
+w.addBiZoneLine('westkorlach', 'drachnidhive');
+//eastkorlach
+w.addBiZoneLine('dreadspire', 'eastkorlach');
+w.addBiZoneLine('drachnidhive', 'eastkorlach');
+w.addBiZoneLine('eastkorlach', 'eastkorlach');
+//corathus
+w.addBiZoneLine('nektulosa', 'corathus');
+w.addBiZoneLine('eastkorlach', 'corathus');
+//nektulosa
+w.addBiZoneLine('poknowledge', 'nektulosa');
+w.addBiZoneLine('commonlands', 'nektulosa');
+w.addBiZoneLine('corathus', 'nektulosa');
+w.addBiZoneLine('neriaka', 'nektulosa');
+w.addBiZoneLine('eastkorlach', 'nektulosa');
 
 
 w.addZoneLine('airplane', 'ecommons', 2, 'jump off island to');
