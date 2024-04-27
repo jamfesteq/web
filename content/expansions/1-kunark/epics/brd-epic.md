@@ -6,8 +6,8 @@ bookHidden: true
 
 ### Maestro's Symphony Page 24 Top
 
-- Talk to [[Konia Swiftfoot]] in [[Western Karana]], receive a [[Torch of Misty]]
-- Give the torch to [[Fajio Knejo]] in [[Misty Thicket]], receive [[Torch of Ro]]
+- Talk to [[Konia Swiftfoot]] in {{<zone id="301" name="Western Karana">}}, receive a [[Torch of Misty]]
+- Give the torch to [[Fajio Knejo]] in {{<zone id="225" name="Misty Thicket">}}, receive [[Torch of Ro]]
 - Give the torch to [[Andad Filla]] in [[Southern Desert of Ro|South Ro]], receive [[Torch of Rathe]]
 - Give the torch to [[Misty Tekchita]] in [[Lake Rathetear]], receive ring [[Proof of Speed]]
 - Give the ring to [[Konia Swiftfoot]] in [[Western Karana|W Karana]], receive [[Maestro's Symphony Page 24 Top]] 
