@@ -36,7 +36,10 @@
 
   registerHandlers((e) => {
     const term = e.target.value
-    const lunrResp = lunrSearch(term)
+    let lunrResp = lunrSearch(term)
+    if (lunrResp.length < 3) {
+      lunrResp = lunrSearch("*"+term+"*")
+    }
     const searchResults = contentIndex.search(term, [
       {
         field: "content",
@@ -106,7 +109,7 @@ xhr.send()
 
 function lunrSearch(query) {
     let response = []
-    let results = idx.search("*"+query+"*")
+    let results = idx.search(query)
     for (let i = 0; i < results.length; i++) {
         let result = results[i]
         response[i] = searchDatabase[result.ref]
